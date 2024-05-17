@@ -1,4 +1,4 @@
-<section class="footer-section px-0">
+<section class="footer-section px-0 py-5">
   <div class="container">
     <div class="row g-4">
       <div class="col-md-4">
