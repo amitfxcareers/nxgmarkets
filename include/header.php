@@ -54,10 +54,10 @@
                                                       <a href="account-type.php">Account Types</a>
                                                    </li>
                                                    <li class="col-12 mb-2">
-                                                      <a href="careers.php">Funding</a>
+                                                      <a href="funding.php">Funding</a>
                                                       </li>
                                                    <li class="col-12 mb-2">
-                                                      <a href="contact-us.php">Safety of Funds</a>
+                                                      <a href="safety-of-funds.php">Safety of Funds</a>
                                                       </li>
                                                 </ol>
                                              </div>
@@ -71,25 +71,22 @@
                                              <div class="col-lg-12 px-0">
                                                 <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
                                                    <li class="col-12 mb-2">
-                                                      <a href="about-us.php">Forex</a>
+                                                      <a href="forex.php">Forex</a>
                                                    </li>
                                                    <li class="col-12 mb-2">
                                                       <a href="commodities.php">Commodities</a>
                                                       </li>
                                                    <li class="col-12 mb-2">
-                                                      <a href="contact-us.php">Indices</a>
+                                                      <a href="indices.php">Indices</a>
                                                       </li>
                                                       <li class="col-12 mb-2">
-                                                      <a href="contact-us.php">Shares</a>
+                                                      <a href="stocks.php">Shares</a>
                                                       </li>
                                                       <li class="col-12 mb-2">
-                                                      <a href="contact-us.php">Cryptos</a>
+                                                      <a href="cryptocurrencies.php">Cryptos</a>
                                                       </li>
                                                       <li class="col-12 mb-2">
-                                                      <a href="contact-us.php">Indices</a>
-                                                      </li>
-                                                      <li class="col-12 mb-2">
-                                                      <a href="contact-us.php">Trading Conditions</a>
+                                                      <a href="trading-conditions.php">Trading Conditions</a>
                                                       </li>
                                                 </ol>
                                              </div>
@@ -103,13 +100,13 @@
                                              <div class="col-lg-12 px-0">
                                                 <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
                                                    <li class="col-12 mb-2">
-                                                      <a href="about-us.php">Meta Trader 5</a>
+                                                      <a href="mt5.php">Meta Trader 5</a>
                                                    </li>
                                                    <li class="col-12 mb-2">
-                                                      <a href="careers.php">cTrader</a>
+                                                      <a href="ctrader.php">cTrader</a>
                                                       </li>
                                                    <li class="col-12 mb-2">
-                                                      <a href="contact-us.php">CopyTrading</a>
+                                                      <a href="copytrading.php">CopyTrading</a>
                                                       </li>
                                                 </ol>
                                              </div>
@@ -162,7 +159,7 @@
                                              <div class="col-lg-4">
                                                 <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
                                                    <li class="col-12 mb-2">
-                                                      <a href="about-us.php">About us</a>
+                                                      <a href="about.php">About us</a>
                                                    </li>
                                                    <!-- <li class="col-12 mb-2">
                                                       <a href="careers.php">Careers</a>
