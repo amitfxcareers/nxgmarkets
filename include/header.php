@@ -51,7 +51,7 @@
                                              <div class="col-lg-12 px-0">
                                                 <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
                                                    <li class="col-12 mb-2">
-                                                      <a href="about-us.php">Account Types</a>
+                                                      <a href="account-type.php">Account Types</a>
                                                    </li>
                                                    <li class="col-12 mb-2">
                                                       <a href="careers.php">Funding</a>
@@ -74,7 +74,7 @@
                                                       <a href="about-us.php">Forex</a>
                                                    </li>
                                                    <li class="col-12 mb-2">
-                                                      <a href="careers.php">Commodities</a>
+                                                      <a href="commodities.php">Commodities</a>
                                                       </li>
                                                    <li class="col-12 mb-2">
                                                       <a href="contact-us.php">Indices</a>
