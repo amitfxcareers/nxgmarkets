@@ -1,3 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root {
+  --purple: #B52C61;
+  --white: #ffffff;
+  --black: #000;
+}
+body{
+    font-family: "Manrope", Sans-serif;
+}
+.text-primary{
+    color: var(--purple)!important;
+}
+
+.btn-warning{
+    background: var(--purple)!important;
+    border: 1px ;
+}
+.bttn-primary{
+    color: var(--purple);
+    border: 1px solid var(--purple);
+    border-radius: 50px;
+    padding: 10px 40px;
+    text-decoration: none;
+}
+.bttn-primary:hover{
+    background: var(--purple);
+    color: var(--white);
+}
+.btttn-secondary{
+    background: var(--purple);
+    padding: 10px 40px!important;
+    border-radius: 50px;
+    border: 1px solid var(--purple);
+    display: inline-block;
+/*    margin-bottom: 10px;*/
+}
+.btttn-primary{
+    background: var(--white);
+    padding: 10px 40px!important;
+    border-radius: 50px;
+    color: var(--purple)!important;
+}
+.btttn-primary:hover{
+    background: transparent;
+    border: 1px solid var(--white);
+    padding: 10px 40px!important;
+    border-radius: 50px;
+    color: var(--white)!important;
+}
+.btttn-secondary:hover{
+    background: var(--white);
+    padding: 10px 40px!important;
+    border-radius: 50px;
+    color: var(--purple)!important;
+}
+.bttn-secondary{
+    background: var(--purple);
+    border: 1px solid var(--purple);
+    border-radius: 50px;
+    padding: 10px 40px;
+    color: var(--white);
+    text-decoration: none;
+}
+.bttn-secondary:hover{
+    background: transparent;
+    color: var(--purple);
+    border: 1px solid var(--purple);
+}
+
+
 /*Menu*/
 header#StickyHeader{
     box-shadow: 0px 0px 4px rgba(000, 000, 000, 0.15)
@@ -59,8 +132,8 @@ header#StickyHeader{
 }
 
 .dropdown-menu .h6 {
-    font-weight: 600;
-    color: #f8c118;
+    font-weight: 800;
+    color: var(--purple);
 }
 
 .navbar-expand-lg .navbar-nav .dropdown-menu {
