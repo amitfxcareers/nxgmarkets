@@ -1,0 +1,10 @@
+@media(max-width:1199.98px) {
+    .request-quote {
+        display: none;
+    }
+}
+@media(min-width:1200px) {
+    .mobile-menu-toggle {
+        display: none;
+    }
+}
