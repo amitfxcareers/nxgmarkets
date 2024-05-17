@@ -1,8 +1,10 @@
 <section class="footer-section px-0 py-5">
   <div class="container">
-    <div class="row g-4">
-      <div class="col-md-4">
+    <div class="row">
+      <div class="col-lg-6">
         <img src="images/nxgmarkets.webp" class='footer-logo' height="80px" />
+      </div>
+      <div class="col-lg-6">
         <div class="social-media-icon">
           <a href="#"> <i class="fa-brands fa-facebook"></i></a>
           <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
@@ -12,6 +14,8 @@
           <a href="#"> <i class="fa-brands fa-youtube"></i></a>
         </div>
       </div>
+    </div>
+    <div class="row g-4 mt-4">
       <div class="col-md-2">
         <div class="col-width">
           <h6>About company</h6>
