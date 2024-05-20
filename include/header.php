@@ -55,10 +55,10 @@
                                                    </li>
                                                    <li class="col-12 mb-2">
                                                       <a href="funding.php">Funding</a>
-                                                      </li>
+                                                   </li>
                                                    <li class="col-12 mb-2">
                                                       <a href="safety-of-funds.php">Safety of Funds</a>
-                                                      </li>
+                                                   </li>
                                                 </ol>
                                              </div>
                                           </div>
@@ -75,19 +75,19 @@
                                                    </li>
                                                    <li class="col-12 mb-2">
                                                       <a href="commodities.php">Commodities</a>
-                                                      </li>
+                                                   </li>
                                                    <li class="col-12 mb-2">
                                                       <a href="indices.php">Indices</a>
-                                                      </li>
-                                                      <li class="col-12 mb-2">
+                                                   </li>
+                                                   <li class="col-12 mb-2">
                                                       <a href="stocks.php">Shares</a>
-                                                      </li>
-                                                      <li class="col-12 mb-2">
+                                                   </li>
+                                                   <li class="col-12 mb-2">
                                                       <a href="cryptocurrencies.php">Cryptos</a>
-                                                      </li>
-                                                      <li class="col-12 mb-2">
+                                                   </li>
+                                                   <li class="col-12 mb-2">
                                                       <a href="trading-conditions.php">Trading Conditions</a>
-                                                      </li>
+                                                   </li>
                                                 </ol>
                                              </div>
                                           </div>
@@ -104,10 +104,10 @@
                                                    </li>
                                                    <li class="col-12 mb-2">
                                                       <a href="ctrader.php">cTrader</a>
-                                                      </li>
+                                                   </li>
                                                    <li class="col-12 mb-2">
                                                       <a href="copytrading.php">CopyTrading</a>
-                                                      </li>
+                                                   </li>
                                                 </ol>
                                              </div>
                                           </div>
@@ -152,42 +152,63 @@
                               </button>
                               <div class="h-vh-80 overflow-y-auto overflow-x-hidden">
                                  <ul class="list-unstyled row gx-5 gy-4">
-                                    <div class="col-lg-12">
-                                       <div class="h6 text-uppercase mb-4">ABOUT YaPrime</div>
+                                    <div class="col-lg-3">
+                                       <div class="h6 text-uppercase mb-4">Accounts</div>
                                        <div class="container">
                                           <div class="row">
-                                             <div class="col-lg-4">
+                                             <div class="col-lg-12 px-0">
                                                 <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
                                                    <li class="col-12 mb-2">
-                                                      <a href="about.php">About us</a>
+                                                      <a href="trading-calculator.php">Trading Calculators</a>
                                                    </li>
-                                                   <!-- <li class="col-12 mb-2">
-                                                      <a href="careers.php">Careers</a>
-                                                      </li> -->
-                                                   <!-- <li class="col-12 mb-2">
-                                                      <a href="contact-us.php">Contact Us</a>
-                                                      </li> -->
+                                                   <li class="col-12 mb-2">
+                                                      <a href="trading-signals.php">Trading Signals</a>
+                                                   </li>
+                                                   <li class="col-12 mb-2">
+                                                      <a href="autochartist.php">Autochartist</a>
+                                                   </li>
                                                 </ol>
                                              </div>
-                                             <div class="col-lg-4">
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-lg-3">
+                                       <div class="h6 text-uppercase mb-4">Education</div>
+                                       <div class="container">
+                                          <div class="row">
+                                             <div class="col-lg-12 px-0">
                                                 <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
                                                    <li class="col-12 mb-2">
-                                                      <a href="why-choose-us.php">Why Choose Us</a>
+                                                      <a href="videos.php">Videos</a>
                                                    </li>
-                                                   <!-- <li class="col-12 mb-2">
-                                                      <a href="#">Portfolio</a>
-                                                      </li> -->
-                                                   <!-- <li class="col-12 mb-2">
-                                                      <a href="our-team.php">Meet Our Team</a>
-                                                      </li> -->
+                                                   <li class="col-12 mb-2">
+                                                      <a href="webinars.php">Webinars</a>
+                                                   </li>
+                                                   <li class="col-12 mb-2">
+                                                      <a href="seminars.php">Seminars</a>
+                                                   </li>
                                                 </ol>
                                              </div>
-                                             <div class="col-lg-4">
-                                                <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
-                                                   <!-- <li class="col-12 mb-2">
-                                                      <a href="blog.php">Our Blog</a>
-                                                      </li> -->
-                                                </ol>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-lg-3">
+                                    </div>
+                                    <div class="col-lg-3">
+                                       <div class="h6 text-uppercase mb-4">ENHANCE YOUR TRADING WITH SOPHISTICATED TOOLS</div>
+                                       <div class="container">
+                                          <div class="row">
+                                             <div class="col-lg-12 px-0">
+                                                <p>
+                                                   Join a multi-body regulated broker that prioritizes your trading needs. Discover our commitment to transparency, innovative technology, and outstanding service.
+                                                </p>
+                                                <a href="https://my.nxgmarkets.com/auth/register" class="btttn-secondary">Start Trading</a><br>
+                                                <p>
+                                                   <small>Trading involves a high level of risk</small>
+                                                </p>
+                                                <p>
+                                                   <a href="https://my.nxgmarkets.com/auth/register" class="btttn-primary">Try Free Demo</a>
+                                                </p>
                                              </div>
                                           </div>
                                        </div>
@@ -212,27 +233,51 @@
                               </button>
                               <div class="h-vh-80 overflow-y-auto overflow-x-hidden">
                                  <ul class="list-unstyled row gx-5 gy-4">
-                                    <div class="col-lg-12">
-                                       <div class="h6 text-uppercase mb-4">ABOUT YaPrime</div>
+                                    <div class="col-lg-3">
+                                       <div class="h6 text-uppercase mb-4">Partners</div>
                                        <div class="container">
                                           <div class="row">
-                                             <div class="col-lg-4">
+                                             <div class="col-lg-12 px-0">
                                                 <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
                                                    <li class="col-12 mb-2">
-                                                      <a href="about-us.php">About us</a>
+                                                      <a href="nxgmarketsaffiliates.php">Affiliate Program</a>
+                                                   </li>
+                                                   <li class="col-12 mb-2">
+                                                      <a href="nxgmarkets-ibs.php">Introducing Broker (IB)</a>
+                                                   </li>
+                                                   <li class="col-12 mb-2">
+                                                      <a href="advantages.php">Advantages</a>
+                                                   </li>
+                                                   <li class="col-12 mb-2">
+                                                      <a href="marketing-tools.php">Marketing Tools</a>
+                                                   </li>
+                                                   <li class="col-12 mb-2">
+                                                      <a href="commission-structure.php">Commission structure</a>
                                                    </li>
                                                 </ol>
                                              </div>
-                                             <div class="col-lg-4">
-                                                <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
-                                                   <li class="col-12 mb-2">
-                                                      <a href="why-choose-us.php">Why Choose Us</a>
-                                                   </li>
-                                                </ol>
-                                             </div>
-                                             <div class="col-lg-4">
-                                                <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
-                                                </ol>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-lg-3">
+                                    </div>
+                                    <div class="col-lg-3">
+                                    </div>
+                                    <div class="col-lg-3">
+                                       <div class="h6 text-uppercase mb-4">JOIN A REWARDING PARTNERSHIP WITH NXG MARKETS</div>
+                                       <div class="container">
+                                          <div class="row">
+                                             <div class="col-lg-12 px-0">
+                                                <p>
+                                                   Become a part of our extensive partner network. Enjoy competitive commission structures and exceptional support as an Affiliate or Introducing Broker.
+                                                </p>
+                                                <a href="https://my.nxgmarkets.com/auth/register" class="btttn-secondary">Start Trading</a><br>
+                                                <p>
+                                                   <small>Trading involves a high level of risk</small>
+                                                </p>
+                                                <p>
+                                                   <a href="https://my.nxgmarkets.com/auth/register" class="btttn-primary">Try Free Demo</a>
+                                                </p>
                                              </div>
                                           </div>
                                        </div>
@@ -257,27 +302,42 @@
                               </button>
                               <div class="h-vh-80 overflow-y-auto overflow-x-hidden">
                                  <ul class="list-unstyled row gx-5 gy-4">
-                                    <div class="col-lg-12">
-                                       <div class="h6 text-uppercase mb-4">ABOUT YaPrime</div>
+                                    <div class="col-lg-3">
+                                       <div class="h6 text-uppercase mb-4">Our Promotions</div>
                                        <div class="container">
                                           <div class="row">
-                                             <div class="col-lg-4">
+                                             <div class="col-lg-12 px-0">
                                                 <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
                                                    <li class="col-12 mb-2">
-                                                      <a href="about-us.php">About us</a>
+                                                      <a href="refer-and-earn.php">Refer And Earn</a>
+                                                   </li>
+                                                   <li class="col-12 mb-2">
+                                                      <a href="refer-and-shop.php">Refer and Shop</a>
                                                    </li>
                                                 </ol>
                                              </div>
-                                             <div class="col-lg-4">
-                                                <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
-                                                   <li class="col-12 mb-2">
-                                                      <a href="why-choose-us.php">Why Choose Us</a>
-                                                   </li>
-                                                </ol>
-                                             </div>
-                                             <div class="col-lg-4">
-                                                <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
-                                                </ol>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-lg-3">
+                                    </div>
+                                    <div class="col-lg-3">
+                                    </div>
+                                    <div class="col-lg-3">
+                                       <div class="h6 text-uppercase mb-4">BOOST YOUR TRADING WITH EXCLUSIVE PROMOTIONS</div>
+                                       <div class="container">
+                                          <div class="row">
+                                             <div class="col-lg-12 px-0">
+                                                <p>
+                                                   Explore our latest offers and promotions to elevate your trading experience. Enjoy special bonuses, rebates, and much more.
+                                                </p>
+                                                <a href="https://my.nxgmarkets.com/auth/register" class="btttn-secondary">Start Trading</a><br>
+                                                <p>
+                                                   <small>Trading involves a high level of risk</small>
+                                                </p>
+                                                <p>
+                                                   <a href="https://my.nxgmarkets.com/auth/register" class="btttn-primary">Try Free Demo</a>
+                                                </p>
                                              </div>
                                           </div>
                                        </div>
@@ -302,27 +362,72 @@
                               </button>
                               <div class="h-vh-80 overflow-y-auto overflow-x-hidden">
                                  <ul class="list-unstyled row gx-5 gy-4">
-                                    <div class="col-lg-12">
-                                       <div class="h6 text-uppercase mb-4">ABOUT YaPrime</div>
+                                    <div class="col-lg-3">
+                                       <div class="h6 text-uppercase mb-4">Who We Are</div>
                                        <div class="container">
                                           <div class="row">
-                                             <div class="col-lg-4">
+                                             <div class="col-lg-12 px-0">
                                                 <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
                                                    <li class="col-12 mb-2">
-                                                      <a href="about-us.php">About us</a>
+                                                      <a href="about.php">About Us</a>
+                                                   </li>
+                                                   <li class="col-12 mb-2">
+                                                      <a href="#">Mission, Vision & Values</a>
+                                                   </li>
+                                                   <li class="col-12 mb-2">
+                                                      <a href="careers.php">Careers</a>
+                                                   </li>
+                                                   <li class="col-12 mb-2">
+                                                      <a href="contact-us.php">Contact Us</a>
                                                    </li>
                                                 </ol>
                                              </div>
-                                             <div class="col-lg-4">
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-lg-3">
+                                       <div class="h6 text-uppercase mb-4">Why Forex</div>
+                                       <div class="container">
+                                          <div class="row">
+                                             <div class="col-lg-12 px-0">
                                                 <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
                                                    <li class="col-12 mb-2">
-                                                      <a href="why-choose-us.php">Why Choose Us</a>
+                                                      <a href="why-trade-forex.php">Why Trade Forex</a>
                                                    </li>
                                                 </ol>
                                              </div>
-                                             <div class="col-lg-4">
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-lg-3">
+                                       <div class="h6 text-uppercase mb-4">Regulations</div>
+                                       <div class="container">
+                                          <div class="row">
+                                             <div class="col-lg-12 px-0">
                                                 <ol class="list-unstyled row gx-0 mx-0 mb-3 drop-inner-links">
+                                                   <li class="col-12 mb-2">
+                                                      <a href="regulations-licenses.php">Regulations & Licenses</a>
+                                                   </li>
                                                 </ol>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-lg-3">
+                                       <div class="h6 text-uppercase mb-4">EXPERIENCE THE NXG MARKETS DIFFERENCE</div>
+                                       <div class="container">
+                                          <div class="row">
+                                             <div class="col-lg-12 px-0">
+                                                <p>
+                                                   Join a multi-body regulated broker that prioritizes your trading needs. Discover our commitment to transparency, innovative technology, and outstanding service.
+                                                </p>
+                                                <a href="https://my.nxgmarkets.com/" class="btttn-secondary">Login</a><br>
+                                                <p>
+                                                   <small>Trading involves a high level of risk</small>
+                                                </p>
+                                                <p>
+                                                   <a href="https://my.nxgmarkets.com/auth/register" class="btttn-primary">Try Free Demo</a>
+                                                </p>
                                              </div>
                                           </div>
                                        </div>
@@ -333,12 +438,12 @@
                         </div>
                      </li>
                      <li class="nav-item">
-                        <a href="blogs.php" class="nav-link" role="button" aria-expanded="false">
+                        <a href="https://education.nxgmarkets.com/" class="nav-link" role="button" aria-expanded="false">
                         Education
                         </a>
                      </li>
                      <li class="nav-item">
-                        <a href="blogs.php" class="nav-link" role="button" aria-expanded="false">
+                        <a href="blog.php" class="nav-link" role="button" aria-expanded="false">
                         Blog
                         </a>
                      </li>
@@ -357,23 +462,141 @@
             <div class="offcanvas-body p-0">
                <div class="mobile-menu-wrap">
                   <ul class="mobile-menu-list">
-                     <li><a href="index.php" class="menu-link">Home</a></li>
+                     <li>
+                        <a href="" class="menu-link moblie-dropdwon">Trading <i class="fa-solid fa-chevron-down"></i></a>
+                        <div class="dropdown-mb-menu">
+                           <ul>
+                              <li>
+                                 <a href="account-type.php">Account Types</a>
+                              </li>
+                              <li>
+                                 <a href="funding.php">Funding</a>
+                              </li>
+                              <li>
+                                 <a href="safety-of-funds.php">Safety of Funds</a>
+                              </li>
+                              <li>
+                                 <a href="forex.php">Forex</a>
+                              </li>
+                              <li>
+                                 <a href="commodities.php">Commodities</a>
+                              </li>
+                              <li>
+                                 <a href="indices.php">Indices</a>
+                              </li>
+                              <li>
+                                 <a href="stocks.php">Shares</a>
+                              </li>
+                              <li>
+                                 <a href="cryptocurrencies.php">Cryptos</a>
+                              </li>
+                              <li>
+                                 <a href="trading-conditions.php">Trading Conditions</a>
+                              </li>
+                              <li>
+                                 <a href="mt5.php">Meta Trader 5</a>
+                              </li>
+                              <li>
+                                 <a href="ctrader.php">cTrader</a>
+                              </li>
+                              <li>
+                                 <a href="copytrading.php">CopyTrading</a>
+                              </li>
+                           </ul>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="" class="menu-link moblie-dropdwon">Tools <i class="fa-solid fa-chevron-down"></i></a>
+                        <div class="dropdown-mb-menu">
+                           <ul>
+                              <li>
+                                 <a href="trading-calculator.php">Trading Calculators</a>
+                              </li>
+                              <li>
+                                 <a href="trading-signals.php">Trading Signals</a>
+                              </li>
+                              <li>
+                                 <a href="autochartist.php">Autochartist</a>
+                              </li>
+                              <li>
+                                 <a href="videos.php">Videos</a>
+                              </li>
+                              <li>
+                                 <a href="webinars.php">Webinars</a>
+                              </li>
+                              <li>
+                                 <a href="seminars.php">Seminars</a>
+                              </li>
+                           </ul>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="" class="menu-link moblie-dropdwon">Partners <i class="fa-solid fa-chevron-down"></i></a>
+                        <div class="dropdown-mb-menu">
+                           <ul>
+                              <li>
+                                 <a href="nxgmarketsaffiliates.php">Affiliate Program</a>
+                              </li>
+                              <li>
+                                 <a href="nxgmarkets-ibs.php">Introducing Broker (IB)</a>
+                              </li>
+                              <li>
+                                 <a href="advantages.php">Advantages</a>
+                              </li>
+                              <li>
+                                 <a href="marketing-tools.php">Marketing Tools</a>
+                              </li>
+                              <li>
+                                 <a href="commission-structure.php">Commission structure</a>
+                              </li>
+                           </ul>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="" class="menu-link moblie-dropdwon">Promos <i class="fa-solid fa-chevron-down"></i></a>
+                        <div class="dropdown-mb-menu">
+                           <ul>
+                              <li>
+                                 <a href="refer-and-earn.php">Refer And Earn</a>
+                              </li>
+                              <li>
+                                 <a href="refer-and-shop.php">Refer and Shop</a>
+                              </li>
+                           </ul>
+                        </div>
+                     </li>
                      <li>
                         <a href="" class="menu-link moblie-dropdwon">About <i class="fa-solid fa-chevron-down"></i></a>
                         <div class="dropdown-mb-menu">
                            <ul>
-                              <li><a href="about-us.php">About Us</a></li>
-                              <li><a href="why-choose-us.php">Why Choose Us</a></li>
+                              <li>
+                                 <a href="about.php">About Us</a>
+                              </li>
+                              <li>
+                                 <a href="#">Mission, Vision & Values</a>
+                              </li>
+                              <li>
+                                 <a href="careers.php">Careers</a>
+                              </li>
+                              <li>
+                                 <a href="contact-us.php">Contact Us</a>
+                              </li>
+                              <li>
+                                 <a href="why-trade-forex.php">Why Trade Forex</a>
+                              </li>
+                              <li>
+                                 <a href="regulations-licenses.php">Regulations & Licenses</a>
+                              </li>
                            </ul>
                         </div>
                      </li>
-                     <li><a href="liquidity.php" class="menu-link">Liquidity</a></li>
-                     <li><a href="broker-setup.php" class="menu-link"> Broker Setup</a> </li>
-                     <li><a href="institutional-clients.php" class="menu-link">Institutional Clients </a></li>
-                     <li><a href="metatrader-support.php" class="menu-link">Metatrader Support</a></li>
-                     <li><a href="blog.php" class="menu-link">Blog</a></li>
-                     <li> <a href="contact-us.php" class="menu-link">Contact us</a></li>
-                     <li class="ps-2">
+                     <li>
+                        <a href="https://education.nxgmarkets.com/" class="menu-link">Education</a>
+                     </li>
+                     <li>
+                        <a href="blog.php" class="menu-link">Blog</a>
+                     </li>
+                     <li class="ps-2 mt-4">
                         <a href="https://my.nxgmarkets.com/" class=" bttn-primary">Login</a>
                         <a href="#" class=" bttn-secondary">Signup</a>
                      </li>
