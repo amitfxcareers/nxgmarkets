@@ -1,5 +1,41 @@
+<section class="newsletter_section">
+  <div class="container">
+    <div class="row mb-4">
+      <div class="col-md-12">
+        <h3 class="regulation_heading text-center">Subscribe to our Newsletter</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-7">
+        <img src="images/refer-and-earn.png" class="img-fluid">
+      </div>
+      <div class="col-md-5">
+        <iframe style="height: 100%; width: 100%;" src="https://reports.autochartist.com/signup/market-reports?bid=898&user=email&demo=0&locale=en&expire=1759356000&token=186c5230aa31539b6560a2ddb0596162"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="footer-section">
   <div class="container">
+    <div class="row mb-4 align-items-center">
+      <div class="col-md-5">
+        <h3 class="regulation_heading">Regulations & Licenses</h3>
+      </div>
+      <div class="col-md-7">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-md-6">
+              <img src="images/asic-logo.png" class="img-fluid">
+            </div>
+            <div class="col-md-6">
+              <img src="images/mwali.png" class="img-fluid last-image">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr class="footer_hr" />
     <div class="row">
       <div class="col-lg-6">
         <img src="images/nxgmarkets.webp" class='footer-logo' height="80px" />
@@ -213,8 +249,7 @@
     </div>
     <hr class="footer_hr" />
     <p>
-    	NXG Markets Pty Ltd, an ASIC regulated for the general financial product advice (ABN 93 623 948 998, AFS License No. 001308207)
-		NXG Markets Limited is regulated by the MISA (MWALI International Services Authority) for the brokerage services (<a href="https://mwaliregistrar.com/list_of_entities/authorised_brokerage_companies">License T2022091</a>).<br>
+    	NXG Markets Pty Ltd, an ASIC regulated for the general financial product advice (ABN 93 623 948 998, AFS License No. 001308207) NXG Markets Limited is regulated by the MISA (MWALI International Services Authority) for the brokerage services (<a class="risk_disclosure" href="https://mwaliregistrar.com/list_of_entities/authorised_brokerage_companies">License T2022091</a>).<br>
 		<b>Physical Address</b>: #806, AL SERKAL BUILDING 2 PORT SAEED DUBAI U.A.E.<br>
 		<b>Registered Address</b>: BONOVO ROAD – FOMBONI ISLAND OF MOHELI – COMOROS UNION
     </p>
@@ -225,7 +260,7 @@
     	<b>Risk statement</b>: An investment in derivatives may mean investors may lose an amount even greater than their original investment. Anyone wishing to invest in any of the products mentioned here should seek their own financial or professional advice. Trading of securities, forex, stock market, commodities, options and futures may not be suitable for everyone and involves the risk of losing part or all of your money. Trading in the financial markets has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the markets. Don’t invest and trade with money which you can’t afford to lose. Forex Trading are not allowed in some countries, before investing your money, make sure whether your country is allowing this or not. You are strongly advised to obtain independent financial, legal and tax advice before proceeding with any currency or spot metals trade. Nothing in this site should be read or construed as constituting advice on the part of NXG Markets Limited or any of its affiliates, directors, officers or employees.
     </p>
     <p>
-    	<b>Restricted Regions</b>: NXG Markets Limited does not provide services for citizens/residents of the United States, Cuba, Iraq, Myanmar, North Korea & Sudan. The services of NXG Markets Limited are not intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation. <a href="risk-disclosure.php">Risk disclosure</a>
+    	<b>Restricted Regions</b>: NXG Markets Limited does not provide services for citizens/residents of the United States, Cuba, Iraq, Myanmar, North Korea & Sudan. The services of NXG Markets Limited are not intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation. <a class="risk_disclosure" href="risk-disclosure.php">Risk disclosure</a>
     </p>
     <hr class="footer_hr" />
     <div class="row">
