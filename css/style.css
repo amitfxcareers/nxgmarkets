@@ -302,6 +302,9 @@ header .container-fluid {
 /*Menu*/
 
 /*Footer*/
+.footer-section{
+    padding: 50px 50px 0;
+}
 .social-media-icon{
     float: right;
 }
@@ -316,5 +319,25 @@ header .container-fluid {
     background: var(--black);
     transition-duration: .3s;
 }
-
+.footer-links h6{
+    font-weight: 800;
+    font-size: 18px;
+}
+.footer-links ul{
+    padding: 0;
+}
+.footer-links li{
+    list-style: none;
+}
+.footer-links li a{
+    color: var(--black);
+    text-decoration: none;
+}
+.copyrights{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+}
 /*Footer*/

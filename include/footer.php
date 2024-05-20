@@ -1,4 +1,4 @@
-<section class="footer-section px-0 py-5">
+<section class="footer-section">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -17,7 +17,7 @@
     </div>
     <div class="row g-4 mt-4">
       <div class="col-md-3">
-        <div class="col-width">
+        <div class="footer-links">
           <h6>Accounts</h6>
           <ul>
             <li>
@@ -39,7 +39,7 @@
         </div>
       </div>
       <div class="col-md-3">
-        <div class="col-width">
+        <div class="footer-links">
           <h6>Instruments</h6>
           <ul>
             <li>
@@ -76,7 +76,7 @@
         </div>
       </div>
       <div class="col-md-3">
-        <div class="col-width">
+        <div class="footer-links">
           <h6>Trading Platforms</h6>
           <ul>
             <li>
@@ -98,7 +98,7 @@
         </div>
       </div>
       <div class="col-md-3">
-        <div class="col-width">
+        <div class="footer-links">
           <h6>About</h6>
           <ul>
             <li>
@@ -135,7 +135,7 @@
         </div>
       </div>
       <div class="col-md-3">
-        <div class="col-width">
+        <div class="footer-links">
           <h6>Education</h6>
           <ul>
             <li>
@@ -157,7 +157,7 @@
         </div>
       </div>
       <div class="col-md-3">
-        <div class="col-width">
+        <div class="footer-links">
           <h6>Partners</h6>
           <ul>
             <li>
@@ -189,7 +189,7 @@
         </div>
       </div>
       <div class="col-md-3">
-        <div class="col-width">
+        <div class="footer-links">
           <h6>Trading Tools</h6>
           <ul>
             <li>
