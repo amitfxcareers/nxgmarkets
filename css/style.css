@@ -300,3 +300,21 @@ header .container-fluid {
 
 }
 /*Menu*/
+
+/*Footer*/
+.social-media-icon{
+    float: right;
+}
+.social-media-icon i{
+    padding: 10px;
+    background: var(--purple);
+    color: var(--white);
+    border-radius: 50%;
+    transition-duration: .3s;
+}
+.social-media-icon i:hover{
+    background: var(--black);
+    transition-duration: .3s;
+}
+
+/*Footer*/

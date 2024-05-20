@@ -16,23 +16,99 @@
       </div>
     </div>
     <div class="row g-4 mt-4">
-      <div class="col-md-2">
+      <div class="col-md-3">
         <div class="col-width">
-          <h6>About company</h6>
+          <h6>Accounts</h6>
           <ul>
             <li>
-              <a href="about-us.php">
+              <a href="account-type.php">
+                Account Type
+              </a>
+            </li>
+            <li>
+              <a href="funding.php">
+                Funding
+              </a>
+            </li>
+            <li>
+              <a href="safety-of-funds.php">
+                Safety of Funds
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="col-width">
+          <h6>Instruments</h6>
+          <ul>
+            <li>
+              <a href="forex.php">
+                Forex
+              </a>
+            </li>
+            <li>
+              <a href="commodities.php">
+                Commodities
+              </a>
+            </li>
+            <li>
+              <a href="indices.php">
+                Indices
+              </a>
+            </li>
+            <li>
+              <a href="stocks.php">
+                Shares
+              </a>
+            </li>
+            <li>
+              <a href="cryptocurrencies.php">
+                Cryptos
+              </a>
+            </li>
+            <li>
+              <a href="trading-conditions.php">
+                Trading Conditions
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="col-width">
+          <h6>Trading Platforms</h6>
+          <ul>
+            <li>
+              <a href="mt5.php">
+                Meta Trader 5
+              </a>
+            </li>
+            <li>
+              <a href="ctrader.php">
+                cTrader
+              </a>
+            </li>
+            <li>
+              <a href="copytrading.php">
+                Copy Trading
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="col-width">
+          <h6>About</h6>
+          <ul>
+            <li>
+              <a href="about.php">
                 About us
               </a>
             </li>
             <li>
-              <a href="why-choose-us.php">
-                Why choose us
-              </a>
-            </li>
-            <li>
-              <a href="blog.php">
-                Our Blog
+              <a href="#">
+                Mission, Vision & Values
               </a>
             </li>
             <li>
@@ -40,62 +116,101 @@
                 Careers
               </a>
             </li>
-            <!-- <li>
-              <a href="our-team.php">
-                Meet our Team
+            <li>
+              <a href="why-trade-forex.php">
+                Why Trade Forex
               </a>
-            </li> -->
+            </li>
+            <li>
+              <a href="regulations-licenses.php">
+                Regulations & Licenses
+              </a>
+            </li>
+            <li>
+              <a href="contact-us.php">
+                Contact Us
+              </a>
+            </li>
           </ul>
         </div>
       </div>
-      <div class="col-md-2">
+      <div class="col-md-3">
         <div class="col-width">
-          <h6>Useful Link</h6>
+          <h6>Education</h6>
           <ul>
             <li>
-              <a href="broker-setup.php">
-                Broker Setup
+              <a href="videos.php">
+                Videos
               </a>
             </li>
             <li>
-              <a href="liquidity.php">
-                Liquidity Solutions
+              <a href="webinars.php">
+                Webinars
               </a>
             </li>
             <li>
-              <a href="institutional-clients.php">
-                Institutional Clients
+              <a href="seminars.php">
+                Seminars
               </a>
             </li>
-            <li>
-              <a href="metatrader-support.php">
-                Metatrader Support
-              </a>
-            </li>
-            <!-- <li>
-              <a href="portfolio.php">
-                Portfolio
-              </a>
-            </li> -->
           </ul>
         </div>
       </div>
-      <div class="col-md-4">
-        <h4 class="text-primary">Connect with us</h4>
-        <div class="address">
-
-
-          <p><i class="fa-solid fa-location-dot"></i> Suite 305, Griffith Corporate Centre, Kingstown P.O. Box
-            1510, Beachmont Kingstown St. Vincent and the Grenadines</p>
-
-          <p><i class="fa-solid fa-phone"></i> +357 22030234</p>
-
-          <p> <i class="fa-solid fa-envelope"></i> support@yaprime.com</p>
+      <div class="col-md-3">
+        <div class="col-width">
+          <h6>Partners</h6>
+          <ul>
+            <li>
+              <a href="nxgmarketsaffiliates.php">
+                Affiliate Program
+              </a>
+            </li>
+            <li>
+              <a href="nxgmarkets-ibs.php">
+                Introducing Broker (IB)
+              </a>
+            </li>
+            <li>
+              <a href="advantages.php">
+                Advantages
+              </a>
+            </li>
+            <li>
+              <a href="commission-structure.php">
+                Commission Structure
+              </a>
+            </li>
+            <li>
+              <a href="marketing-tools.php">
+                Marketing Tools
+              </a>
+            </li>
+          </ul>
         </div>
       </div>
-
+      <div class="col-md-3">
+        <div class="col-width">
+          <h6>Trading Tools</h6>
+          <ul>
+            <li>
+              <a href="trading-calculator.php">
+                Trading Calculators
+              </a>
+            </li>
+            <li>
+              <a href="trading-signals.php">
+                Trading Signals
+              </a>
+            </li>
+            <li>
+              <a href="autochartist.php">
+                Autochartist
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
-
     <hr class="footer_hr" />
     <p>
     	NXG Markets Pty Ltd, an ASIC regulated for the general financial product advice (ABN 93 623 948 998, AFS License No. 001308207)
