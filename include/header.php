@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>Start Your Own Forex Brokerage | Forex Broker Services</title>
-      <link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon">
+      <link rel="shortcut icon" href="./images/favicon.webp" type="image/x-icon">
       <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css" />
       <link rel="stylesheet" type="text/css" href="css/style.css">
       <link rel="stylesheet" type="text/css" href="css/responsive.css">
