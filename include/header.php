@@ -450,8 +450,8 @@
                   </ul>
                </div>
                <div class="request-quote">
-                  <a href="https://my.nxgmarkets.com/" class=" bttn-primary">Login</a>
-                  <a href="#" class=" bttn-secondary">Signup</a>
+                  <a href="https://my.nxgmarkets.com/" class="theme-btn theme-btn2">Login</a>
+                  <a href="https://my.nxgmarkets.com/auth/register" class="theme-btn theme-btn2">Signup</a>
                </div>
             </div>
          </nav>
