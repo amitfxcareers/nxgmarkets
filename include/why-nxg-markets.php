@@ -73,7 +73,6 @@
                </div>
             </div>
             <div class="start-trading-button text-center">
-            	<!-- <a href="https://my.nxgmarkets.com/auth/register" class="start-trading">Login</a> -->
             	<a href="https://my.nxgmarkets.com/auth/register" class="theme-btn"><i class="fas fa-chart-line" aria-hidden="true"></i>Start Trading Now</a>
             </div>
          </div>
