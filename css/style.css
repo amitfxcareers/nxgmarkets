@@ -727,7 +727,7 @@ header .container-fluid {
     justify-content: center;
     width: 64px;
     height: 64px;
-    border: 2px solid var(--white);
+/*    border: 2px solid var(--white);*/
     color: var(--white);
     border-radius: 50px;
     transition: 0.5s;
