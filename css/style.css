@@ -752,6 +752,11 @@ header .container-fluid {
     float: left;
     list-style: none;
 }
+.trade-list-ul li{
+    width: 33%;
+    float: left;
+    list-style: none;
+}
 .image-boxx {
     display: flex;
     align-items: center;
