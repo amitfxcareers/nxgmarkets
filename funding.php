@@ -1,7 +1,7 @@
 <?php include_once('./include/header.php') ?>
 
 
-<!-- Why Trade Forex with NXG Markets? -->
+<!-- Why Choose NXG Markets for Trading? -->
 <section class="why-trade-with-nxg">
    <div class="container">
       <div class="row align-items-center">
@@ -53,7 +53,7 @@
       </div>
    </div>
 </section>
-<!-- Why Trade Forex with NXG Markets? -->
+<!-- Why Choose NXG Markets for Trading? -->
 
 <?php include_once('./include/why-nxg-markets.php') ?>
 <?php include_once('./include/footer.php') ?>
