@@ -18,28 +18,28 @@
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/diverse-range-of-commodities.png" class="img-fluid">
                </div>
                <h4 class="title">Diverse Range of Commodities</h4>
                <p class="description">Explore a wide selection of commodities, including precious metals, energy resources, and agricultural products. Trade with confidence in a variety of markets.</p>
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/advanced-trading-platforms.png" class="img-fluid">
                </div>
                <h4 class="title">Advanced Trading Platforms</h4>
                <p class="description">Choose from MT5, cTrader, or FIX API. Our platforms are designed to cater to your trading needs, offering intuitive interfaces and powerful tools.</p>
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/secure-and-convenient-transactions.png" class="img-fluid">
                </div>
                <h4 class="title">Secure and Convenient Transactions</h4>
                <p class="description">Manage your funds effortlessly with our secure and convenient deposit and withdrawal options.</p>
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/exceptional-customer-support.png" class="img-fluid">
                </div>
                <h4 class="title">Exceptional Customer Support</h4>
                <p class="description">Our experienced support team is available 24/5 to assist you with any inquiries or concerns you may have.</p>

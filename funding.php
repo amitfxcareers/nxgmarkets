@@ -20,21 +20,21 @@
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/wide-range-of-currency-pairs.png" class="img-fluid">
                </div>
                <h4 class="title">Range of Currency Pairs</h4>
                <p class="description">Trade over 40 currency pairs, including major global currencies with high liquidity. Expand your portfolio and capitalize on opportunities arising from various market movements.</p>
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/advanced-trading-platforms.png" class="img-fluid">
                </div>
                <h4 class="title">Advanced Trading Platforms</h4>
                <p class="description">Opt for MT5, or cTrader. Effortlessly trade on the platform that aligns with your style and preferences.</p>
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/secure-and-convenient-transactions.png" class="img-fluid">
                </div>
                <h4 class="title">Secure and Seamless Transactions</h4>
                <p class="description">Benefit from a variety of deposit and withdrawal options, ensuring secure and straightforward fund management.</p>

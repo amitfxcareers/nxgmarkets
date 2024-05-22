@@ -26,21 +26,21 @@
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/global-stock-selection.png" class="img-fluid">
                </div>
                <h4 class="title">Global Stock Selection</h4>
                <p class="description">Explore a wide range of stocks from major global exchanges, including popular companies across various industries.</p>
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/advanced-trading-platforms.png" class="img-fluid">
                </div>
                <h4 class="title">Advanced Trading Platforms</h4>
                <p class="description">Choose from MT4, MT5, cTrader. Our platforms offer you the tools and features necessary to trade stocks efficiently.</p>
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/secure-and-convenient-transactions.png" class="img-fluid">
                </div>
                <h4 class="title">Secure and Convenient Transactions</h4>
                <p class="description">Manage your funds seamlessly with our secure and convenient deposit and withdrawal options.</p>

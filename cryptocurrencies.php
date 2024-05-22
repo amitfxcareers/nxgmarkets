@@ -26,21 +26,21 @@
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/diverse-range-of-cryptocurrencies.png" class="img-fluid">
                </div>
                <h4 class="title">Diverse Range of Cryptocurrencies</h4>
                <p class="description">Explore a variety of cryptocurrencies, including Bitcoin, Ethereum, Ripple, and many more. Trade with confidence in the rapidly evolving crypto market.</p>
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/advanced-trading-platforms.png" class="img-fluid">
                </div>
                <h4 class="title">Advanced Trading Platforms</h4>
                <p class="description">Choose from MT5, cTrader. Our platforms offer you the tools and features necessary to trade cryptocurrencies effectively.</p>
             </div>
             <div class="icon-box">
                <div class="icon">
-               	<img src="images/competitive-trading-conditions.png" class="img-fluid">
+               	<img src="images/secure-and-convenient-transactions.png" class="img-fluid">
                </div>
                <h4 class="title">Secure and Convenient Transactions</h4>
                <p class="description">Manage your funds effortlessly with our secure and convenient deposit and withdrawal options specifically tailored for cryptocurrencies.</p>
