@@ -758,6 +758,10 @@ header .container-fluid {
     justify-content: center;
     flex-direction: column;
 }
+.image-boxx a{
+    display: contents;
+    color: var(--purple);
+}
 .image-boxx span.active img{
     filter: brightness(0) invert(1);
 }

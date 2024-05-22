@@ -12,42 +12,52 @@
 					<ul class="trade-list">
 						<li>
 							<div class="image-boxx text-center">
-								<span class="active">
-									<img src="images/forex.webp" class="img-fluid">
-								</span>
-								<h4>Forex</h4>
+								<a href="forex.php">
+									<span class="active">
+										<img src="images/forex.webp" class="img-fluid">
+									</span>
+									<h4>Forex</h4>
+								</a>
 							</div>
 						</li>
 						<li>
 							<div class="image-boxx text-center">
-								<span>
-									<img src="images/indices.webp" class="img-fluid">
-								</span>
-								<h4>Indices</h4>
+								<a href="indices.php">
+									<span>
+										<img src="images/indices.webp" class="img-fluid">
+									</span>
+									<h4>Indices</h4>
+								</a>
 							</div>
 						</li>
 						<li>
 							<div class="image-boxx text-center">
-								<span>
-									<img src="images/comm.webp" class="img-fluid">
-								</span>
-								<h4>Commodities</h4>
+								<a href="commodities.php">
+									<span>
+										<img src="images/comm.webp" class="img-fluid">
+									</span>
+									<h4>Commodities</h4>
+								</a>
 							</div>
 						</li>
 						<li>
 							<div class="image-boxx text-center">
-								<span>
-									<img src="images/stocks.webp" class="img-fluid">
-								</span>
-								<h4>Stocks</h4>
+								<a href="stocks.php">
+									<span>
+										<img src="images/stocks.webp" class="img-fluid">
+									</span>
+									<h4>Stocks</h4>
+								</a>
 							</div>
 						</li>
 						<li>
 							<div class="image-boxx text-center">
-								<span>
-									<img src="images/cryptos.webp" class="img-fluid">
-								</span>
-								<h4>Cryptos</h4>
+								<a href="cryptocurrencies.php">
+									<span>
+										<img src="images/cryptos.webp" class="img-fluid">
+									</span>
+									<h4>Cryptos</h4>
+								</a>
 							</div>
 						</li>
 					</ul>
