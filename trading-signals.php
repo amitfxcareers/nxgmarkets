@@ -50,8 +50,8 @@
       <div class="row mt-4">
       	<div class="col-md-12">
       		<div class="text-center">
-				<a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-phone" aria-hidden="true"></i>Register Now</a>
-			</div>
+   				<?php include_once('./include/register-now-button.php') ?>
+   			</div>
       	</div>
       </div>
    </div>
