@@ -54,7 +54,7 @@
                                                       <a href="account-type.php">Account Types</a>
                                                    </li>
                                                    <li class="col-12 mb-2">
-                                                      <a href="funding.php">Funding</a>
+                                                      <a href="deposit-withdrawal.php">Deposit & Withdrawal</a>
                                                    </li>
                                                    <li class="col-12 mb-2">
                                                       <a href="safety-of-funds.php">Safety of Funds</a>
@@ -470,7 +470,7 @@
                                  <a href="account-type.php">Account Types</a>
                               </li>
                               <li>
-                                 <a href="funding.php">Funding</a>
+                                 <a href="deposit-withdrawal.php">Deposit & Withdrawal</a>
                               </li>
                               <li>
                                  <a href="safety-of-funds.php">Safety of Funds</a>

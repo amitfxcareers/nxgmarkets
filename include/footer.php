@@ -62,8 +62,8 @@
               </a>
             </li>
             <li>
-              <a href="funding.php">
-                Funding
+              <a href="deposit-withdrawal.php">
+                Deposit & Withdrawal
               </a>
             </li>
             <li>
