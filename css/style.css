@@ -796,3 +796,21 @@ header .container-fluid {
     transition: 0.3s;
 }
 /*Trade Instruments*/
+
+/*HOME*/
+.carousel-control-prev-icon{
+    background-image: url(../images/prev-icon.svg);
+}
+.carousel-control-next-icon{
+    background-image: url(../images/next-icon.svg);
+}
+.carousel-indicators [data-bs-target]{
+    background-color: var(--purple);
+}
+.carousel-control-next, .carousel-control-prev{
+    opacity: 1;
+}
+.banner-content-pointers h2{
+    font-size: 35px;
+    font-weight: 700;
+}

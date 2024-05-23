@@ -521,6 +521,15 @@ function myFunction() {
     });
     
 </script>
+<script type="text/javascript">
+  $(".carousel").swipe({
+                swipe: function (event, direction, distance, duration, fingerCount, fingerData) {
+                    if (direction == 'left') $(this).carousel('next');
+                    if (direction == 'right') $(this).carousel('prev');
+                },
+                allowPageScroll: "vertical" 
+            });
+</script>
 </body>
 
 </html>
