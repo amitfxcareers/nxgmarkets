@@ -16,6 +16,11 @@ body{
     font-weight: 700;
     text-align: center;
 }
+.main-heading-white{
+    color: var(--white);
+    font-weight: 700;
+    text-align: center;
+}
 .text-primary{
     color: var(--purple)!important;
 }
@@ -828,5 +833,37 @@ header .container-fluid {
     padding: 0;
 }
 .home-banner{
-    padding: 5% 0;
+/*    height: 450px;*/
+}
+.banner-factoids{
+    padding: 50px 0;
+    background: var(--purple);
+}
+.factoids-image-box{
+    text-align: center;
+}
+.banner_factoids li{
+    width: 20%;
+    float: left;
+    list-style: none;
+}
+.top-traded-markets{
+    padding: 50px 0;
+    background: #F2F5F7;
+}
+.top-traded-markets button.active{
+    font-size: 28px;
+    border-radius: 13px 0 0 13px!important;
+    background: var(--purple)!important;
+    border-right: 2px solid #808080;
+    padding: 10px 20px 10px 50px;
+}
+.top-traded-markets button{
+    font-size: 28px;
+    border-radius: 13px 0 0 13px!important;
+    background: var(--white)!important;
+    border-right: 2px solid #808080;
+    padding: 10px 20px 10px 50px;
+    color: var(--black);
+    text-align: right;
 }
