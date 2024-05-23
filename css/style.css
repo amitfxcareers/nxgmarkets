@@ -814,3 +814,19 @@ header .container-fluid {
     font-size: 35px;
     font-weight: 700;
 }
+.banner-content-pointers img{
+    margin-right: 10px;
+}
+.banner-ul li {
+    list-style: none;
+    margin-bottom: 15px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+.banner-ul {
+    padding: 0;
+}
+.home-banner{
+    padding: 5% 0;
+}
