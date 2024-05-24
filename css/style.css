@@ -853,7 +853,7 @@ header .container-fluid {
     list-style: none;
 }
 .top-traded-markets{
-    padding: 50px 0;
+    padding: 50px 0 200px;
     background: #F2F5F7;
 }
 .top-traded-markets button.active{
@@ -899,6 +899,24 @@ header .container-fluid {
 }
 .trade-markets-right p{
     line-height: 30px;
+}
+.copytrading-experts .row{
+/*    padding: 80px;*/
+    background: var(--purple);
+    transform: translateY(-100px);
+    border-radius: 25px;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+}
+.copytrading-experts .copytrade-left{
+    padding: 80px;
+}
+.copytrading-experts h2{
+    font-size: 45px;
+    font-weight: 800;
+}
+.multiple-buttons{
+    display: flex;
+    gap: 20px;
 }
 
 

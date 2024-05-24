@@ -283,4 +283,34 @@
 </section>
 <!-- Top Traded Markets -->
 
+<!-- Copy Trading -->
+<section class="copytrading-experts">
+  <div class="container">
+    <div class="row">
+        <div class="col-md-6 copytrade-left">
+          <h4 class="text-white mb-3">
+            Copy Trading
+          </h4>
+          <h2 class="text-white mb-5">
+            Copy Trading Experts Multiply Gains
+          </h2>
+          <p class="text-white mb-5">
+            Experience the power of Copy Trading with NXG Markets!
+          </p>
+          <p class="text-white">
+            Our pioneering platform enables you to effortlessly duplicate successful strategies from top-performing traders, optimizing your potential earnings. Join NXG Markets today and engage in a profitable journey by leveraging the expertise of successful traders within our vibrant community.
+          </p>
+          <div class="multiple-buttons">
+            <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Get Started</a>
+          <a href="copytrading.php" class="theme-bttn"><i class="fa fa-angle-right" aria-hidden="true"></i>Learn More</a>
+          </div>
+        </div>
+      <div class="col-md-6">
+        <img src="images/copy-trading-scaled.webp" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Copy Trading -->
+
 <?php include_once('./include/footer.php') ?>
