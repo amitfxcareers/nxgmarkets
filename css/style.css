@@ -991,6 +991,44 @@ header .container-fluid {
     width: 100%;
     padding: 12px;
 }
+.new-to-forex{
+    padding: 80px 0;
+}
+.new-to-forex-trading{
+    padding: 60px;
+    background: #F1F1F1;
+    border-radius: 25px;
+    text-align: center;
+}
+.new-to-forex-trading h2{
+    font-weight: 700;
+}
+.start-trading-today{
+    padding: 80px 0;
+    background: var(--purple);
+}
+.start-trading-today h2{
+    font-size: 35px;
+    font-weight: 800;
+}
+.start-trading-today-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.start-trading-today-content #angle_fa{
+    font-size: 50px;
+    color: var(--white);
+}
+
+
+
+
+
+
+
+
 
 
 

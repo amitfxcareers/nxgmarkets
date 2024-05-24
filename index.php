@@ -390,6 +390,7 @@
 
 <!-- Autochartist -->
 
+<!-- Why NXG Markets? -->
 <section class="why-nxg-markets-purple">
    <div class="container">
       <div class="row">
@@ -469,7 +470,7 @@
             </div>
          </div>
       </div>
-      <div class="row mt-4">
+      <div class="row mt-5">
         <div class="col-md-12">
           <h3 class="text-white">
             Easy Deposit Options:
@@ -478,7 +479,7 @@
             For Fast and Secure Transactions
           </h3>
         </div>
-        <div class="col-md-12">
+        <div class="col-md-12 mt-5">
           <div class="owl-carousel owl-carousel11">
                <div>
                   <div class="benefits-section">
@@ -510,6 +511,68 @@
       </div>
    </div>
 </section>
+<!-- Why NXG Markets? -->
+
+<!-- New to Forex Trading? -->
+<section class="new-to-forex">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="new-to-forex-trading">
+          <h4 class="text-secondary">
+            Forex Education
+          </h4>
+          <h2 class="text-primary">
+            New to Forex Trading?
+          </h2>
+          <p>
+            Excel in the financial markets using our premium educational materials including comprehensive ebooks, detailed video tutorials, and interactive webinars. Arm yourself with knowledge for a confident and successful trading experience.
+          </p>
+          <img src="images/just-starting.webp" class="img-fluid">
+          <div class="request-quote">
+            <a href="https://my.nxgmarkets.com/auth/register" class="theme-btn theme-btn2">Learn More</a>
+         </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="new-to-forex-trading">
+          <h4 class="text-secondary">
+            Market Updates
+          </h4>
+          <h2 class="text-primary">
+            Make Informed Trading Decisions
+          </h2>
+          <p>
+            Stay connected with the most recent market news, expert insights, and thorough analysis. Stay well-informed, maintain your competitive edge, and make decisive trading choices through our regularly updated market news section.
+          </p>
+          <img src="images/stay-ahead.webp" class="img-fluid">
+          <div class="request-quote">
+            <a href="https://my.nxgmarkets.com/auth/register" class="theme-btn theme-btn2">Learn More</a>
+         </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- New to Forex Trading? -->
+
+<!-- Start Trading Today -->
+<section class="start-trading-today">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="start-trading-today-content">
+          <h2 class="text-white">
+            Start Trading Today
+          </h2>
+          <i class="fa fa-angle-right" id="angle_fa" aria-hidden="true"></i>
+          <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fas fa-chart-line" aria-hidden="true"></i>Start Trading Now</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Start Trading Today -->
 
 <?php include_once('./include/footer.php') ?>
 
