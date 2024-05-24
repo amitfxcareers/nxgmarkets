@@ -209,14 +209,21 @@
 <!-- Top Traded Markets -->
 <section class="top-traded-markets">
   <div class="container">
-    <div class="row">
+    <div class="row align-items-center">
       <div class="col-md-6">
-        <div class="d-flex align-items-start">
+        <div class="vertical_tabs_trade">
+          <div class="trade-markets mb-4 text-center">
+            <h3 class="text-secondary">Markets to trade</h3>
+            <h2 class="text-primary">
+              Top Traded Markets
+            </h2>
+          </div>
+          <div class="d-flex align-items-start">
           <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
             <button class="nav-link active" id="v-pills-forex-tab" data-bs-toggle="pill" data-bs-target="#v-pills-forex" type="button" role="tab" aria-controls="v-pills-forex" aria-selected="true">Forex</button>
             <button class="nav-link" id="v-pills-commodities-tab" data-bs-toggle="pill" data-bs-target="#v-pills-commodities" type="button" role="tab" aria-controls="v-pills-commodities" aria-selected="false">Commodities</button>
-            <button class="nav-link" id="v-pills-indices-tab" data-bs-toggle="pill" data-bs-target="#v-pills-indices" type="button" role="tab" aria-controls="v-pills-indices" aria-selected="false">Messages</button>
-            <button class="nav-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</button>
+            <button class="nav-link" id="v-pills-indices-tab" data-bs-toggle="pill" data-bs-target="#v-pills-indices" type="button" role="tab" aria-controls="v-pills-indices" aria-selected="false">Indices</button>
+            <button class="nav-link" id="v-pills-crypto-tab" data-bs-toggle="pill" data-bs-target="#v-pills-crypto" type="button" role="tab" aria-controls="v-pills-crypto" aria-selected="false">Crypto</button>
             <button class="nav-link" id="v-pills-stocks-tab" data-bs-toggle="pill" data-bs-target="#v-pills-stocks" type="button" role="tab" aria-controls="v-pills-stocks" aria-selected="false">Stocks</button>
           </div>
           <div class="tab-content" id="v-pills-tabContent">
@@ -225,38 +232,51 @@
               <p>USD/IPY</p>
               <p>GBP/USD</p>
               <p>AUD/USD</p>
+              <p><a href="forex.php">See all instruments <i class="fa fa-angle-right"></i></a></p>
             </div>
             <div class="tab-pane fade" id="v-pills-commodities" role="tabpanel" aria-labelledby="v-pills-profile-tab">
               <p>XAU/USD (Gold)</p>
               <p>XAG/USD (Silver)</p>
               <p>BRENT (Crude Oil)</p>
               <p>NGAS (Natural Gas)</p>
+              <p><a href="commodities.php">See all instruments <i class="fa fa-angle-right"></i></a></p>
             </div>
             <div class="tab-pane fade" id="v-pills-indices" role="tabpanel" aria-labelledby="v-pills-messages-tab">
               <p>S&amp;P 500 (US)</p>
               <p>Dow Jones Industrial Average (US)</p>
               <p>FTSE 100 (UK)</p>
               <p>DAX 30 (Germany)</p>
+              <p><a href="indices.php">See all instruments <i class="fa fa-angle-right"></i></a></p>
             </div>
-            <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+            <div class="tab-pane fade" id="v-pills-crypto" role="tabpanel" aria-labelledby="v-pills-crypto-tab">
               <p>Bitcoin (BTC)</p>
               <p>Ethereum (ETH)</p>
               <p>Ripple (XRP)</p>
               <p>Litecoin (LTC)</p>
+              <p><a href="cryptocurrencies.php">See all instruments <i class="fa fa-angle-right"></i></a></p>
             </div>
             <div class="tab-pane fade" id="v-pills-stocks" role="tabpanel" aria-labelledby="v-pills-stocks-tab">
               <p>Bitcoin (BTC)</p>
               <p>Ethereum (ETH)</p>
               <p>Ripple (XRP)</p>
               <p>Litecoin (LTC)</p>
+              <p><a href="stocks.php">See all instruments <i class="fa fa-angle-right"></i></a></p>
             </div>
           </div>
         </div>
+        </div>
       </div>
       <div class="col-md-6">
-        <h4>
-          A Trusted Financial Markets Trading Platform
-        </h4>
+        <div class="trade-markets-right">
+          <h4 class="text-secondary">
+            A Trusted Financial Markets Trading Platform
+          </h4>
+          <h2 class="text-primary">
+            Premium Forex & CFD Trading
+          </h2>
+          <p class="mb-5">NXG Markets, an industry-leading Forex and CFD platform since 2022, offers a trustworthy, approachable, and ethical trading environment with a diverse range of instruments. Our user-friendly platform, educational resources, and dedicated 24/7 expert support empower clients to trade confidently, make informed decisions, and excel in their financial journey.</p>
+          <p>Open your account with NXG Markets and trade your way to financial success confidently.</p>
+        </div>
       </div>
     </div>
   </div>
