@@ -6,10 +6,10 @@
 			<div class="col-md-6">
 				<div class="banner_content ">
 					<h2 class="text-white">
-						Advantages
+						Trading Conditions
 					</h2>
 					<p class="text-white">
-						Explore our advantages and experience the best opportunities for collaboration, backed by concrete figures.
+						Explore Ideal Trading Conditions with Competitive Spreads, Diverse Instruments, and an Exceptional Atmosphere.
 					</p>
 					<a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register</a>
 				</div>

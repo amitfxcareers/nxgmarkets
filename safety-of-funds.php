@@ -6,10 +6,10 @@
 			<div class="col-md-6">
 				<div class="banner_content ">
 					<h2 class="text-white">
-						Advantages
+						Safety of Funds
 					</h2>
 					<p class="text-white">
-						Explore our advantages and experience the best opportunities for collaboration, backed by concrete figures.
+						We Ensure the Safety and Security of Your Funds.
 					</p>
 					<a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register</a>
 				</div>
