@@ -23,11 +23,8 @@ body{
 }
 .text-primary{
     color: var(--purple)!important;
-    font-size: 45px;
-    font-weight: 800;
 }
 .text-secondary{
-    font-weight: 600;
     color: var(--black)!important;
 }
 .btn-warning{
@@ -413,11 +410,7 @@ header .container-fluid {
     border-radius: 50%;
     line-height: 15px;
 }
-/*.icon-box {
-    border: 1px solid var(--purple);
-    padding: 15px;
-    text-align: center;
-}*/
+
 .road-map-main {
   margin: 50px 0 51px;
 }
@@ -721,7 +714,7 @@ header .container-fluid {
     border: 2px solid var(--black);
 }
 .get-in-touch{
-    text-align: right;
+    float: right;
 }
 /*Multi-Language Assistance*/
 
@@ -853,7 +846,7 @@ header .container-fluid {
     list-style: none;
 }
 .top-traded-markets{
-    padding: 50px 0 200px;
+    padding: 50px 0 400px;
     background: #F2F5F7;
 }
 .top-traded-markets button.active{
@@ -894,16 +887,22 @@ header .container-fluid {
 .top-traded-markets button:hover{
     color: var(--purple);
 }
+.trade-markets h2, .trade-markets-right h2{
+    font-size: 45px;
+    font-weight: 800;
+}
 .trade-markets-right{
     margin-left: 80px;
 }
 .trade-markets-right p{
     line-height: 30px;
 }
+.copytrading-experts {
+    padding: 80px 0;
+}
 .copytrading-experts .row{
-/*    padding: 80px;*/
     background: var(--purple);
-    transform: translateY(-100px);
+    margin-top: -300px;
     border-radius: 25px;
     box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
 }
@@ -914,12 +913,84 @@ header .container-fluid {
     font-size: 45px;
     font-weight: 800;
 }
+.multiple-trading-platforms{
+    padding: 20px 0 80px;
+}
 .multiple-buttons{
     display: flex;
     gap: 20px;
 }
-
-
+.mt-icon-boxx p{
+    font-size: 22px;
+}
+.mt-icon-boxx h4{
+    font-weight: 700;
+}
+.mt-platforms li {
+    width: 50%;
+    float: left;
+    list-style: none;
+    padding-right: 50px;
+}
+.mt-platforms{
+    padding: 0;
+    margin: 0;
+}
+.mt-platforms li a{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.mt-platforms li a i{
+    color: var(--purple);
+}
+.mt-icon-boxx {
+    padding-left: 20px;
+    border-left: 2px solid #808080;
+}
+.autochartist_content_right h2{
+    font-weight: 700;
+}
+.autochartist_content_right p{
+    line-height: 30px;
+}
+.why-nxg-markets-purple{
+    background: var(--purple);
+    padding: 80px 0;
+}
+.why-nxg-markets-purple .road-map-main .road-map-wrapper:nth-of-type(even) .road-map-circle {
+    border-bottom-color: var(--white);
+    border-left-color: var(--white);
+    border-top-color: transparent;
+    border-right-color: transparent;
+}
+.why-nxg-markets-purple .road-map-main .road-map-wrapper .road-map-circle{
+    border-top-color: var(--white);
+    border-right-color: var(--white);
+}
+.why-nxg-markets-purple .road-map-main .road-map-wrapper .road-map-card::before{
+    background: var(--white);
+}
+.why-nxg-markets-purple .road-map-main .road-map-wrapper .road-map-card{
+    background: var(--white);
+}
+.why-nxg-markets-purple .road-map-main .road-map-wrapper .road-map-card .card-head{
+    color: var(--black);
+}
+.why-nxg-markets-purple .road-map-main .road-map-wrapper .road-map-card .card-text{
+    color: var(--black);
+}
+.why-nxg-markets-purple .road-map-main .road-map-wrapper .road-map-circle .road-map-circle-text{
+    color: var(--black);
+}
+.benefits-section img{
+    background: var(--white);
+    height: 60px;
+    object-fit: contain;
+    width: 100%;
+    padding: 12px;
+}
 
 
 

@@ -302,7 +302,7 @@
           </p>
           <div class="multiple-buttons">
             <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Get Started</a>
-          <a href="copytrading.php" class="theme-bttn"><i class="fa fa-angle-right" aria-hidden="true"></i>Learn More</a>
+            <a href="copytrading.php" class="theme-bttn"><i class="fa fa-angle-right" aria-hidden="true"></i>Learn More</a>
           </div>
         </div>
       <div class="col-md-6">
@@ -313,4 +313,216 @@
 </section>
 <!-- Copy Trading -->
 
+
+<!-- Multiple Trading Platforms -->
+<section class="multiple-trading-platforms">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-6">
+        <h4 class="text-black mb-4">
+          Multiple Trading Platforms
+        </h4>
+        <h2 class="text-secondary">
+          Trade Across Different Platforms Effortlessly with NXG Markets
+        </h2>
+      </div>
+      <div class="col-md-6">
+        <p>
+          Enjoy unmatched trading flexibility on a high leverage trading platform as NXG Markets provides award-winning liquidity on MT5, cTrader, and FIX API. No limits or volume constraints allow you to capitalize on every opportunity and maximise your trading capabilities. Opt for NXG Markets for an exceptional trading journey.
+        </p>
+      </div>
+    </div>
+    <div class="row mt-5">
+      <div class="col-md-12">
+        <ul class="mt-platforms">
+          <li>
+            <a href="mt5.php">
+              <div class="mt-icon-boxx">
+                <h4 class="text-primary">Meta Trader 5</h4>
+                <p class="text-black">Advanced Features, Exceptional Trading</p>
+              </div>
+              <i class="fa fa-angle-right" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li>
+            <a href="mt5.php">
+              <div class="mt-icon-boxx">
+                <h4 class="text-primary">cTrader</h4>
+                <p class="text-black">User-Friendly Design, Powerful Trading</p>
+              </div>
+              <i class="fa fa-angle-right" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+        <div class="get-in-touch mt-5 d-inline-block">
+          <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-phone" aria-hidden="true"></i>Get In Touch</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Multiple Trading Platforms -->
+
+<!-- Autochartist -->
+<section class="autochartist-trading-tools">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-6">
+        <img src="images/autochartist-nxg.png" class="img-fluid" width="80%">
+      </div>
+      <div class="col-md-6">
+        <div class="autochartist_content_right">
+          <h4 class="text-primary">Powerful Trading Tools</h4>
+          <h2 class="text-secondary">
+            Empower Your Trading Decisions with Next-Level Technical Analysis
+          </h2>
+          <p>
+            NXG Markets is proud to announce the seamless integration of Autochartist, a leading provider of automated technical analysis tools. This powerful addition to our platform equips traders of all levels with advanced analytical capabilities, designed to streamline the identification of high-probability trading opportunities.
+          </p>
+          <div class=" mt-5 d-inline-block">
+          <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-phone" aria-hidden="true"></i>Get In Touch</a>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Autochartist -->
+
+<section class="why-nxg-markets-purple">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-6">
+            <div class="why-nxg-left">
+               <h4 class="text-white">
+                  Why NXG Markets?
+               </h4>
+               <h2 class="text-white">
+                  Discover the NXG Markets Advantage: What Sets Us Apart? 
+               </h2>
+            </div>
+         </div>
+         <div class="col-md-6">
+            <p class="text-white">
+               Explore the compelling factors that position NXG Markets as the preferred option for both clients and partners.
+            </p>
+            <p class="text-white">
+               Access the most popular forex trading platform with a diverse range of over 100 products spanning multiple asset classes. Experience raw spreads from just 0.1 pips and optimal execution as you trade with a top-tier multi-asset broker on MT5 and cTrader.
+            </p>
+         </div>
+         <div class="col-md-12">
+            <div class="why-nxg-market text-center mt-4">
+               <h4 class="text-white">
+                  Sign Up
+               </h4>
+               <h2 class="text-white">
+                  Start Trading in 3 Simple Steps
+               </h2>
+            </div>
+            <div class="road-map-main">
+               <div class="road-map-wrapper">
+                  <div class="road-map-circle">
+                     <span
+                        class="road-map-circle-text d-flex align-items-center justify-content-center"
+                        >1</span
+                        >
+                  </div>
+                  <div class="road-map-card">
+                     <h4 class="card-head">Create an Account</h4>
+                     <p class="card-text">
+                        Complete the account registration form by providing your information.
+                     </p>
+                  </div>
+               </div>
+               <div class="road-map-wrapper">
+                  <div class="road-map-circle">
+                     <span
+                        class="road-map-circle-text d-flex align-items-center justify-content-center"
+                        >2</span
+                        >
+                  </div>
+                  <div class="road-map-card">
+                     <h4 class="card-head">Deposit Funds</h4>
+                     <p class="card-text">
+                        Choose from various deposit methods to fund your trading account.
+                     </p>
+                  </div>
+               </div>
+               <div class="road-map-wrapper">
+                  <div class="road-map-circle">
+                     <span
+                        class="road-map-circle-text d-flex align-items-center justify-content-center"
+                        >3</span
+                        >
+                  </div>
+                  <div class="road-map-card">
+                     <h4 class="card-head">Start Trading</h4>
+                     <p class="card-text">
+                        Congratulations! You are now ready to trade in your preferred market.
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div class="start-trading-button text-center">
+              <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fas fa-chart-line" aria-hidden="true"></i>Start Trading Now</a>
+            </div>
+         </div>
+      </div>
+      <div class="row mt-4">
+        <div class="col-md-12">
+          <h3 class="text-white">
+            Easy Deposit Options:
+          </h3>
+          <h3 class="text-white">
+            For Fast and Secure Transactions
+          </h3>
+        </div>
+        <div class="col-md-12">
+          <div class="owl-carousel owl-carousel11">
+               <div>
+                  <div class="benefits-section">
+                     <img class="" src="images/bc-visa-master.png" alt="">
+                  </div>
+               </div>
+               <div>
+                  <div class="benefits-section">
+                     <img class="" src="images/skrill.png" alt="">
+                     </div>
+               </div>
+               <div>
+                  <div class="benefits-section">
+                     <img class="" src="images/neteller.png" alt="">
+                  </div>
+               </div>
+               <div>
+                  <div class="benefits-section">
+                     <img class="" src="images/bank-transfer.png" alt="">
+                  </div>
+               </div>
+               <div>
+                  <div class="benefits-section">
+                     <img class="" src="images/bitcoin.png" alt="">
+                  </div>
+               </div>
+            </div>
+        </div>
+      </div>
+   </div>
+</section>
+
 <?php include_once('./include/footer.php') ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

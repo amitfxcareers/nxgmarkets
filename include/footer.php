@@ -462,7 +462,7 @@ function myFunction() {
           loop: false
         },
         1000: {
-          items: 2,
+          items: 5,
           nav: false
         }
       }
