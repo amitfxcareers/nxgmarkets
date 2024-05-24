@@ -1021,7 +1021,24 @@ header .container-fluid {
     font-size: 50px;
     color: var(--white);
 }
+/*Home*/
 
+/*Inner Banner*/
+.inner-banner{
+    padding: 150px 0;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.banner_content h2{
+    font-size: 35px;
+    font-weight: 800;
+}
+.banner_content p{
+    line-height: 30px;
+    padding-right: 50px;
+    font-size: 20px;
+}
 
 
 
