@@ -1040,6 +1040,32 @@ header .container-fluid {
     font-size: 20px;
 }
 
+/*WHY TRADE FOREX*/
+.banner-why-factoids{
+    padding: 50px 0;
+    background: var(--black);
+}
+.why-trade-forex-section{
+    padding: 30px 0 80px;
+}
+.why-image-box{
+    padding: 30px;
+    background: var(--purple);
+    border-radius: 15px;
+    height: 100%;
+}
+.main-head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.main-head span{
+    color: var(--white);
+    font-size: 20px;
+}
+.why-image-box p{
+    text-align: justify;
+}
 
 
 
