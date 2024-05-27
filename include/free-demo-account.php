@@ -5,10 +5,10 @@
 				<img src="images/new-to-trading.png" class="img-fluid">
 			</div>
 			<div class="col-md-6">
-				<h5 class="text-white">
+				<h5 class="text-white fw-600">
 					Free Demo Account
 				</h5>
-				<h2 class="text-white">
+				<h2 class="text-white fw-800">
 					Just Starting Out in Trading?
 				</h2>
 				<p class="text-white">

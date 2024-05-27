@@ -27,10 +27,10 @@
 				<p class="">
 					Seeking to boost your trading knowledge? You’re in the right place! Explore our diverse collection of educational videos catering to traders of all levels. Register for an account with us today to kickstart your learning journey.
 				</p>
-				<h5 class="text-black">
+				<h5 class="text-black fw-600">
 					Biggest Forex Video Library
 				</h5>
-				<h2 class="text-primary">
+				<h2 class="text-primary fw-800">
 					Trading Videos
 				</h2>
 				<p>
