@@ -1,6 +1,6 @@
 <?php include_once('./include/header.php') ?>
 <!-- Banner -->
-<section class="inner-banner" style="background-image: url(images/advantages-banner.png);">
+<section class="inner-banner" style="background-image: url(images/trading_cryptocurrencies_banner.webp);">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">

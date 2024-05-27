@@ -1032,7 +1032,7 @@ header .container-fluid {
 /*Inner Banner*/
 .inner-banner{
     padding: 150px 0;
-    background-position: center;
+    background-position: right;
     background-size: cover;
     position: relative;
 }
