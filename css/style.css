@@ -11,6 +11,12 @@
 body{
     font-family: "Manrope", Sans-serif;
 }
+.fw-800{
+    font-weight: 800;
+}
+.fw-600{
+    font-weight: 600;
+}
 .main-heading{
     color: var(--purple);
     font-weight: 700;
@@ -1087,7 +1093,11 @@ header .container-fluid {
     background: var(--purple);
 }
 .trading-webinars{
-    padding: 80px 0;
+    padding: 50px 0;
+}
+/*Trading Seminar*/
+.trading-seminars{
+    padding: 50px 0;
 }
 
 

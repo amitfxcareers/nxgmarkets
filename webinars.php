@@ -27,7 +27,7 @@
 				<h5 class="text-black">
 					Step ahead in Forex: Interactive Webinars
 				</h5>
-				<h2 class="text-primary">
+				<h2 class="text-primary fw-800">
 					Webinars
 				</h2>
 				<p>
