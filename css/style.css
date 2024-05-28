@@ -1099,8 +1099,50 @@ header .container-fluid {
 .trading-seminars{
     padding: 50px 0;
 }
-
-
+/*Meta Trader 5*/
+.trading-platform{
+    padding: 80px 0;
+}
+.platform-intro{
+    padding: 0 150px;
+}
+.platform_links{
+    padding: 30px;
+    text-align: center;
+    text-decoration: none;
+    background: var(--light-black);
+    border-radius: 10px;
+    transition-duration: .3s;
+}
+.platform_links i{
+    font-size: 50px;
+    color: var(--white);
+}
+.platform_links a h4{
+    color: var(--white);
+}
+.platform_links a{
+    text-decoration: none;
+}
+.platform_links:hover{
+    background: var(--purple);
+    transition-duration: .3s;
+    transform: translateY(-5px);
+}
+.main-feature figure{
+    height: 130px;
+    width: 130px;
+    background: var(--purple);
+    padding: 30px;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main-feature figure img{
+    filter: brightness(0) invert(1);
+}
 
 
 
