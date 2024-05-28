@@ -150,6 +150,13 @@
             </div>
          </div>
       </div>
+      <div class="row">
+      	<div class="col-md-12">
+      		<div class="text-center mt-5">
+      			<a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register</a>
+      		</div>
+      	</div>
+      </div>
    </div>
    </div>
 </section>
