@@ -1143,6 +1143,25 @@ header .container-fluid {
 .main-feature figure img{
     filter: brightness(0) invert(1);
 }
+.how-copy-trading-works{
+    padding: 80px 0;
+    background: var(--black);
+}
+.bg_image{
+    background-image: url(https://www.nxgmarkets.com/wp-content/uploads/2024/01/Asset-30.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+.copy-trading-work h4{
+    color: var(--white);
+}
+.copy-trading-work p{
+    color: var(--white);
+}
+.which-trader{
+    padding: 80px 0;
+}
 
 
 
