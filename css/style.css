@@ -1162,6 +1162,18 @@ header .container-fluid {
 .which-trader{
     padding: 80px 0;
 }
+.which-trader-will .nav-tabs .nav-link.active {
+    background: var(--purple);
+    border: 1px solid var(--purple);
+    color: var(--white);
+}
+.which-trader-will .nav-tabs{
+    border-bottom: 1px solid var(--purple);
+}
+.which-trader-will .nav-tabs .nav-link{
+    border: 1px solid var(--purple);
+    color: var(--black);
+}
 
 
 

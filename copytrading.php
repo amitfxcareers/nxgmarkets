@@ -80,8 +80,11 @@
    <div class="container">
       <div class="row">
          <div class="col-md-12">
+            <h2 class="text-primary text-center mb-5">
+               Which Trader will you be?
+            </h2>
             <div class="which-trader-will">
-               <ul class="nav nav-tabs" id="myTab" role="tablist">
+               <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
                   <li class="nav-item" role="presentation">
                      <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Follower</button>
                   </li>
@@ -92,7 +95,7 @@
                <div class="tab-content" id="myTabContent">
                   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                      <div class="container">
-                        <div class="row mt-4">
+                        <div class="row mt-5">
                            <div class="col-md-12 text-center">
                               <h5 class="text-black fw-600">
                                  Copy Trading
@@ -141,7 +144,7 @@
                            <div class="col-md-6 col-lg-4">
                               <div class="main-feature">
                                  <figure>
-                                    <img src="images/advanced-charting-and-analysis.png" class="img-fluid">
+                                    <img src="images/No-Trading-Experience-Required.png" class="img-fluid">
                                  </figure>
                                  <div class="feature-content">
                                     <h4 class="text-primary fw-600">
@@ -156,7 +159,7 @@
                            <div class="col-md-6 col-lg-4">
                               <div class="main-feature">
                                  <figure>
-                                    <img src="images/fast-order-execution.png" class="img-fluid">
+                                    <img src="images/Control-and-Flexibility.png" class="img-fluid">
                                  </figure>
                                  <h4 class="text-primary fw-600">
                                     Control and Adaptability
@@ -169,7 +172,7 @@
                            <div class="col-md-6 col-lg-4">
                               <div class="main-feature">
                                  <figure>
-                                    <img src="images/multiple-order-types.png" class="img-fluid">
+                                    <img src="images/Learning-Opportunity.png" class="img-fluid">
                                  </figure>
                                  <h4 class="text-primary fw-600">
                                     Learning Opportunities
@@ -180,9 +183,114 @@
                               </div>
                            </div>
                         </div>
+                        <div class="row">
+                           <div class="col-md-12">
+                              <div class="text-center mt-5">
+                                 <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register</a>
+                              </div>
+                           </div>
+                        </div>
                      </div>
                   </div>
-                  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">...</div>
+                  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                     <div class="container">
+                        <div class="row mt-5">
+                           <div class="col-md-12 text-center">
+                              <h5 class="text-black fw-600">
+                                 Social Trading
+                              </h5>
+                              <h2 class="text-primary fw-800">
+                                 Advantages for Master Traders
+                              </h2>
+                           </div>
+                        </div>
+                        <div class="row mt-5">
+                           <div class="col-md-12 text-center">
+                              <img src="images/advantages-for-master-traders.png" class="img-fluid" width="60%">
+                           </div>
+                        </div>
+                        <div class="row mt-5 gy-4 justify-content-center text-center">
+                           <div class="col-lg-4">
+                              <div class="main-feature">
+                                 <figure>
+                                    <img src="images/leadership.png" class="img-fluid">
+                                 </figure>
+                                 <div class="feature-content">
+                                    <h4 class="text-primary fw-600">
+                                       Additional Income
+                                    </h4>
+                                    <p>
+                                       Master traders can earn additional income from the fees charged to their followers. This can be a fixed subscription fee or a performance fee that depends on how well the master trader performs.
+                                    </p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-lg-4 col-md-6">
+                              <div class="main-feature">
+                                 <figure>
+                                    <img src="images/profit-growth.png" class="img-fluid">
+                                 </figure>
+                                 <div class="feature-content">
+                                    <h4 class="text-primary fw-600">
+                                       Increased Capital
+                                    </h4>
+                                    <p>
+                                       As the number of followers increase, the master trader effectively has a larger amount of assets under management. This can potentially increase the profitability of their trades.
+                                    </p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-md-6 col-lg-4">
+                              <div class="main-feature">
+                                 <figure>
+                                    <img src="images/network.png" class="img-fluid">
+                                 </figure>
+                                 <div class="feature-content">
+                                    <h4 class="text-primary fw-600">
+                                       Community Building
+                                    </h4>
+                                    <p>
+                                       Some master traders prefer to build a community around their service. This allows them to exchange ideas with other traders and learn from each other.
+                                    </p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-md-6 col-lg-4">
+                              <div class="main-feature">
+                                 <figure>
+                                    <img src="images/challenge.png" class="img-fluid">
+                                 </figure>
+                                 <h4 class="text-primary fw-600">
+                                    Motivation to Improve
+                                 </h4>
+                                 <p>
+                                    Benefit from seamless integration with other trading tools and services, including CopyTrading and signal providers, to enhance your trading experience on the MT4 platform.
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="col-md-6 col-lg-4">
+                              <div class="main-feature">
+                                 <figure>
+                                    <img src="images/achievement.png" class="img-fluid">
+                                 </figure>
+                                 <h4 class="text-primary fw-600">
+                                    Recognition and Reputation
+                                 </h4>
+                                 <p>
+                                    Successful master traders can gain recognition and build a strong reputation within the trading community. This can lead to further opportunities, such as speaking engagements, partnerships, or even starting their own trading education platforms.
+                                 </p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="row">
+                           <div class="col-md-12">
+                              <div class="text-center mt-5">
+                                 <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register</a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
                </div>
             </div>
          </div>
