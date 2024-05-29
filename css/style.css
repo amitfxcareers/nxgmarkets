@@ -1146,9 +1146,7 @@ header .container-fluid {
 .how-copy-trading-works{
     padding: 80px 0;
     background: var(--black);
-}
-.bg_image{
-    background-image: url(https://www.nxgmarkets.com/wp-content/uploads/2024/01/Asset-30.png);
+    background-image: url(../images/copytrading_bg_image.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
