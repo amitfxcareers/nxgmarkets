@@ -1173,6 +1173,21 @@ header .container-fluid {
     color: var(--black);
 }
 
+/*ABOUT*/
+.about-nxg{
+    padding: 80px 0;
+}
+.powered_by_trading{
+    padding: 80px 0;
+    background: #EEEEEE;
+}
+.powered_by_trading ol li{
+    margin-bottom: 10px;
+}
+
+
+
+
 
 
 
