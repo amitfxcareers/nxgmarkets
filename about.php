@@ -112,7 +112,7 @@
 <!-- Powered by Trading -->
 <section class="powered_by_trading">
   <div class="container">
-    <div class="row">
+    <div class="row align-items-center">
       <div class="col-md-6">
         <img src="images/about-nxg.png" class="img-fluid">
       </div>
@@ -146,6 +146,112 @@
 </section>
 <!-- Powered by Trading -->
 
+<!-- What Makes Us NXG Markets -->
+<section class="what-makes-nxg">
+  <div class="container">
+    <div class="row gy-4">
+      <div class="col-md-12">
+        <h2 class="text-primary fw-800">
+          What Makes Us NXG Markets?
+        </h2>
+      </div>
+      <div class="col-md-6">
+        <div class="mission-content">
+          <h3 class="text-black fw-800">
+            Our Mission
+          </h3>
+          <p>
+            At NXG Markets, our mission is to equip traders worldwide with the knowledge, tools, and support needed for success. Through a dependable and ethical trading platform, we deliver outstanding customer service, innovative technologies, and comprehensive resources to assist traders in reaching their financial goals.
+          </p>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="mission-content">
+          <h3 class="text-black fw-800">
+            Our Vision
+          </h3>
+          <p>
+            Our Vision is to be the preferred choice for traders seeking a reliable and transparent trading experience globally. Recognized for exceptional trading conditions, advanced technologies, and unwavering dedication to customer satisfaction, NXG Markets aims to empower individuals to confidently navigate the financial markets.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row mt-5 gy-4 justify-content-center text-center">
+         <div class="col-lg-4">
+            <div class="main-feature">
+               <figure>
+                  <img src="images/integrity.png" class="img-fluid">
+               </figure>
+               <div class="feature-content">
+                  <h4 class="text-primary fw-600">
+                     Integrity
+                  </h4>
+                  <p>
+                     We uphold the highest standards of integrity and ethics in all our dealings with clients, partners, and stakeholders. Honesty, transparency, and fairness are the pillars of our business.
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6">
+            <div class="main-feature">
+               <figure>
+                  <img src="images/client-centric-approach.png" class="img-fluid">
+               </figure>
+               <div class="feature-content">
+                  <h4 class="text-primary fw-600">
+                     Client-Centric Approach
+                  </h4>
+                  <p>
+                     Our clients are central to our operations. We are dedicated to understanding their needs, providing exceptional customer service, and consistently surpassing their expectations.
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-6 col-lg-4">
+            <div class="main-feature">
+               <figure>
+                  <img src="images/innovation.png" class="img-fluid">
+               </figure>
+               <div class="feature-content">
+                  <h4 class="text-primary fw-600">
+                     Innovation
+                  </h4>
+                  <p>
+                     We embrace innovation and continuously explore new and improved ways to enhance our trading platform, services, and educational resources. Staying at the forefront of technological advancements ensures our clients experience the best trading environment.
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-6 col-lg-4">
+            <div class="main-feature">
+               <figure>
+                  <img src="images/knowledge-sharing.png" class="img-fluid">
+               </figure>
+               <h4 class="text-primary fw-600">
+                  Knowledge Sharing
+               </h4>
+               <p>
+                  We recognize the significance of knowledge and proactively provide our clients with valuable trading insights and educational resources. Our commitment is to empower traders, enabling them to make informed decisions and broaden their expertise in the financial markets.
+               </p>
+            </div>
+         </div>
+         <div class="col-md-6 col-lg-4">
+            <div class="main-feature">
+               <figure>
+                  <img src="images/trust-and-reliability.png" class="img-fluid">
+               </figure>
+               <h4 class="text-primary fw-600">
+                  Trust and Reliability
+               </h4>
+               <p>
+                  Trust forms the bedrock of our relationships. We aim to establish enduring partnerships built on trust, reliability, and mutual success. Clients can have confidence in our platform and services, knowing their trading journey is in safe hands.
+               </p>
+            </div>
+         </div>
+      </div>
+  </div>
+</section>
+<!-- What Makes Us NXG Markets -->
 
 <?php include_once('./include/why-nxg-markets.php') ?>
 <?php include_once('./include/multi-language-assistance.php') ?>
