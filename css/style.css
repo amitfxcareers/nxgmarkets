@@ -1242,6 +1242,17 @@ header .container-fluid {
     box-shadow: 1px 1px 1px 1px #b52c61;
     border: 1px solid var(--purple);
 }
+/*NXG Affiliates*/
+.nxg-affiliates{
+    padding: 80px 0;
+}
+.nxg-affiliates-two{
+    padding: 50px;
+/*    background: var(--purple);*/
+    background: url(../images/affiliiate.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 
 
