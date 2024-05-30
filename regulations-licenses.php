@@ -19,6 +19,83 @@
 </section>
 <!-- Banner -->
 
+<!-- Our Regulations & Licenses -->
+<section class="regulations-licenses">
+   <div class="container">
+      <div class="row text-center">
+         <p>
+            Welcome to NXG Markets, your gateway to the world’s largest and most traded online financial market, Forex.
+         </p>
+         <p>
+            Discover the advantages of trading with us:
+         </p>
+      </div>
+      <div class="row mt-4">
+         <div class="col-md-12 text-center">
+            <h5 class="text-black fw-600">
+               NXG Markets, Your Secure Trading Partner
+            </h5>
+            <h2 class="text-primary fw-800">
+               Our Regulations & Licenses
+            </h2>
+         </div>
+      </div>
+      <div class="row mt-4 regulations_list">
+         <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-2">
+                  <h2 class="text-primary fw-800">
+                     01
+                  </h2>
+               </div>
+               <div class="col-md-10">
+                  <div class="regulations-list">
+                     <h2 class="text-black fw-800">
+                        ASIC (Australian Securities and Investments Commission)
+                     </h2>
+                     <p>
+                        NXG Markets Pty Ltd, is registered in Australia with company registration number ABN 93 623 948 998. Authorised and regulated by the Australian Securities and Investments Commission (ASIC) for the general financial product advice License number 001308207.
+                     </p>
+                     <p>
+                        Address: L36 1 Macquarie Pl Sydney NSW 2000
+                     </p>
+                     <div class="get-in-touch mt-5 d-inline-block">
+                        <a href="https://nxgmarkets.com/wp-content/uploads/2024/03/download.pdf" target="_blank" class="theme-bttn"><i class="fa fa-phone" aria-hidden="true"></i>View Incorporation</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="row mt-5">
+               <div class="col-md-2">
+                  <h2 class="text-primary fw-800">
+                     02
+                  </h2>
+               </div>
+               <div class="col-md-10">
+                  <div class="regulations-list">
+                     <h2 class="text-black fw-800">
+                        MISA (MWALI International Services Authority)
+                     </h2>
+                     <p>
+                        NXG Markets Limited is authorized and regulated by the MISA (MWALI International Services Authority) for the brokarage services (License T2022091).
+                     </p>
+                     <p>
+                        Address: Bonovo Road – Fomboni Island of moheli – Comoros Union
+                     </p>
+                     <div class="get-in-touch mt-5 d-inline-block">
+                        <a href="https://my.nxgmarkets.com/auth/register" target="_blank" class="theme-bttn"><i class="fa fa-phone" aria-hidden="true"></i>View Incorporation</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+
+<!-- Our Regulations & Licenses -->
+
+
 <!-- Why Choose NXG Markets for Trading? -->
 <section class="why-trade-with-nxg">
    <div class="container">
