@@ -1197,6 +1197,52 @@ header .container-fluid {
     border-radius: 20px;
     border: 1px solid var(--light-black);
 }
+/*Contact Us*/
+.contact_us{
+    padding: 30px 0 80px;
+}
+.contact-icon{
+    padding: 10px;
+    background: var(--purple);
+    border-radius: 50%;
+    font-size: 25px;
+    color: #fff;
+    display: flex;
+}
+.contact_list{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.contact-icon2{
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 25px;
+    color: var(--purple);
+    display: flex;
+}
+.list-details h5, .list-details p{
+    margin: 0;
+}
+.contact_us_form{
+    padding: 80px 0;
+    background: #eee;
+}
+.contact_us_form li {
+    list-style: none;
+    float: left;
+    width: 50%;
+    margin-bottom: 30px;
+}
+.contact-form form input, .contact-form form textarea {
+    box-shadow: 1px 1px 1px 1px #b52c61;
+    border: 1px solid var(--purple);
+}
+.contact-form .form-control:focus {
+    box-shadow: 1px 1px 1px 1px #b52c61;
+    border: 1px solid var(--purple);
+}
+
 
 
 
