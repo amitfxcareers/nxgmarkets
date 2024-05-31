@@ -1248,10 +1248,8 @@ header .container-fluid {
 }
 .nxg-affiliates-two{
     padding: 50px;
-/*    background: var(--purple);*/
-    background: url(../images/affiliiate.png);
-    background-size: cover;
-    background-repeat: no-repeat;
+    background: var(--purple);
+    border-radius: 20px;
 }
 
 

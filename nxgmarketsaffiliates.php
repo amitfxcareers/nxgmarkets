@@ -54,8 +54,21 @@
 				<h2 class="text-white fw-800">
 					Our Transparent Commission Structure
 				</h2>
+				<!-- <img src="" class="img-fluid"> -->
 			</div>
-			<div class="col-md-6"></div>
+			<div class="col-md-6 tc">
+				<div class="transparent_commision">
+					<p class="text-white">
+						Earnings are as transparent as they are rewarding. With NXG Markets, our Affiliates enjoy competitive, volume-based commissions, paid out monthly. What’s more, we offer detailed performance tracking and reporting tools to help you keep tabs on your success.
+					</p>
+					<p class="text-white">
+						Get paid for every new trader you refer – it’s as simple as that!
+					</p>
+				</div>
+				<div class="get-in-touch mt-5">
+	               <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register Now</a>
+	            </div>
+			</div>
 		</div>
 	</div>
 </section>
