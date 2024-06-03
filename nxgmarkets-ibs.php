@@ -45,7 +45,7 @@
          </div>
 		</div>
 	</div>
-	<div class="container nxg-affiliates-two">
+	<div class="container nxg-affiliates-twoo">
 		<div class="row">
 			<div class="col-md-6">
 				<h5 class="text-white fw-600">
@@ -57,15 +57,14 @@
 				<p class="text-white">
 					Earnings are as transparent as they are rewarding. With NXG Markets, our Affiliates enjoy competitive, volume-based commissions, paid out monthly. What’s more, we offer detailed performance tracking and reporting tools to help you keep tabs on your success.
 				</p>
-				<!-- <img src="" class="img-fluid"> -->
+				<div class=" mt-5">
+	               <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register Now</a>
+	            </div>
 			</div>
 			<div class="col-md-6 tc">
 				<div class="transparent_commision">
-					
+					<img src="images/nxgmarkets-ibs.webp" class="img-fluid">
 				</div>
-				<div class="get-in-touch mt-5">
-	               <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register Now</a>
-	            </div>
 			</div>
 		</div>
 	</div>
