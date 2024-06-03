@@ -87,11 +87,11 @@
 <!-- Advantages -->
 <section class="advantages-section">
 	<div class="container">
-		<div class="row mt-5 gy-4 justify-content-center text-center">
+		<div class="row gy-4 justify-content-center text-center">
          <div class="col-lg-4">
-            <div class="main-feature">
+            <div class="main-features">
                <figure>
-                  <img src="images/enhanced-features.png" class="img-fluid">
+                  <img src="images/ds.png" class="img-fluid">
                </figure>
                <div class="feature-content">
                   <h4 class="text-primary fw-600">
@@ -104,9 +104,9 @@
             </div>
          </div>
          <div class="col-lg-4 col-md-6">
-            <div class="main-feature">
+            <div class="main-features">
                <figure>
-               		<img src="images/diverse-asset-classes.png" class="img-fluid">
+               		<img src="images/gdfn.png" class="img-fluid">
                </figure>
                <div class="feature-content">
 	               	<h4 class="text-primary fw-600">
@@ -119,9 +119,9 @@
             </div>
          </div>
          <div class="col-md-6 col-lg-4">
-            <div class="main-feature">
+            <div class="main-features">
                <figure>
-               		<img src="images/economic-calendar-integration.png" class="img-fluid">
+               		<img src="images/jh.png" class="img-fluid">
                </figure>
                <div class="feature-content">
 	               	<h4 class="text-primary fw-600">
@@ -134,9 +134,9 @@
             </div>
          </div>
          <div class="col-md-6 col-lg-4">
-            <div class="main-feature">
+            <div class="main-features">
                <figure>
-               		<img src="images/versatile-order-types.png" class="img-fluid">
+               		<img src="images/dsvg.png" class="img-fluid">
                </figure>
                <h4 class="text-primary fw-600">
                   Fully Automated Auto-Rebate System
@@ -147,9 +147,9 @@
             </div>
          </div>
          <div class="col-md-6 col-lg-4">
-            <div class="main-feature">
+            <div class="main-features">
             	<figure>
-            		<img src="images/mobile-trading.webp" class="img-fluid">
+            		<img src="images/sdv.png" class="img-fluid">
             	</figure>
                <h4 class="text-primary fw-600">
                   Competitive Conversions and High Client Retention
@@ -160,9 +160,9 @@
             </div>
          </div>
          <div class="col-lg-4">
-            <div class="main-feature">
+            <div class="main-features">
                <figure>
-                  <img src="images/enhanced-features.png" class="img-fluid">
+                  <img src="images/Asset-6-8-1.png" class="img-fluid">
                </figure>
                <div class="feature-content">
                   <h4 class="text-primary fw-600">
@@ -175,9 +175,9 @@
             </div>
          </div>
          <div class="col-lg-4 col-md-6">
-            <div class="main-feature">
+            <div class="main-features">
                <figure>
-               		<img src="images/diverse-asset-classes.png" class="img-fluid">
+               		<img src="images/fadb.png" class="img-fluid">
                </figure>
                <div class="feature-content">
 	               	<h4 class="text-primary fw-600">
@@ -190,9 +190,9 @@
             </div>
          </div>
          <div class="col-md-6 col-lg-4">
-            <div class="main-feature">
+            <div class="main-features">
                <figure>
-               		<img src="images/economic-calendar-integration.png" class="img-fluid">
+               		<img src="images/sd.png" class="img-fluid">
                </figure>
                <div class="feature-content">
 	               	<h4 class="text-primary fw-600">
@@ -205,9 +205,9 @@
             </div>
          </div>
          <div class="col-md-6 col-lg-4">
-            <div class="main-feature">
+            <div class="main-features">
                <figure>
-               		<img src="images/versatile-order-types.png" class="img-fluid">
+               		<img src="images/Asset-6-.png" class="img-fluid">
                </figure>
                <h4 class="text-primary fw-600">
                   Exclusive Contests
@@ -218,9 +218,9 @@
             </div>
          </div>
          <div class="col-md-6 col-lg-4">
-            <div class="main-feature">
+            <div class="main-features">
             	<figure>
-            		<img src="images/mobile-trading.webp" class="img-fluid">
+            		<img src="images/Asset-6-8.png" class="img-fluid">
             	</figure>
                <h4 class="text-primary fw-600">
                   Exclusive Promotions & Luxury Gifts
@@ -228,6 +228,13 @@
                <p>
                   NXG Markets offers a variety of ongoing promotions and bonus schemes to attract new clients, providing opportunities for increased conversions and benefits for partners.
                </p>
+            </div>
+         </div>
+      </div>
+      <div class="row mt-5">
+         <div class="col-md-12">
+            <div class="text-center">
+               <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register Now</a>
             </div>
          </div>
       </div>

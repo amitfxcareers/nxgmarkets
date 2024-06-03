@@ -1251,6 +1251,10 @@ header .container-fluid {
     background: var(--purple);
     border-radius: 20px;
 }
+/*Advantages*/
+.advantages-section{
+    padding: 80px 0;
+}
 
 
 
