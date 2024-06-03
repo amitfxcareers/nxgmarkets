@@ -1187,6 +1187,15 @@ header .container-fluid {
 .what-makes-nxg{
     padding: 80px 0;
 }
+.core-trading-values{
+    padding: 80px 0;
+    background: var(--purple);
+}
+.core-trading-content{
+    padding: 20px;
+    background: var(--black);
+    border-radius: 20px;
+}
 
 /*Regulations & Licenses*/
 .regulations-licenses{

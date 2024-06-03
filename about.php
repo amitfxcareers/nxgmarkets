@@ -143,6 +143,61 @@
    </div>
 </section>
 <!-- Powered by Trading -->
+
+<!-- Core Trading Values -->
+<section class="core-trading-values">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-6">
+            <h5 class="text-white fw-600">
+               Trading Environment
+            </h5>
+            <h2 class="text-white fw-800">
+               Core Trading Values
+            </h2>
+            <div class="container">
+               <div class="row gy-4 mt-3">
+                  <div class="col-md-6">
+                     <div class="core-trading-content">
+                        <h5 class="text-white fw-600">
+                           Trust
+                        </h5>
+                        <p class="text-white">
+                           Our commitment is to collaborate with the finest professionals in the industry. We prioritize the ongoing development of our team to guarantee clients receive prompt and accurate service 24/7.
+                        </p>
+                     </div>
+                  </div>
+                  <div class="col-md-6">
+                     <div class="core-trading-content">
+                        <h5 class="text-white fw-600">
+                           Trust
+                        </h5>
+                        <p class="text-white">
+                           Our commitment is to collaborate with the finest professionals in the industry. We prioritize the ongoing development of our team to guarantee clients receive prompt and accurate service 24/7.
+                        </p>
+                     </div>
+                  </div>
+                  <div class="col-md-6">
+                     <div class="core-trading-content">
+                        <h5 class="text-white fw-600">
+                           Trust
+                        </h5>
+                        <p class="text-white">
+                           Our commitment is to collaborate with the finest professionals in the industry. We prioritize the ongoing development of our team to guarantee clients receive prompt and accurate service 24/7.
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-6">
+            <img src="images/key-principle-06.png" class="img-fluid">
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Core Trading Values -->
+
 <!-- What Makes Us NXG Markets -->
 <section class="what-makes-nxg">
    <div class="container">
