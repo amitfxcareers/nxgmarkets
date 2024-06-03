@@ -54,7 +54,7 @@
 				<h2 class="text-white fw-800">
 					Our Transparent Commission Structure
 				</h2>
-				<!-- <img src="" class="img-fluid"> -->
+				<img src="images/affiliiate.webp" class="img-fluid">
 			</div>
 			<div class="col-md-6 tc">
 				<div class="transparent_commision">
