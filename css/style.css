@@ -1341,6 +1341,61 @@ header .container-fluid {
     text-align: center;
     border-radius: 20px;
 }
+/*Commission Structure*/
+.commission-structure{
+    padding: 80px 0;
+}
+.commission-structure .nav-tabs{
+    background: var(--purple);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+}
+.commission-structure .nav-tabs .nav-link{
+    border: none;
+    border-radius: 0;
+    color: #fff;
+    margin: 0;
+    padding: 20px 25px;
+    font-weight: 700;
+}
+.commission-structure .nav-tabs .nav-link.active{
+    background: var(--black);    
+}
+.commission-image {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.commission-image img{
+    margin-right: 10px;
+}
+.commission-table table tr:not(:last-child) td {
+    border: 0 !important;
+    border-bottom: 1px solid #e6e6e6 !important;
+}
+.commission-table table td{
+    padding: .7em 1em;
+}
+.commission-table table tr td:last-child {
+    text-align: end;
+}
+.commission-table table {
+    width: 100%;
+}
+.commission-table {
+    margin-bottom: 20px;
+}
+.commission-structure-details {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    padding: 30px;
+    border-radius: 20px;
+}
+
+
+
+
 
 
 
