@@ -11,6 +11,9 @@
 body{
     font-family: "Manrope", Sans-serif;
 }
+a{
+    text-decoration: none;
+}
 .fw-800{
     font-weight: 800;
 }
@@ -1295,11 +1298,38 @@ header .container-fluid {
 .blog-content{
     padding: 30px;
 }
+.blog-content-2{
+    padding: 10px;
+}
 .blog_list a{
     text-decoration: none;
 }
 .blog_list img{
     border-radius: 20px;
+}
+.sidebar-sticky {
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+.blog-detail-section{
+    padding: 80px 0;
+}
+.explore_blogs{
+    padding: 20px;
+    background: var(--purple);
+}
+.expolore_arrow{
+    display: inline-block;
+    margin: 0;
+    color: var(--white);
+}
+.explore_blogs i{
+    color: var(--white);
+    margin-left: 10px;
+}
+.blog-card .card-title{
+    color: var(--black);
 }
 
 
