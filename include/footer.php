@@ -379,12 +379,14 @@
 
 
 <script src="vendor/jquery/jquery.min.js"></script>
-<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- <script src="./vendor/font-awesome/js/all.min.js"></script> -->
 <script src="./vendor/owl-carousel/js/owl.carousel.js"></script>
 <script type="text/javascript" src="./js/youtube-popup.js"></script>
 <script src="./js/app.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))</script>
 <script>
   AOS.init();
 </script>
