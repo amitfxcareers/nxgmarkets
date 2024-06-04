@@ -1281,6 +1281,27 @@ header .container-fluid {
 .signup_for_trading{
     padding: 50px 0;
 }
+/*Blog List*/
+.blog-listing{
+    padding: 80px 0;
+    background: #EEEEEE;
+}
+.blog_list{
+    background: var(--white);
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .15);
+    border-radius: 20px;
+    height: 100%;
+}
+.blog-content{
+    padding: 30px;
+}
+.blog_list a{
+    text-decoration: none;
+}
+.blog_list img{
+    border-radius: 20px;
+}
+
 
 
 
