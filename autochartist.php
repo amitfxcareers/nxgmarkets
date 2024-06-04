@@ -94,7 +94,7 @@
 	            </div>
 	         </div>
 		</div>
-		<div class="row mt-5">
+		<div class="row mt-5 align-items-center">
 			<div class="col-md-6">
 				<img src="images/NXG-Markets-and-Autochartist.png" class="img-fluid">
 			</div>
