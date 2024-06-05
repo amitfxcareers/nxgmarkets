@@ -19,6 +19,34 @@
 </section>
 <!-- Banner -->
 
+<!-- Indices Intro -->
+<section class="trading-platform-intro">
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-md-6">
+            <p>
+               Trade indices effortlessly with NXG Markets, where a diverse range awaits you. Take advantage of our user-friendly platform and competitive conditions to explore the world of index trading. Start trading confidently and efficiently with us.
+            </p>
+            <h5 class="text-black fw-600">
+               Trade indices globally with ease and competitive conditions.
+            </h5>
+            <h2 class="text-primary fw-800">
+               What are Indices?
+            </h2>
+            <p>
+               Indices, representing groups of stocks from specific markets or sectors, offer a comprehensive view of market performance. Engaging in index trading allows you to speculate not only on the overall market but also on specific sectors, providing diverse opportunities for informed trading decisions.
+            </p>
+            <div class="mt-4">
+               <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register Now</a>
+            </div>
+         </div>
+         <div class="col-md-6">
+            <lottie-player src="images/lottie-json/forex.json" style="width: 100%; height: 450px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Indices Intro -->
 
 <!-- Why Trade Indices with NXG Markets? -->
 <section class="why-trade-with-nxg">

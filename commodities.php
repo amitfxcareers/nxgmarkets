@@ -18,6 +18,36 @@
 	</div>
 </section>
 <!-- Banner -->
+
+<!-- Commodities Intro -->
+<section class="trading-platform-intro">
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-md-6">
+            <p>
+               Start trading commodities with NXG Markets, where it’s easy and simple. Take advantage of our user-friendly platform and competitive conditions to explore the exciting world of commodities. Start trading confidently and efficiently with us.
+            </p>
+            <h5 class="text-black fw-600">
+               Trade commodities on the global financial market under competitive conditions.
+            </h5>
+            <h2 class="text-primary fw-800">
+               What are Commodities?
+            </h2>
+            <p>
+               Commodities are tangible goods like gold, oil, natural gas, and agricultural products. Trading commodities provides opportunities to profit from price movements in these essential resources.
+            </p>
+            <div class="mt-4">
+               <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register Now</a>
+            </div>
+         </div>
+         <div class="col-md-6">
+            <lottie-player src="images/lottie-json/commodities.json" style="width: 100%; height: 450px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Commodities Intro -->
+
 <!-- Why Trade Commodities with NXG Markets? -->
 <section class="why-trade-with-nxg">
    <div class="container">

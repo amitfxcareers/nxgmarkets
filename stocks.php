@@ -19,6 +19,34 @@
 </section>
 <!-- Banner -->
 
+<!-- Stocks Intro -->
+<section class="trading-platform-intro">
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-md-6">
+            <p>
+               Trade stocks effortlessly with NXG Markets, offering a diverse selection from global markets. Enjoy competitive trading conditions and comprehensive support, ensuring a user-friendly experience for successful stock trading. Start trading confidently and efficiently with us.
+            </p>
+            <h5 class="text-black fw-600">
+               Trade stocks in the global financial market with competitive conditions.
+            </h5>
+            <h2 class="text-primary fw-800">
+               What are Stocks?
+            </h2>
+            <p>
+               Stocks represent ownership in a company and are exchanged on stock markets. Trading stocks enables you to benefit from both price movements and company performance.
+            </p>
+            <div class="mt-4">
+               <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register Now</a>
+            </div>
+         </div>
+         <div class="col-md-6">
+            <lottie-player src="images/lottie-json/stocks.json" style="width: 100%; height: 450px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Stocks Intro -->
 
 <!-- Why Trade Stocks with NXG Markets? -->
 <section class="why-trade-with-nxg">

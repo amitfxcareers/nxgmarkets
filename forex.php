@@ -19,7 +19,7 @@
 </section>
 <!-- Banner -->
 <!-- Forex Intro -->
-<section class="forex-intro">
+<section class="trading-platform-intro">
    <div class="container">
       <div class="row align-items-center">
          <div class="col-md-6">
