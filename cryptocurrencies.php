@@ -19,6 +19,534 @@
 </section>
 <!-- Banner -->
 
+<!-- Cryptocurrencies Intro -->
+<section class="trading-platform-intro">
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-md-6">
+            <p>
+               Trade cryptocurrencies seamlessly with NXG Markets, offering a diverse range of digital assets. Enjoy competitive trading conditions and explore the dynamic world of crypto trading with ease. Start trading confidently and efficiently with us.
+            </p>
+            <h5 class="text-black fw-600">
+               Trade cryptocurrencies with NXG Markets under competitive conditions.
+            </h5>
+            <h2 class="text-primary fw-800">
+               What are Cryptocurrencies?
+            </h2>
+            <p>
+               Cryptocurrencies are digital currencies secured by cryptography, such as Bitcoin, Ethereum, and Litecoin. Trading these digital assets lets you speculate on their price changes and leverage market volatility for potential gains.
+            </p>
+            <div class="mt-4">
+               <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register Now</a>
+            </div>
+         </div>
+         <div class="col-md-6">
+            <lottie-player src="images/lottie-json/crypto.json" style="width: 100%; height: 450px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Cryptocurrencies Intro -->
+
+
+<!-- Forex Table -->
+<section class="forex-table">
+   <div class="container">
+      <div class="row">
+      	<div class="col-md-12 text-center">
+      		<h2 class="text-primary fw-800">
+      			Cryptocurrencies
+      		</h2>
+      	</div>
+         <div class="col-md-12 mt-3">
+            <table class="forex_table">
+               <thead>
+                  <tr class="uael-table-row">
+                     <th>
+                        Instrument symbol
+                     </th>
+                     <th>
+                        Instrument name
+                     </th>
+                     <th>
+                        Nominal value of the lot
+                     </th>
+                     <th>
+                        Size of one pip
+                     </th>
+                     <th>
+                        Trading hours (GMT+0)
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr class="uael-table-row">
+                     <td>
+                        ADAUSD
+                     </td>
+                     <td>
+                        Cardano vs US Dollar	
+                     </td>
+                     <td>
+                        10000 ADA
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        AVEUSD
+                     </td>
+                     <td>
+                        Aave vs US Dollar
+                     </td>
+                     <td>
+                        10 AVE
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        BCHBTC
+                     </td>
+                     <td>
+                        Bitcoin Cash vs US Bitcoin
+                     </td>
+                     <td>
+                        10 BCH
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        BCHUSD
+                     </td>
+                     <td>
+                        Bitcoin Cash vs US Dollar
+                     </td>
+                     <td>
+                        10 BCH
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        BSVUSD
+                     </td>
+                     <td>
+                        Bitcoin Cash SV vs US Dollar
+                     </td>
+                     <td>
+                        10 BSV
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        BTCEUR
+                     </td>
+                     <td>
+                        Bicton vs Euro
+                     </td>
+                     <td>
+                        1 BTC
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        BTCUSD
+                     </td>
+                     <td>
+                        Bitcoin vs US Dollar
+                     </td>
+                     <td>
+                        1 BTC
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        DOTUSD
+                     </td>
+                     <td>
+                        Polka Dot vs US Dollar
+                     </td>
+                     <td>
+                        100 DOT
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        DSHUSD
+                     </td>
+                     <td>
+                        Dash vs US Dollar
+                     </td>
+                     <td>
+                        10 DSH
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        EOSUSD
+                     </td>
+                     <td>
+                        EOS vs US dollar
+                     </td>
+                     <td>
+                        1000 EOS
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        ETHBTC
+                     </td>
+                     <td>
+                        Ethereum vs Bitcoin
+                     </td>
+                     <td>
+                        1 ETH
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        ETHUSD
+                     </td>
+                     <td>
+                        Ethereum vs US Dollar
+                     </td>
+                     <td>
+                        1 ETH
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        LNKUSD
+                     </td>
+                     <td>
+                        Link vs US Dollar
+                     </td>
+                     <td>
+                        100 LNK
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        LTCBTC
+                     </td>
+                     <td>
+                        Litecoin vs Bitcoin
+                     </td>
+                     <td>
+                        10 LTC
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        LTCUSD
+                     </td>
+                     <td>
+                        Litecoin vs US Dollar
+                     </td>
+                     <td>
+                        10 LTC
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        THTUSD
+                     </td>
+                     <td>
+                        Theta vs US Dollar
+                     </td>
+                     <td>
+                        1000 THT
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        TRXUSD
+                     </td>
+                     <td>
+                        Tron vs US Dollar
+                     </td>
+                     <td>
+                        10000 TRX
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        UNIUSD
+                     </td>
+                     <td>
+                        Uniswap vs US Dollar
+                     </td>
+                     <td>
+                        1000 UNI
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        VETUSD
+                     </td>
+                     <td>
+                        VeChain vs US Dollar
+                     </td>
+                     <td>
+                        10000 VET
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        XEMUSD
+                     </td>
+                     <td>
+                        Namecoin vs US Dollar
+                     </td>
+                     <td>
+                        10000 XEM
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        XLMUSD
+                     </td>
+                     <td>
+                        Stellar vs US Dollar
+                     </td>
+                     <td>
+                        10000 XLM
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        XMRUSD
+                     </td>
+                     <td>
+                        Monero vs US Dollar
+                     </td>
+                     <td>
+                        100 XMR
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        XRPEUR
+                     </td>
+                     <td>
+                        Ripple vs Euro
+                     </td>
+                     <td>
+                        10000 XRP
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        XRPUSD
+                     </td>
+                     <td>
+                        Ripple vs US Dollar
+                     </td>
+                     <td>
+                        10000 XRP
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        XTZUSD
+                     </td>
+                     <td>
+                        Tezos vs US Dollar
+                     </td>
+                     <td>
+                        1000 XTZ
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        DOGUSD
+                     </td>
+                     <td>
+                        Dogecoin vs US Dollar
+                     </td>
+                     <td>
+                        100000 DOG
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        BNBUSD
+                     </td>
+                     <td>
+                        Binance coin vs US Dollar
+                     </td>
+                     <td>
+                        1 BNB
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Forex Table -->
+
 <!-- Why Trade Cryptocurrencies with NXG Markets? -->
 <section class="why-trade-with-nxg">
    <div class="container">
