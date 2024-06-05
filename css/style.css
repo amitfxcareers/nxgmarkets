@@ -1466,6 +1466,38 @@ header .container-fluid {
     font-size: 40px;
     font-weight: 500;
 }
+/*Forex*/
+.forex-intro{
+    padding: 50px 0;
+}
+.forex-table{
+    padding: 0 0 50px 0;
+}
+table.forex_table {
+    width: 100%;
+    border-collapse: unset;
+    border: none;
+    border-spacing: 0px 10px;
+    text-align: center;
+}
+.forex_table .uael-table-row td, .forex_table .uael-table-row th{
+    padding: 20px 20px 20px 20px;
+
+}
+.forex_table tbody tr.uael-table-row {
+    outline: 1px solid #D6D6D6;
+    outline-offset: -1px;
+    border-radius: 15px;
+}
+.forex_table tbody tr:nth-child(even) {
+    background: #EFEFEF;
+}
+.forex_table tbody tr td:first-child {
+    border-radius: 15px 0 0 15px;
+}
+.forex_table tbody tr td:last-child {
+    border-radius: 0px 15px 15px 0px;
+}
 
 
 
