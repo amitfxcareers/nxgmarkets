@@ -50,7 +50,7 @@
 </section>
 <!-- Forex Intro -->
 <!-- Forex Table -->
-<section class="forex-table">
+<section class="trading-instruments-table">
    <div class="container">
       <div class="row">
          <div class="col-md-12">

@@ -50,7 +50,7 @@
 
 
 <!-- Forex Table -->
-<section class="forex-table">
+<section class="trading-instruments-table">
    <div class="container">
       <div class="row">
       	<div class="col-md-12 text-center">
@@ -111,7 +111,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -128,7 +128,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -145,7 +145,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -162,7 +162,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -179,7 +179,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -196,7 +196,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -213,7 +213,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -230,7 +230,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -247,7 +247,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -264,7 +264,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -281,7 +281,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -298,7 +298,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -315,7 +315,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -332,7 +332,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -349,7 +349,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -366,7 +366,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -383,7 +383,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -400,7 +400,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -417,7 +417,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -434,7 +434,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -451,7 +451,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -468,7 +468,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -485,7 +485,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -502,7 +502,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -519,7 +519,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                   <tr class="uael-table-row">
@@ -536,7 +536,7 @@
                         0.01
                      </td>
                      <td>
-                        00:00-23:59:59
+                        00:00-23:59
                      </td>
                   </tr>
                </tbody>

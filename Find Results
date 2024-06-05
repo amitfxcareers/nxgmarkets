@@ -1,0 +1,24 @@
+Searching 107 files for "forex-table"
+
+/Applications/XAMPP/xamppfiles/htdocs/nxgmarkets/cryptocurrencies.php:
+   51  
+   52  <!-- Forex Table -->
+   53: <section class="forex-table">
+   54     <div class="container">
+   55        <div class="row">
+
+/Applications/XAMPP/xamppfiles/htdocs/nxgmarkets/forex.php:
+   51  <!-- Forex Intro -->
+   52  <!-- Forex Table -->
+   53: <section class="forex-table">
+   54     <div class="container">
+   55        <div class="row">
+
+/Applications/XAMPP/xamppfiles/htdocs/nxgmarkets/css/style.css:
+ 1471      padding: 50px 0;
+ 1472  }
+ 1473: .forex-table{
+ 1474      padding: 0 0 50px 0;
+ 1475  }
+
+3 matches across 3 files
