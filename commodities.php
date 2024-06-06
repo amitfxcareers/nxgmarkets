@@ -48,6 +48,483 @@
 </section>
 <!-- Commodities Intro -->
 
+<!-- Forex Table -->
+<section class="trading-instruments-table">
+   <div class="container">
+      <div class="row">
+      	<div class="col-md-12 text-center">
+      		<h2 class="text-primary fw-800">
+      			Commodities
+      		</h2>
+      	</div>
+         <div class="col-md-12 mt-3">
+            <table class="forex_table">
+               <thead>
+                  <tr class="uael-table-row">
+                     <th>
+                        Instrument symbol
+                     </th>
+                     <th>
+                        Instrument name
+                     </th>
+                     <th>
+                        Nominal value of the lot
+                     </th>
+                     <th>
+                        Size of one pip
+                     </th>
+                     <th>
+                        Trading hours (GMT+0)
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr class="uael-table-row">
+                     <td>
+                        BRENT
+                     </td>
+                     <td>
+                        UK Oil
+                     </td>
+                     <td>
+                        Instrument level * USD 1000
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:05-21:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        BUND
+                     </td>
+                     <td>
+                        10-year German Bond
+                     </td>
+                     <td>
+                        Instrument level * EUR 1000
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:05-20:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        COCOA
+                     </td>
+                     <td>
+                        Cocoa
+                     </td>
+                     <td>
+                        Instrument level * USD 100
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        08:45-17:30
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        COFFEE
+                     </td>
+                     <td>
+                        Coffee
+                     </td>
+                     <td>
+                        Instrument level * USD 2000	
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        08:15-17:30
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        CORN
+                     </td>
+                     <td>
+                        Corn
+                     </td>
+                     <td>
+                        Instrument level * USD 500
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:05-12:45. 13:35-18:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        COTTON
+                     </td>
+                     <td>
+                        Cotton
+                     </td>
+                     <td>
+                        Instrument level * USD 500
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:30-18:20
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        NGAS
+                     </td>
+                     <td>
+                        Natural Gas
+                     </td>
+                     <td>
+                        Instrument level * USD 30000
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-21:00. 22:00-24:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        SOYBEAN
+                     </td>
+                     <td>
+                        Soybean
+                     </td>
+                     <td>
+                        Instrument level * USD 300
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:05-12:45. 13:35-18:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        SUGAR
+                     </td>
+                     <td>
+                        Sugar
+                     </td>
+                     <td>
+                        Instrument level * USD 1120
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        07:30-17:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        TNOTE
+                     </td>
+                     <td>
+                        10-year US Bond
+                     </td>
+                     <td>
+                        Instrument level * USD 1000
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-21:00. 22:35-24:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        WHEAT
+                     </td>
+                     <td>
+                        Wheat
+                     </td>
+                     <td>
+                        Instrument level * USD 400
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:05-12:45. 13:35-18:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        WTI
+                     </td>
+                     <td>
+                        US Oil
+                     </td>
+                     <td>
+                        Instrument level * USD 1000
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-21:00. 22:05-24:00
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <div class="row mt-4">
+      	<div class="col-md-12 text-center">
+      		<h2 class="text-primary fw-800">
+      			Spot Commodities
+      		</h2>
+      	</div>
+         <div class="col-md-12 mt-3">
+            <table class="forex_table">
+               <thead>
+                  <tr class="uael-table-row">
+                     <th>
+                        Instrument symbol
+                     </th>
+                     <th>
+                        Instrument name
+                     </th>
+                     <th>
+                        Nominal value of the lot
+                     </th>
+                     <th>
+                        Size of one pip
+                     </th>
+                     <th>
+                        Trading hours (GMT+0)
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr class="uael-table-row">
+                     <td>
+                        BRENT.spot
+                     </td>
+                     <td>
+                        UK Oil/spot
+                     </td>
+                     <td>
+                        Instrument level * USD 1000
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-21:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        NGAS.spot
+                     </td>
+                     <td>
+                        Natural Gas/spot
+                     </td>
+                     <td>
+                        Instrument level * USD 30000
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        22:00-00:00, 00:00-21:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        WTI.spot
+                     </td>
+                     <td>
+                        US Oil/spot
+                     </td>
+                     <td>
+                        Instrument level * USD 1000
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        22:00-00:00, 00:00-21:00
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <div class="row mt-4">
+      	<div class="col-md-12 text-center">
+      		<h2 class="text-primary fw-800">
+      			Metals
+      		</h2>
+      	</div>
+         <div class="col-md-12 mt-3">
+            <table class="forex_table">
+               <thead>
+                  <tr class="uael-table-row">
+                     <th>
+                        Instrument symbol
+                     </th>
+                     <th>
+                        Instrument name
+                     </th>
+                     <th>
+                        Nominal value of the lot
+                     </th>
+                     <th>
+                        Size of one pip
+                     </th>
+                     <th>
+                        Trading hours (GMT+0)
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr class="uael-table-row">
+                     <td>
+                        ALUMINIUM
+                     </td>
+                     <td>
+                        Aluminium
+                     </td>
+                     <td>
+                        Instrument level * USD 50
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:30-17:30
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        COPPER
+                     </td>
+                     <td>
+                        Copper
+                     </td>
+                     <td>
+                        Instrument level * USD 30
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:30-17:30
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        XAGUSD
+                     </td>
+                     <td>
+                        Silver troy ounce
+                     </td>
+                     <td>
+                        Instrument level * USD 5000
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        22:00-00:00, 00:00-21:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        XAUUSD
+                     </td>
+                     <td>
+                        Gold troy ounce
+                     </td>
+                     <td>
+                        Instrument level * USD 100
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        22:00-00:00, 00:00-21:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        XPTUSD
+                     </td>
+                     <td>
+                        Platinum troy ounce
+                     </td>
+                     <td>
+                        Instrument level * USD 100
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        22:00-00:00, 00:00-21:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        XPDUSD
+                     </td>
+                     <td>
+                        Palladium troy ounce
+                     </td>
+                     <td>
+                        Instrument level * USD 100
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        22:00-00:00, 00:00-21:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        ZINC
+                     </td>
+                     <td>
+                        Zinc
+                     </td>
+                     <td>
+                        Instrument level * USD 50
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:30-17:30
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Forex Table -->
+
 <!-- Why Trade Commodities with NXG Markets? -->
 <section class="why-trade-with-nxg">
    <div class="container">
