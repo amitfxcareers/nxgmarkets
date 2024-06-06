@@ -48,6 +48,538 @@
 </section>
 <!-- Stocks Intro -->
 
+<!-- Stocks Table -->
+<section class="trading-instruments-table">
+   <div class="container">
+      <div class="row">
+      	<div class="col-md-12 text-center">
+      		<h2 class="text-primary fw-800">
+      			Stocks
+      		</h2>
+      	</div>
+         <div class="col-md-12 mt-3">
+            <table class="forex_table">
+               <thead>
+                  <tr class="uael-table-row">
+                     <th>
+                        Instrument
+                     </th>
+                     <th>
+                        Instrument name
+                     </th>
+                     <th>
+                        Minimum Lot size
+                     </th>
+                     <th>
+                        Size of one Point
+                     </th>
+                     <th>
+                        Trading hours ( US Eastern Time)
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr class="uael-table-row">
+                     <td>
+                        Alibaba.US
+                     </td>
+                     <td>
+                        Alibaba Group Holdings
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        Amazon.US
+                     </td>
+                     <td>
+                        Amazon Inc
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        APA.US
+                     </td>
+                     <td>
+                        Apache corp
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        Apple.US
+                     </td>
+                     <td>
+                        Apple Inc
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        BOA.US
+                     </td>
+                     <td>
+                        Bank of America
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        Boeing.US
+                     </td>
+                     <td>
+                        The Boeing company
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        CITI.US
+                     </td>
+                     <td>
+                        Citigroup
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        Disney.US
+                     </td>
+                     <td>
+                        The Walt Disney Company
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        Ebay.US
+                     </td>
+                     <td>
+                        eBay Inc
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        Exxon.US
+                     </td>
+                     <td>
+                        Exxon Mobile
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        FB.US
+                     </td>
+                     <td>
+                        Facebook
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        Ferrari.US
+                     </td>
+                     <td>
+                        Ferrari
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        Ford.US
+                     </td>
+                     <td>
+                        Ford Motor Company
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        GM.US
+                     </td>
+                     <td>
+                        General Motors
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        GME.US
+                     </td>
+                     <td>
+                        Game Stop Corp
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        Google.US
+                     </td>
+                     <td>
+                        Alphabet Inc
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        Intel.US
+                     </td>
+                     <td>
+                        Intel US
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        JPM.US
+                     </td>
+                     <td>
+                        JPMorgan Chase & Co
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        LMT.US
+                     </td>
+                     <td>
+                        Lockheed Martin Corp
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        MRNA.US
+                     </td>
+                     <td>
+                        Moderna Inc
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        MSFT.US
+                     </td>
+                     <td>
+                        Microsoft Corporration
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        MSFT.US
+                     </td>
+                     <td>
+                        Microsoft Corporration
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        NFLX.US
+                     </td>
+                     <td>
+                        Netflix Inc
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        Pepsi.US
+                     </td>
+                     <td>
+                        Pepsico Inc
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        SBUX.US
+                     </td>
+                     <td>
+                        Starbucks Corporation
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        SNAP.US
+                     </td>
+                     <td>
+                        Snap Inc
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        TESLA.US
+                     </td>
+                     <td>
+                        Tesla Inc
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        WMT.US
+                     </td>
+                     <td>
+                        Walmart Stores Inc
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        ZM.US
+                     </td>
+                     <td>
+                        Zoom Video Communication
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        9:30 a.m. to 4:00 p.m.
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Stocks Table -->
+
 <!-- Why Trade Stocks with NXG Markets? -->
 <section class="why-trade-with-nxg">
    <div class="container">
