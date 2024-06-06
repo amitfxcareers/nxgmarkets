@@ -41,12 +41,712 @@
             </div>
          </div>
          <div class="col-md-6">
-            <lottie-player src="images/lottie-json/forex.json" style="width: 100%; height: 450px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+            <lottie-player src="images/lottie-json/indices.json" style="width: 100%; height: 450px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
          </div>
       </div>
    </div>
 </section>
 <!-- Indices Intro -->
+
+<!-- Indices Table -->
+<section class="trading-instruments-table">
+   <div class="container">
+      <div class="row">
+      	<div class="col-md-12 text-center">
+      		<h2 class="text-primary fw-800">
+      			Indices
+      		</h2>
+      	</div>
+         <div class="col-md-12 mt-3">
+            <table class="forex_table">
+               <thead>
+                  <tr class="uael-table-row">
+                     <th>
+                        Instrument symbol
+                     </th>
+                     <th>
+                        Instrument name
+                     </th>
+                     <th>
+                        Nominal value of the lot
+                     </th>
+                     <th>
+                        Size of one pip
+                     </th>
+                     <th>
+                        Trading hours (GMT+0)
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr class="uael-table-row">
+                     <td>
+                        AUS200
+                     </td>
+                     <td>
+                        ASX 200
+                     </td>
+                     <td>
+                        Instrument level * USD 25
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:05-06:30. 07:15-21:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        BRAIND
+                     </td>
+                     <td>
+                        IBrX 50
+                     </td>
+                     <td>
+                        Instrument level * USD 2
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        12:05-20:55
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        CHNIND
+                     </td>
+                     <td>
+                        Instrument level * USD 10
+                     </td>
+                     <td>
+                        10 BCH
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        01:20-04:00. 05:35-08:15. 09:20 -19:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        GER30
+                     </td>
+                     <td>
+                        DAX 30
+                     </td>
+                     <td>
+                        Instrument level * EUR 25
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:15-20:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        EU50
+                     </td>
+                     <td>
+                        Euro Stoxx 50
+                     </td>
+                     <td>
+                        Instrument level * EUR 10
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:15-20:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        FRA40
+                     </td>
+                     <td>
+                        CAC 40
+                     </td>
+                     <td>
+                        Instrument level * EUR 10
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:00-20:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        HKIND
+                     </td>
+                     <td>
+                        Hang-Seng
+                     </td>
+                     <td>
+                        Instrument level * USD 5
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        01:20-04:00, 05:35-08:15. 09:20-19:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        IND50
+                     </td>
+                     <td>
+                        Nifty 50
+                     </td>
+                     <td>
+                        Instrument level * USD 20
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        01:00-10:10. 10:40-21:15
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        ITA40
+                     </td>
+                     <td>
+                        FTSE MIB 40
+                     </td>
+                     <td>
+                        Instrument level * EUR 5
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        07:00-18:30
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        JAP225
+                     </td>
+                     <td>
+                        Nikkei 225
+                     </td>
+                     <td>
+                        EUR 100 000
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-23:59:59
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        KOSP200
+                     </td>
+                     <td>
+                        KOSPI 200
+                     </td>
+                     <td>
+                        Instrument level * USD 500
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:05-06:10
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        MEXIND
+                     </td>
+                     <td>
+                        IPC
+                     </td>
+                     <td>
+                        Instrument level * USD 3
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        13:30-19:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        RUS50
+                     </td>
+                     <td>
+                        RTS 50
+                     </td>
+                     <td>
+                        Instrument level * USD 100
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        07:05-15:45
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        SA40
+                     </td>
+                     <td>
+                        South Africa Top 40 Index
+                     </td>
+                     <td>
+                        Instrument level * USD 5
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:35-15:25
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        SPA35
+                     </td>
+                     <td>
+                        IBEX 35
+                     </td>
+                     <td>
+                        Instrument level * EUR 10
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:00-18:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        SUI20
+                     </td>
+                     <td>
+                        SMI
+                     </td>
+                     <td>
+                        Instrument level * USD 20
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:00-20:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        UK100
+                     </td>
+                     <td>
+                        FTSE 100
+                     </td>
+                     <td>
+                        Instrument level * GBP 10
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-20:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        US100
+                     </td>
+                     <td>
+                        E-mini Nasdaq 100
+                     </td>
+                     <td>
+                        Instrument level * USD 20
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-20:15. 20:30-21:00. 22:05-24:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        US30
+                     </td>
+                     <td>
+                        Mini-sized DJIA
+                     </td>
+                     <td>
+                        Instrument level * USD 5
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-20:15. 20:30-21:00. 22:05-24:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        US500
+                     </td>
+                     <td>
+                        E-mini S&P 500
+                     </td>
+                     <td>
+                        Instrument level * USD 50
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-20:15. 20:30-21:00. 22:05-24:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        US2000
+                     </td>
+                     <td>
+                        Russell 2000 Mini
+                     </td>
+                     <td>
+                        Instrument level * USD 200
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-21:00, 22:05-24:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        USDIDX
+                     </td>
+                     <td>
+                        Dollar Index
+                     </td>
+                     <td>
+                        Instrument level * USD 1000
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-21:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        VIX
+                     </td>
+                     <td>
+                        Volatilty Index
+                     </td>
+                     <td>
+                        Instrument level * USD 4000
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        22:00-00:00, 00:00-20:15
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        W20
+                     </td>
+                     <td>
+                        WIG 20
+                     </td>
+                     <td>
+                        Instrument level * PLN 20
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:45-14:50
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <div class="row mt-4">
+      	<div class="col-md-12 text-center">
+      		<h2 class="text-primary fw-800">
+      			Spot Indices
+      		</h2>
+      	</div>
+         <div class="col-md-12 mt-3">
+            <table class="forex_table">
+               <thead>
+                  <tr class="uael-table-row">
+                     <th>
+                        Instrument symbol
+                     </th>
+                     <th>
+                        Instrument name
+                     </th>
+                     <th>
+                        Nominal value of the lot
+                     </th>
+                     <th>
+                        Size of one pip
+                     </th>
+                     <th>
+                        Trading hours (GMT+0)
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr class="uael-table-row">
+                     <td>
+                        AUS200.spot
+                     </td>
+                     <td>
+                        ASX 200/spot
+                     </td>
+                     <td>
+                        Instrument level * USD 25
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-06:30. 07:10-21:00. 23:50-00:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        CHNIND.spot
+                     </td>
+                     <td>
+                        FTSE China A50/spot
+                     </td>
+                     <td>
+                        Instrument level * USD 10
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        01:00-08:30. 09:00-20:45
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        GER30.spot
+                     </td>
+                     <td>
+                        DAX 30/spot
+                     </td>
+                     <td>
+                        Instrument level * EUR 25
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00-21:00, 22:00-24:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        EU50.spot
+                     </td>
+                     <td>
+                        Euro Stoxx 50/spot
+                     </td>
+                     <td>
+                        Instrument level * EUR 10
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:00-20:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        FRA40.spot
+                     </td>
+                     <td>
+                        CAC 40/spot
+                     </td>
+                     <td>
+                        Instrument level * EUR 10
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:00-20:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        HKIND.spot
+                     </td>
+                     <td>
+                        Hang-Seng/spot
+                     </td>
+                     <td>
+                        Instrument level * USD 5
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        01:15-04:00. 05:00-08:30. 09:15-19:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        ITA40.spot
+                     </td>
+                     <td>
+                        FTSE MIB 40/spot
+                     </td>
+                     <td>
+                        Instrument level * EUR 5
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        07:00-15:40
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        JAP225.spot
+                     </td>
+                     <td>
+                        Nikkei 225/spot
+                     </td>
+                     <td>
+                        Instrument level * USD 10
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:05-17:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        SPA35.spot
+                     </td>
+                     <td>
+                        IBEX 35/spot
+                     </td>
+                     <td>
+                        Instrument level * EUR 10
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        06:00-18:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        UK100.spot
+                     </td>
+                     <td>
+                        FTSE 100/spot
+                     </td>
+                     <td>
+                        Instrument level * GBP 10
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        23:00-24:00, 00:00-22:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        US100.spot
+                     </td>
+                     <td>
+                        E-mini Nasdaq 100/spot
+                     </td>
+                     <td>
+                        Instrument level * USD 20
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00 -20:15. 20:30-21:00. 22:00-24:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        US30.spot
+                     </td>
+                     <td>
+                        Mini-sized DJIA/spot
+                     </td>
+                     <td>
+                        Instrument level * USD 5
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00 -20:15. 20:30-21:00. 22:00-24:00
+                     </td>
+                  </tr>
+                  <tr class="uael-table-row">
+                     <td>
+                        US500.spot
+                     </td>
+                     <td>
+                        E-mini S&P 500/spot
+                     </td>
+                     <td>
+                        Instrument level * USD 50
+                     </td>
+                     <td>
+                        0.01
+                     </td>
+                     <td>
+                        00:00 -20:15. 20:30-21:00. 22:00-24:00
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Indices Table -->
 
 <!-- Why Trade Indices with NXG Markets? -->
 <section class="why-trade-with-nxg">

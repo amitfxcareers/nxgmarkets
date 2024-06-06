@@ -49,7 +49,7 @@
 <!-- Cryptocurrencies Intro -->
 
 
-<!-- Forex Table -->
+<!-- Cryptocurrencies Table -->
 <section class="trading-instruments-table">
    <div class="container">
       <div class="row">
@@ -545,7 +545,7 @@
       </div>
    </div>
 </section>
-<!-- Forex Table -->
+<!-- Cryptocurrencies Table -->
 
 <!-- Why Trade Cryptocurrencies with NXG Markets? -->
 <section class="why-trade-with-nxg">
