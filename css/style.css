@@ -1498,6 +1498,10 @@ table.forex_table {
 .forex_table tbody tr td:last-child {
     border-radius: 0px 15px 15px 0px;
 }
+/*safety-of-funds*/
+.safety-of-funds{
+    padding: 80px 0;
+}
 
 
 
