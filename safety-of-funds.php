@@ -49,39 +49,36 @@
 		</div>
 		<div class="row mt-5">
 			<div class="col-md-6">
-        <div class="new-to-forex-trading">
-          <h4 class="text-secondary">
-            Negative Balance Protection
-          </h4>
-          <h2 class="text-primary">
-            Protection Against Market Uncertainties
-          </h2>
-          <p>
-            Engaging in trading within volatile markets presents inherent risks, such as the possibility of a negative balance. At NXG Markets, we offer negative balance protection to shield you from this risk. This ensures that you will stay within your initial investment loss, regardless of market conditions. It’s a crucial feature to seek in a forex broker, showcasing our commitment to prioritising your trading security.
-          </p>
-          <img src="images/protecting-you-from-market.png" class="img-fluid">
-          <div class="request-quote">
-            <a href="https://my.nxgmarkets.com/auth/register" class="theme-btn theme-btn2">Learn More</a>
-         </div>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div class="new-to-forex-trading">
-          <h4 class="text-secondary">
-            Market Updates
-          </h4>
-          <h2 class="text-primary">
-            Make Informed Trading Decisions
-          </h2>
-          <p>
-            Stay connected with the most recent market news, expert insights, and thorough analysis. Stay well-informed, maintain your competitive edge, and make decisive trading choices through our regularly updated market news section.
-          </p>
-          <img src="images/stay-ahead.webp" class="img-fluid">
-          <div class="request-quote">
-            <a href="https://my.nxgmarkets.com/auth/register" class="theme-btn theme-btn2">Learn More</a>
-         </div>
-        </div>
-      </div>
+	          <div class="safety-of-funds-content">
+	          	<h4 class="text-secondary fw-600">
+		            Negative Balance Protection
+		          </h4>
+		          <h2 class="text-primary fw-800">
+		            Protection Against Market Uncertainties
+		          </h2>
+		          <p class="m-0">
+		            Engaging in trading within volatile markets presents inherent risks, such as the possibility of a negative balance. At NXG Markets, we offer negative balance protection to shield you from this risk. This ensures that you will stay within your initial investment loss, regardless of market conditions. It’s a crucial feature to seek in a forex broker, showcasing our commitment to prioritising your trading security.
+		          </p>
+	          </div>
+	          <img src="images/protecting-you-from-market.png" class="img-fluid">
+	      </div>
+      	<div class="col-md-6">
+	          <div class="safety-of-funds-content">
+	          	<h4 class="text-secondary fw-600">
+		            Segregated Accounts
+		          </h4>
+		          <h2 class="text-primary fw-800">
+		            Foremost Security, Uniquely Protected
+		          </h2>
+		          <p class="m-0">
+		            When selecting a forex broker, prioritizing the security of your funds is essential. At NXG Markets, we secure your funds in segregated accounts at reputable financial institutions. This ensures your capital remains distinct from our operational funds, offering an extra layer of security. It reflects our dedication to transparency and trust, assuring you peace of mind throughout your trading experience.
+		          </p>
+	          </div>
+	          <img src="images/4W3EGR.png" class="img-fluid">
+	      </div>
+	      <div class="col-md-12 mt-5 text-center">
+	      	<a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register Now</a>
+	      </div>
 		</div>
 	</div>
 </section>
