@@ -184,7 +184,7 @@
                 <div class="join-image-box one text-center">
                     <img src="images/earning.png" class="img-fluid" width="30%">
                     <h4 class="text-primary fw-800 mt-3">
-                        Refer Clients
+                        Start Earning
                     </h4>
                     <p class="text-white">
                         Clear the minimum criteria and start earning as an NXG Markets IB.

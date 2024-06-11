@@ -1588,6 +1588,17 @@ table.forex_table {
     max-width: 900px;
     margin: 0 auto;
 }
+/*Trading Calculator*/
+.trading-calculator{
+    padding: 80px 0;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.funding-withdrawal{
+    padding: 80px 0;
+}
+
+
 
 
 
