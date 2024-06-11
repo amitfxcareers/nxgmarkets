@@ -1508,7 +1508,83 @@ table.forex_table {
     text-align: center;
     border-radius: 25px 25px 0 0;
 }
-
+/*Refer and Earn*/
+.refer-and-earn{
+    background-image: linear-gradient(90deg, var(--black) 10%, var(--purple) 100%);
+    padding: 100px 50px;
+}
+.refer-heading{
+    font-size: 60px;
+}
+.why-join-ib{
+    padding: 80px 0;
+}
+.ib-table td{
+    padding: 15px;
+}
+.ib-table tbody tr:nth-child(odd) {
+    background: #eaeaea;
+}
+.ib-table td {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var(--black);
+    width: 50%;
+}
+.ib-table table{
+    width: 100%;
+}
+.how-to-join{
+    padding: 80px 0;
+    background: var(--black);
+}
+.join-image-box p{
+    padding: 0 40px;
+}
+.join-image-box.one::after {
+    content: url(../images/arrow2.webp);
+    right: -3.5em;
+    top: 6em;
+    display: block;
+    position: absolute;
+}
+.join-image-box.one {
+    position: relative;
+}
+.start-referring{
+    padding: 80px 0;
+    background-color: var(--white);
+    background-image: url(https://www.nxgmarkets.com/wp-content/uploads/2024/03/worldsfirst_bg.png);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+}
+.start-referring::after{
+    content: "";
+/*    background-color: transparent;*/
+    background-image: linear-gradient(180deg, var(--white) 50%, #B52C61B0 100%);
+    opacity: 0.7;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+}
+.terms-conditions{
+    padding: 50px 0;
+    background: #F2F2F2;
+}
+.tnc-box{
+    border-radius: 5px 5px 5px 5px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.14);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+}
 
 
 
