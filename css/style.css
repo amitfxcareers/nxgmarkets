@@ -1534,6 +1534,9 @@ table.forex_table {
 .ib-table table{
     width: 100%;
 }
+.ib-table table img{
+    margin-right: 15px;
+}
 .how-to-join{
     padding: 80px 0;
     background: var(--black);
