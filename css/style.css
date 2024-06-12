@@ -1033,6 +1033,10 @@ header .container-fluid {
 /*Home*/
 
 /*Inner Banner*/
+
+.inner-banner.risk{
+    background-position: center;
+}
 .inner-banner{
     padding: 150px 0;
     background-position: right;
@@ -1595,6 +1599,10 @@ table.forex_table {
     margin: 0 auto;
 }
 .funding-withdrawal{
+    padding: 80px 0;
+}
+/*Risk disclosure*/
+.risk-disclosure{
     padding: 80px 0;
 }
 
