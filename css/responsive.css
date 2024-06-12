@@ -3,8 +3,131 @@
         display: none;
     }
 }
-@media(min-width:1200px) {
+
+@media(min-width:992px) {
     .mobile-menu-toggle {
+        display: none;
+    }
+}
+@media(min-width:360px){
+.logo-sec-f .col-sm-6{
+width: 49%;
+}
+
+}
+@media(max-width:991.98px) {
+    .banner_factoids li {
+        width: 33%;
+        float: left;
+        list-style: none;
+        padding: 0px 12px;
+        margin-bottom: 1.5rem;
+    }
+
+    .first-image {
+        width: 100%;
+    }
+
+    .last-image {
+        width: 36%;
+    }
+
+    .new-to-forex-trading {
+        padding: 30px;
+    }
+
+    .trade-markets-right {
+        margin-left: 0px;
+    }
+
+    .top-traded-markets {
+        padding: 50px 0 245px;
+    }
+
+    .navbar-brand img {
+        max-width: 135px;
+    }
+    .footer-logo{
+        max-width: 135px;
+    }
+}
+
+@media(max-width:767.98px) {
+    .banner_factoids li {
+        width: 50%;
+    }
+
+    .tabs-v {
+        flex-direction: column !important;
+    }
+
+    h2 {
+        font-size: 36px !important;
+    }
+
+    .new-to-forex-trading {
+        padding: 15px;
+    }
+
+    .top-traded-markets button {
+        text-align: left;
+        font-size: 20px;
+        border-radius: 13px 13px 13px 13px !important;
+        background: var(--purple) !important;
+        border-right: none;
+        padding: 15px 15px 15px 15px;
+        margin-bottom: 1rem;
+    }
+
+    .top-traded-markets button.active {
+        font-size: 20px;
+        border-radius: 13px 13px 13px 13px !important;
+        background: var(--purple) !important;
+        border-right: none;
+        padding: 15px 15px 15px 15px;
+        font-weight: 700;
+    }
+
+    .tabs-v .nav-pills {
+        width: 100%;
+    }
+
+    .trade-markets-right {
+        margin-left: 12px;
+    }
+
+    .copytrading-experts .copytrade-left {
+        padding: 30px 15px;
+    }
+
+    .start-trading-today-content {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .start-trading-today-content #angle_fa {
+        transform: rotate(90deg);
+    }
+
+    .last-image {
+        width: 18%;
+    }
+}
+
+@media(max-width:575.98px) {
+    .banner_factoids li {
+        width: 100%;
+    }
+    .social-media-icon{
+        float: left;
+    }
+}
+
+@media(max-width:424.98px) {
+    .multiple-buttons {
+        flex-direction: column;
+    }
+    .divi{
         display: none;
     }
 }

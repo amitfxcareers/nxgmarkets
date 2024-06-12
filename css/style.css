@@ -331,7 +331,7 @@ header .container-fluid {
 
 /*Footer*/
 .footer-section{
-    padding: 50px 50px 0;
+    padding: 50px 0px 0;
     border-top: 2px solid var(--purple);
 }
 .social-media-icon{
@@ -389,8 +389,8 @@ header .container-fluid {
     list-style: none;
 }
 .last-image{
-    width: 20%;
-    margin-left: 25%;
+    width: 26%;
+ 
 }
 .regulation_heading{
     color: var(--light-black);
@@ -822,10 +822,13 @@ header .container-fluid {
 .carousel-control-next, .carousel-control-prev{
     opacity: 1;
 }
-.banner-content-pointers h2{
-    font-size: 35px;
-    font-weight: 700;
+
+.banner-content-pointers h2 {
+        font-size: 46px;
+        font-weight: 700;
+        margin-bottom: 1.5rem;
 }
+
 .banner-content-pointers img{
     margin-right: 10px;
 }
@@ -882,7 +885,7 @@ header .container-fluid {
     border-radius: 10px;
 }
 .vertical_tabs_trade .tab-content p{
-    font-size: 28px;
+    font-size: 22px;
     margin: 0;
     padding: 10px;
 }
@@ -897,7 +900,7 @@ header .container-fluid {
     color: var(--purple);
 }
 .trade-markets h2, .trade-markets-right h2{
-    font-size: 45px;
+    font-size: 46px;
     font-weight: 800;
 }
 .trade-markets-right{
@@ -1024,7 +1027,7 @@ header .container-fluid {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 50px;
+    gap: 40px;
 }
 .start-trading-today-content #angle_fa{
     font-size: 50px;
@@ -1623,10 +1626,24 @@ table.forex_table {
 }
 
 
+/* b css */
+.banner-sec{
+    padding: 7% 0;
+}
+.mt-icon-boxx i{
+    font-size: 20px;
+}
 
-
-
-
+.divider{
+    border: 1px solid #ddd;
+    width: 100%;
+    display: flex;
+    
+}
+.getintouch-bt{
+width: 100%;
+    max-width: fit-content;
+}
 
 
 

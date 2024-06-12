@@ -22,7 +22,7 @@
          <nav class="navbar navbar-expand-lg p-0">
             <div class="container-fluid">
                <a class="navbar-brand" href="index.php">
-               <img src="images/nxgmarkets.webp" class="header-logo" alt="Logo" title="YaPrime Logo" height="70px">
+               <img src="images/nxg-logo.png" class="header-logo" alt="Logo" title="nxg Logo">
                </a>
                <button class="mobile-menu-toggle" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
                <span class="toggler-icon fa-solid fa-bars text-white"></span>

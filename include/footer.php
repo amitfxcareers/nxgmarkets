@@ -20,39 +20,42 @@
   <div class="container">
     <div class="row mb-4 align-items-center">
       <div class="col-md-5">
-        <h3 class="regulation_heading">Regulations & Licenses</h3>
+        <h3 class="regulation_heading mb-md-0 mb-4">Regulations & Licenses</h3>
       </div>
       <div class="col-md-7">
         <div class="container">
-          <div class="row align-items-center">
-            <div class="col-md-6">
-              <img src="images/asic-logo.png" class="img-fluid">
-            </div>
-            <div class="col-md-6">
+          <div class="row g-4 align-items-center">
+            <div class="col-md-12">
+              <div class="licenses-logo d-flex align-items-center">
+                <div>
+              <img src="images/asic-logo.png" class="img-fluid first-image" >
+              </div>
+              <div class="text-end">
               <img src="images/mwali.png" class="img-fluid last-image">
-            </div>
+              </div>
+            </div></div>
+           
           </div>
         </div>
       </div>
     </div>
     <hr class="footer_hr" />
-    <div class="row">
-      <div class="col-lg-6">
-        <img src="images/nxgmarkets.webp" class='footer-logo' height="80px" />
+    <div class="row g-4 align-items-center logo-sec-f">
+      <div class="col-sm-6">
+        <img src="images/nxg-logo.png" class='footer-logo' />
       </div>
-      <div class="col-lg-6">
+      <div class="col-sm-6">
         <div class="social-media-icon">
           <a href="#"> <i class="fa-brands fa-facebook"></i></a>
           <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
           <a href="#"> <i class="fa-brands fa-linkedin"></i></a>
           <a href="#"> <i class="fa-brands fa-instagram"></i></a>
-          <a href="#"> <i class="fa-brands fa-pinterest"></i></a>
-          <a href="#"> <i class="fa-brands fa-youtube"></i></a>
+      
         </div>
       </div>
     </div>
     <div class="row g-4 mt-4">
-      <div class="col-md-3">
+      <div class="col-md-3 col-sm-6">
         <div class="footer-links">
           <h6>Accounts</h6>
           <ul>
@@ -74,7 +77,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-md-3">
+      <div class="col-md-3 col-sm-6">
         <div class="footer-links">
           <h6>Instruments</h6>
           <ul>
@@ -111,7 +114,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-md-3">
+      <div class="col-md-3 col-sm-6">
         <div class="footer-links">
           <h6>Trading Platforms</h6>
           <ul>
@@ -133,7 +136,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-md-3">
+      <div class="col-md-3 col-sm-6">
         <div class="footer-links">
           <h6>About</h6>
           <ul>
@@ -170,7 +173,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-md-3">
+      <div class="col-md-3 col-sm-6">
         <div class="footer-links">
           <h6>Education</h6>
           <ul>
@@ -192,7 +195,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-md-3">
+      <div class="col-md-3 col-sm-6">
         <div class="footer-links">
           <h6>Partners</h6>
           <ul>
@@ -224,7 +227,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-md-3">
+      <div class="col-md-3 col-sm-6">
         <div class="footer-links">
           <h6>Trading Tools</h6>
           <ul>
@@ -382,11 +385,11 @@
 <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- <script src="./vendor/font-awesome/js/all.min.js"></script> -->
 <script src="./vendor/owl-carousel/js/owl.carousel.js"></script>
-<script type="text/javascript" src="./js/youtube-popup.js"></script>
-<script src="./js/app.js"></script>
+<!-- <script type="text/javascript" src="./js/youtube-popup.js"></script> -->
+<!-- <script src="./js/app.js"></script> -->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script>const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
-const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))</script>
+const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl));</script>
 <script>
   AOS.init();
 </script>
@@ -523,15 +526,7 @@ function myFunction() {
     });
     
 </script>
-<script type="text/javascript">
-  $(".carousel").swipe({
-                swipe: function (event, direction, distance, duration, fingerCount, fingerData) {
-                    if (direction == 'left') $(this).carousel('next');
-                    if (direction == 'right') $(this).carousel('prev');
-                },
-                allowPageScroll: "vertical" 
-            });
-</script>
+
 </body>
 
 </html>
