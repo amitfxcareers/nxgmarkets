@@ -271,10 +271,10 @@
       </div>
       <div class="col-md-6">
         <div class="copyrights">
-          <p><a href="disclaimer.php">Disclaimer</a> </p>
-          <p><a href="terms-conditions.php">Terms & Conditions</a></p>
-          <p><a href="privacy-policy.php">Privacy Policy</a></p>
-          <p><a href="refund-cancellation.php">Refund & Cancellation</a></p>
+          <p><a href="privacy-policy.php">Privacy policy</a> </p>
+          <p><a href="aml-policy.php">AML policy</a></p>
+          <p><a href="refund-policy.php">Refund Policy</a></p>
+          <p><a href="kyc-policy.php">KYC Policy</a></p>
         </div>
       </div>
     </div>
