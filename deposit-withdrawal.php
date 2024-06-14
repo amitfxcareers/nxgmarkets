@@ -11,13 +11,385 @@
                <p class="text-white">
                   Fast, Secure and Easy Deposit And Withdrawal Options.
                </p>
-               <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register</a>
+               <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register Now</a>
             </div>
          </div>
       </div>
    </div>
 </section>
 <!-- Banner -->
+
+<!-- Funding Options -->
+<section class="funding-option">
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-md-6">
+            <p>
+               Welcome to NXG Markets, your portal to the world’s largest and most actively traded online financial market, Forex.
+            </p>
+            <p>
+               Explore the benefits of trading with us:
+            </p>
+            <h5 class="fw-600">
+               Fast, secure and reliable transactions supported by top providers
+            </h5>
+            <h2 class="text-primary fw-800">
+               Funding Options
+            </h2>
+            <p>
+               At NXG Markets, funding your trading account has never been more convenient. We provide an array of secure and user-friendly funding methods to align with your preferences. Whether you opt for bank wire transfers, credit/debit cards, or e-wallets, we have you covered. Our simplified funding process ensures swift processing of your deposits, enabling you to commence trading promptly. Opt for NXG Markets for straightforward funding options and embark on your trading journey today.
+            </p>
+            <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register Now</a>
+         </div>
+         <div class="col-md-6">
+            <lottie-player src="images/lottie-json/funding-options.json" style="width: 100%; height: 400px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Funding Options -->
+
+<!-- Funding and Withdrawal Method -->
+<section class="deposit-withdrawal">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="which-trader-will">
+               <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+                  <li class="nav-item" role="presentation">
+                     <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Deposit Methods</button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                     <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab" aria-controls="profile" aria-selected="false">
+                     Withdrawal Methods
+                     </button>
+                  </li>
+               </ul>
+               <div class="tab-content" id="myTabContent">
+                  <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                     <div class="container">
+                        <div class="row mt-4">
+                           <div class="col-md-12 text-center">
+                              <p>
+                                 Note: No deposit charge, Fixed rate $1  = 75 INR
+                              </p>
+                           </div>
+                           <div class="col-md-12 text-center">
+                              <table class="forex_table dep-with-table">
+                                 <thead>
+                                    <tr class="uael-table-row">
+                                       <th>
+                                          Method
+                                       </th>
+                                       <th>
+                                          Regions covered
+                                       </th>
+                                       <th>
+                                          Deposit fee
+                                       </th>
+                                       <th>
+                                          Deposit time
+                                       </th>
+                                       <th>
+                                          *Note
+                                       </th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/ethereum.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          0
+                                       </td>
+                                       <td>
+                                          up to 1 hour
+                                       </td>
+                                       <td>
+                                          *Upload Screenshot in the CRM
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/altcoins.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          0
+                                       </td>
+                                       <td>
+                                          up to 1 hour
+                                       </td>
+                                       <td>
+                                          *Upload Screenshot in the CRM
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/perfect.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          0
+                                       </td>
+                                       <td>
+                                          up to 1 hour
+                                       </td>
+                                       <td>
+                                          *Upload Screenshot in the CRM
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/net-banking.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          0
+                                       </td>
+                                       <td>
+                                          up to 1 hour
+                                       </td>
+                                       <td>
+                                          *Upload Screenshot in the CRM
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/neteller.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          0
+                                       </td>
+                                       <td>
+                                          up to 1 hour
+                                       </td>
+                                       <td>
+                                          *Upload Screenshot in the CRM
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/skrill.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          0
+                                       </td>
+                                       <td>
+                                          up to 1 hour
+                                       </td>
+                                       <td>
+                                          *Upload Screenshot in the CRM
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/upi.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          0
+                                       </td>
+                                       <td>
+                                          up to 1 hour
+                                       </td>
+                                       <td>
+                                          *Upload Screenshot in the CRM
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/bank-transfer.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          0
+                                       </td>
+                                       <td>
+                                          up to 1 hour
+                                       </td>
+                                       <td>
+                                          *Upload Screenshot in the CRM
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                     <div class="container">
+                        <div class="row mt-4">
+                           <div class="col-md-12 text-center">
+                              <p>
+                                 Note: 1% Withdrawal charge, 24 hours withdrawal time
+                              </p>
+                           </div>
+                           <div class="col-md-12 text-center">
+                              <table class="forex_table dep-with-table">
+                                 <thead>
+                                    <tr class="uael-table-row">
+                                       <th>
+                                          Method
+                                       </th>
+                                       <th>
+                                          Regions covered
+                                       </th>
+                                       <th>
+                                          Withdrawal fee
+                                       </th>
+                                       <th>
+                                          Withdrawal time
+                                       </th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/ethereum.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          1%
+                                       </td>
+                                       <td>
+                                          24 hours
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/altcoins.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          1%
+                                       </td>
+                                       <td>
+                                          24 hours
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/perfect.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          1%
+                                       </td>
+                                       <td>
+                                          24 hours
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/net-banking.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          1%
+                                       </td>
+                                       <td>
+                                          24 hours
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/neteller.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          1%
+                                       </td>
+                                       <td>
+                                          24 hours
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/skrill.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          1%
+                                       </td>
+                                       <td>
+                                          24 hours
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/upi.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          1%
+                                       </td>
+                                       <td>
+                                          24 hours
+                                       </td>
+                                    </tr>
+                                    <tr class="uael-table-row">
+                                       <td>
+                                          <img src="images/bank-transfer.png" class="img-fluid">
+                                       </td>
+                                       <td>
+                                          All
+                                       </td>
+                                       <td>
+                                          1%
+                                       </td>
+                                       <td>
+                                          24 hours
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- Funding and Withdrawal Method -->
 
 <!-- Why Choose NXG Markets for Trading? -->
 <section class="why-trade-with-nxg">
