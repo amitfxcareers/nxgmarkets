@@ -149,7 +149,7 @@
                         <div class="accordion-body">
                            <p>To close the investment, navigate to Client Interface → Accounts → Investments, select the investment and click Deactivate (the cross to the right of the strategy name).<br>
                            If automatic deactivation was not enabled, wait for the Manager to approve the deactivation.<br>
-                           Closed strategies are displayed in the Closed section</p>
+                           Closed strategies are displayed in the Closed section.</p>
                         </div>
                      </div>
                   </div>
