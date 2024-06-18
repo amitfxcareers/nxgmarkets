@@ -1720,6 +1720,37 @@ width: 100%;
 .deposit-withdrawal .dep-with-table img{
     width: 90px;
 }
+/*FAQ*/
+.faq-section{
+    padding: 80px 0;
+}
+.faq-listing{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.faq-listing .accordion-button:not(.collapsed)::after {
+    content: '-';
+    background: none;
+}
+.faq-listing .accordion-button::after {
+    background: none;
+    content: '+';
+    font-size: 1.5rem;
+    line-height: 0.8rem;
+    text-align: center;
+}
+.faq-listing .accordion-button:not(.collapsed) {
+    background-color: var(--purple);
+    color: var(--white);
+}
+.faq-listing .accordion-button {
+    background: var(--purple);
+    color: var(--white);
+}
+.faq-listing .accordion-body {
+    background: var(--light-black);
+    color: #fff;
+}
 
 
 
