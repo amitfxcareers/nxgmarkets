@@ -3,9 +3,9 @@
       <div class="row">
          <div class="col-md-6">
             <div class="why-nxg-left">
-               <h4 class="text-white">
+               <h5 class="text-white">
                   Why NXG Markets?
-               </h4>
+               </h5>
                <h2 class="text-white">
                   Discover the NXG Markets Advantage: What Sets Us Apart?	
                </h2>
@@ -21,9 +21,9 @@
          </div>
          <div class="col-md-12">
             <div class="why-nxg-market text-center mt-4">
-               <h4 class="text-white">
+               <h5 class="text-white">
                   Sign Up
-               </h4>
+               </h5>
                <h2 class="text-white">
                   Start Trading in 3 Simple Steps
                </h2>

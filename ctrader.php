@@ -21,9 +21,9 @@
 <!-- Trading platform CTrader -->
 <section class="trading-platform">
    <div class="container">
-      <div class="row gy-4">
-         <div class="col-md-12">
-            <p class="text-center platform-intro">
+      <div class="row justify-content-center gy-4">
+         <div class="col-md-10">
+            <p class="text-center">
                Take your trading to the next level with MT5 at NXG Markets. Benefit from enhanced features, including additional charting tools and economic calendar integration. Access MT5 on desktop, web, and mobile devices to leverage its advanced capabilities. Register now and elevate your trading with MT5.
             </p>
          </div>
@@ -40,7 +40,7 @@
       </div>
       <div class="row mt-5">
          <div class="col-md-12 text-center">
-            <img src="images/ctrader-inner.png" class="img-fluid" width="60%">
+            <img src="images/ctrader-inner.png" class="img-fluid w-md-60 w-100" >
          </div>
       </div>
       <div class="row mt-5 gy-4 justify-content-center text-center">

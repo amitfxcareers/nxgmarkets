@@ -3,7 +3,7 @@
 <section class="inner-banner" style="background-image: url(images/about-banner.png);">
    <div class="container">
       <div class="row">
-         <div class="col-md-6">
+         <div class="col-md-8 col-lg-6">
             <div class="banner_content ">
                <h2 class="text-white">
                   About Us

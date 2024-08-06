@@ -3,7 +3,7 @@
 <section class="inner-banner" style="background-image: url(images/mt5_banner.webp);">
    <div class="container">
       <div class="row">
-         <div class="col-md-6">
+         <div class="col-md-8 col-lg-6">
             <div class="banner_content ">
                <h2 class="text-white">
                   Meta Trader 5
@@ -21,9 +21,9 @@
 <!-- Trading Platform -->
 <section class="trading-platform">
    <div class="container">
-      <div class="row gy-4">
-         <div class="col-md-12">
-            <p class="text-center platform-intro">
+      <div class="row justify-content-center gy-4">
+         <div class="col-md-10">
+            <p class="text-center">
                Take your trading to the next level with MT5 at NXG Markets. Benefit from enhanced features, including additional charting tools and economic calendar integration. Access MT5 on desktop, web, and mobile devices to leverage its advanced capabilities. Register now and elevate your trading with MT5.
             </p>
          </div>
@@ -34,11 +34,11 @@
                Trading Platform
             </h5>
             <h2 class="text-primary fw-800">
-               Advantages of Using<br>Meta Trader 5
+               Advantages of Using Meta Trader 5
             </h2>
          </div>
       </div>
-      <div class="row mt-4">
+      <div class="row g-4 mt-4">
          <div class="col-md-3">
             <div class="platform_links">
                <a href="#">
@@ -74,7 +74,7 @@
       </div>
       <div class="row mt-5">
          <div class="col-md-12 text-center">
-            <img src="images/metatrader5.png" class="img-fluid" width="60%">
+            <img src="images/metatrader5.png" class="img-fluid w-md-60 w-100" >
          </div>
       </div>
       <div class="row mt-5 gy-4 justify-content-center text-center">

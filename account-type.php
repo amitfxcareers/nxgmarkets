@@ -3,7 +3,7 @@
 <section class="inner-banner" style="background-image: url(images/trading_account_types_banner.webp);">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-lg-6 col-md-8">
 				<div class="banner_content ">
 					<h2 class="text-white">
 						Trading Account Types
@@ -337,7 +337,7 @@
 			</div>
 			<div class="col-md-6">
 				<div class="multi-landuage-right">
-					<h4 class="text-white">Free Demo Account</h4>
+					<h5 class="text-white">Free Demo Account</h5>
 					<h2 class="text-white">
 						Just Starting Out in Trading?
 					</h2>
@@ -359,12 +359,9 @@
 				<img src="images/account-type.png" alt="" class="img-fluid">
 			</div>
 			<div class="col-md-6">
-				<h4 class="text-black mb-4">
-					Trading Platforms
-				</h4>
+				<h5 class="text-black">Trading Platforms</h5>
 				<h2 class="text-secondary">
-				Select Your Trading Platform
-				</h2>
+				Select Your Trading Platform</h2>
 				<p>
 					Enjoy unparalleled trading freedom with NXG Markets. Benefit from top-tier
 					liquidity across leading platforms without any trading limits or volume
@@ -401,7 +398,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="mt-icon-boxx">
-					<h4 class="text-primary">NXG Markets Trader</h4>
+					<h5 class="text-primary">NXG Markets Trader</h5>
 					<div class="d-flex align-items-center justify-content-between">
 						<p class="text-black">Proprietary Platform with a Competitive Edge</p>
 						<a href="#"> <i class="fa fa-angle-right text-primary" aria-hidden="true"></i> </a>

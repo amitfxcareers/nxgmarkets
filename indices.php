@@ -3,7 +3,7 @@
 <section class="inner-banner" style="background-image: url(images/trading_indices_banner.webp);">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-md-8 col-lg-6">
 				<div class="banner_content ">
 					<h2 class="text-white">
 						Trading Indices
@@ -52,12 +52,12 @@
 <section class="trading-instruments-table">
    <div class="container">
       <div class="row">
-      	<div class="col-md-12 text-center">
+      	<div class="col-md-12 text-center table-respon">
       		<h2 class="text-primary fw-800">
       			Indices
       		</h2>
       	</div>
-         <div class="col-md-12 mt-3">
+         <div class="col-md-12 mt-3 table-respon">
             <table class="forex_table">
                <thead>
                   <tr class="uael-table-row">
@@ -497,7 +497,7 @@
       			Spot Indices
       		</h2>
       	</div>
-         <div class="col-md-12 mt-3">
+         <div class="col-md-12 mt-3 table-respon">
             <table class="forex_table">
                <thead>
                   <tr class="uael-table-row">
@@ -752,7 +752,7 @@
 <section class="why-trade-with-nxg">
    <div class="container">
       <div class="row align-items-center">
-         <div class="col-md-6">
+         <div class="col-lg-6">
             <div class="mb-5">
                <h4 class="text-white">
                   Trading Instruments
@@ -793,7 +793,7 @@
                <p class="description">Manage your funds seamlessly with our secure and convenient deposit and withdrawal options.</p>
             </div>
          </div>
-         <div class="col-md-6 text-center">
+         <div class="col-lg-6  d-lg-block d-none text-center">
             <img src="images/why-trade-forex.png" class="img-fluid" width="80%">
          </div>
       </div>
@@ -819,62 +819,62 @@
 					Indices are bundles of stocks from particular markets or sectors, offering a snapshot of market performance. Trading these indices is simple and advantageous, providing a way to speculate on the overall market or specific sectors. With user-friendly features, NXG Markets ensures a seamless experience in exploring and trading indices.
 				</p>
 			</div>
-			<div class="col-md-12">
-				<div class="trade-menu">
-					<ul class="trade-list">
-						<li>
-							<div class="image-boxx text-center">
-								<a href="forex.php">
-									<span>
-										<img src="images/forex.webp" class="img-fluid">
-									</span>
-									<h4>Forex</h4>
-								</a>
-							</div>
-						</li>
-						<li>
-							<div class="image-boxx text-center">
-								<a href="indices.php">
-									<span class="active">
-										<img src="images/indices.webp" class="img-fluid">
-									</span>
-									<h4>Indices</h4>
-								</a>
-							</div>
-						</li>
-						<li>
-							<div class="image-boxx text-center">
-								<a href="commodities.php">
-									<span>
-										<img src="images/comm.webp" class="img-fluid">
-									</span>
-									<h4>Commodities</h4>
-								</a>
-							</div>
-						</li>
-						<li>
-							<div class="image-boxx text-center">
-								<a href="stocks.php">
-									<span>
-										<img src="images/stocks.webp" class="img-fluid">
-									</span>
-									<h4>Stocks</h4>
-								</a>
-							</div>
-						</li>
-						<li>
-							<div class="image-boxx text-center">
-								<a href="cryptocurrencies.php">
-									<span>
-										<img src="images/cryptos.webp" class="img-fluid">
-									</span>
-									<h4>Cryptos</h4>
-								</a>
-							</div>
-						</li>
-					</ul>
-				</div>
-			</div>
+			<div class="col-md-12 mt-4">
+           
+               <ul class="trade-list">
+                  <li>
+                     <div class="image-boxx text-center">
+                        <a href="forex.php">
+                           <span class="active">
+                           <img src="images/forex.webp" class="img-fluid">
+                           </span>
+                           <h4>Forex</h4>
+                        </a>
+                     </div>
+                  </li>
+                  <li>
+                     <div class="image-boxx text-center">
+                        <a href="indices.php">
+                           <span>
+                           <img src="images/indices.webp" class="img-fluid">
+                           </span>
+                           <h4>Indices</h4>
+                        </a>
+                     </div>
+                  </li>
+                  <li>
+                     <div class="image-boxx text-center">
+                        <a href="commodities.php">
+                           <span>
+                           <img src="images/comm.webp" class="img-fluid">
+                           </span>
+                           <h4>Commodities</h4>
+                        </a>
+                     </div>
+                  </li>
+                  <li>
+                     <div class="image-boxx text-center">
+                        <a href="stocks.php">
+                           <span>
+                           <img src="images/stocks.webp" class="img-fluid">
+                           </span>
+                           <h4>Stocks</h4>
+                        </a>
+                     </div>
+                  </li>
+                  <li>
+                     <div class="image-boxx text-center">
+                        <a href="cryptocurrencies.php">
+                           <span>
+                           <img src="images/cryptos.webp" class="img-fluid">
+                           </span>
+                           <h4>Cryptos</h4>
+                        </a>
+                     </div>
+                  </li>
+               </ul>
+           
+         </div>
 		</div>
 	</div>
 </section>

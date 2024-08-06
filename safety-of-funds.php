@@ -3,7 +3,7 @@
 <section class="inner-banner" style="background-image: url(images/safety_of_funds_banner.webp);">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-md-8 col-lg-6">
 				<div class="banner_content ">
 					<h2 class="text-white">
 						Safety of Funds
@@ -47,12 +47,12 @@
 				<lottie-player src="images/lottie-json/fund-safety.json" style="width: 100%; height: 450px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
 			</div>
 		</div>
-		<div class="row mt-5">
+		<div class="row g-4 mt-5">
 			<div class="col-md-6">
 	          <div class="safety-of-funds-content">
-	          	<h4 class="text-secondary fw-600">
+	          	<h5 class="text-secondary fw-600">
 		            Negative Balance Protection
-		          </h4>
+		          </h5>
 		          <h2 class="text-primary fw-800">
 		            Protection Against Market Uncertainties
 		          </h2>
@@ -64,9 +64,9 @@
 	      </div>
       	<div class="col-md-6">
 	          <div class="safety-of-funds-content">
-	          	<h4 class="text-secondary fw-600">
+	          	<h5 class="text-secondary fw-600">
 		            Segregated Accounts
-		          </h4>
+		          </h5>
 		          <h2 class="text-primary fw-800">
 		            Foremost Security, Uniquely Protected
 		          </h2>

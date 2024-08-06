@@ -3,7 +3,7 @@
 <section class="inner-banner" style="background-image: url(images/funding_options_banner.webp);">
    <div class="container">
       <div class="row">
-         <div class="col-md-6">
+         <div class="col-md-8 col-lg-6">
             <div class="banner_content ">
                <h2 class="text-white">
                   Funding Options
@@ -30,10 +30,10 @@
             <p>
                Explore the benefits of trading with us:
             </p>
-            <h5 class="fw-600">
+            <h5>
                Fast, secure and reliable transactions supported by top providers
             </h5>
-            <h2 class="text-primary fw-800">
+            <h2 class="text-primary">
                Funding Options
             </h2>
             <p>
@@ -55,7 +55,7 @@
       <div class="row">
          <div class="col-md-12">
             <div class="which-trader-will">
-               <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+               <ul class="nav nav-tabs justify-content-center tabs-scroll" id="myTab" role="tablist">
                   <li class="nav-item" role="presentation">
                      <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Deposit Methods</button>
                   </li>
@@ -74,7 +74,8 @@
                                  Note: No deposit charge, Fixed rate $1  = 75 INR
                               </p>
                            </div>
-                           <div class="col-md-12 text-center">
+                           <div class="col-md-12 text-center table-respon">
+                              
                               <table class="forex_table dep-with-table">
                                  <thead>
                                     <tr class="uael-table-row">
@@ -234,7 +235,8 @@
                                     </tr>
                                  </tbody>
                               </table>
-                           </div>
+                              </div>
+                           
                         </div>
                      </div>
                   </div>
@@ -246,7 +248,8 @@
                                  Note: 1% Withdrawal charge, 24 hours withdrawal time
                               </p>
                            </div>
-                           <div class="col-md-12 text-center">
+                           <div class="col-md-12 text-center table-respon">
+                           
                               <table class="forex_table dep-with-table">
                                  <thead>
                                     <tr class="uael-table-row">
@@ -395,7 +398,7 @@
 <section class="why-trade-with-nxg">
    <div class="container">
       <div class="row align-items-center">
-         <div class="col-md-6">
+         <div class="col-lg-6">
             <div class="mb-5">
                <h2 class="text-white">
                   Why Choose NXG Markets for Trading?
@@ -430,7 +433,7 @@
                <p class="description">Benefit from a variety of deposit and withdrawal options, ensuring secure and straightforward fund management.</p>
             </div>
          </div>
-         <div class="col-md-6 text-center">
+         <div class="col-lg-6 d-none d-lg-block text-center">
             <img src="images/why-trade-forex.png" class="img-fluid" width="80%">
          </div>
       </div>

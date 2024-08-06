@@ -1,12 +1,12 @@
 <section class="multi-language">
 	<div class="container">
-		<div class="row align-items-center">
+		<div class="row g-4 align-items-center">
 			<div class="col-md-6">
-				<img src="images/support.png">
+				<img src="images/support.png" class="img-fluid">
 			</div>
 			<div class="col-md-6">
 				<div class="multi-landuage-right">
-					<h4 class="text-white">Multi-Language Assistance</h4>
+					<h5 class="text-white">Multi-Language Assistance</h5>
 					<h2 class="text-white">
 						Need Help?
 					</h2>

@@ -213,7 +213,7 @@
       <div class="col-lg-6">
         <div class="vertical_tabs_trade">
           <div class="trade-markets mb-4 text-center">
-            <h3 class="text-secondary">Markets to trade</h3>
+            <h5 class="text-secondary">Markets to trade</h5>
             <h2 class="text-primary">
               Top Traded Markets
             </h2>
@@ -268,9 +268,9 @@
       </div>
       <div class="col-lg-6">
         <div class="trade-markets-right">
-          <h4 class="text-secondary">
+          <h5 class="text-secondary">
             A Trusted Financial Markets Trading Platform
-          </h4>
+          </h5>
           <h2 class="text-primary">
             Premium Forex & CFD Trading
           </h2>
@@ -288,9 +288,9 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 copytrade-left">
-        <h4 class="text-white mb-3">
+        <h5 class="text-white mb-3">
           Copy Trading
-        </h4>
+        </h5>
         <h2 class="text-white mb-5">
           Copy Trading Experts Multiply Gains
         </h2>
@@ -319,9 +319,9 @@
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6">
-        <h4 class="text-black mb-4">
+        <h5 class="text-black mb-4">
           Multiple Trading Platforms
-        </h4>
+        </h5>
         <h2 class="text-secondary">
           Trade Across Different Platforms Effortlessly with NXG Markets
         </h2>

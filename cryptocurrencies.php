@@ -3,7 +3,7 @@
 <section class="inner-banner" style="background-image: url(images/trading_cryptocurrencies_banner.webp);">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-md-8 col-lg-6">
 				<div class="banner_content ">
 					<h2 class="text-white">
 						Trading Cryptocurrencies
@@ -58,7 +58,7 @@
       			Cryptocurrencies
       		</h2>
       	</div>
-         <div class="col-md-12 mt-3">
+         <div class="col-md-12 mt-3 table-respon">
             <table class="forex_table">
                <thead>
                   <tr class="uael-table-row">
@@ -551,7 +551,7 @@
 <section class="why-trade-with-nxg">
    <div class="container">
       <div class="row align-items-center">
-         <div class="col-md-6">
+         <div class="col-lg-6">
             <div class="mb-5">
                <h4 class="text-white">
                   Trading Instruments
@@ -592,7 +592,7 @@
                <p class="description">Manage your funds effortlessly with our secure and convenient deposit and withdrawal options specifically tailored for cryptocurrencies.</p>
             </div>
          </div>
-         <div class="col-md-6 text-center">
+         <div class="col-lg-6 text-center d-lg-block d-none">
             <img src="images/why-trade-forex.png" class="img-fluid" width="80%">
          </div>
       </div>
