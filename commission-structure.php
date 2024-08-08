@@ -33,7 +33,7 @@
             <div class="tab-content" id="nav-tabContent">
                <div class="tab-pane fade show active" id="nav-start" role="tabpanel" aria-labelledby="nav-start-tab">
                   <div class="container">
-                     <div class="row mt-4">
+                     <div class="row mt-4 g-4">
                         <div class="col-md-6">
                            <div class="commission-structure-details">
                               <div class="commission-image">
@@ -111,7 +111,7 @@
                </div>
                <div class="tab-pane fade" id="nav-pro" role="tabpanel" aria-labelledby="nav-pro-tab">
                   <div class="container">
-                     <div class="row mt-4">
+                     <div class="row mt-4 g-4">
                         <div class="col-md-6">
                            <div class="commission-structure-details">
                               <div class="commission-image">
@@ -189,7 +189,7 @@
                </div>
                <div class="tab-pane fade" id="nav-prime-account" role="tabpanel" aria-labelledby="nav-prime-account-tab">
                	<div class="container">
-                     <div class="row mt-4">
+                     <div class="row mt-4 g-4">
                         <div class="col-md-6">
                            <div class="commission-structure-details">
                               <div class="commission-image">

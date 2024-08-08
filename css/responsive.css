@@ -41,6 +41,7 @@
     .trade-list-ul li {
         width: 31%;
     }
+    
 }
 
 @media(max-width:991.98px) {
@@ -195,6 +196,14 @@
     .social-media-icon {
         float: left;
     }
+    .join-image-box.one::after {
+        display: none !important;
+    }
+    .contact_us_form li {
+       
+        width: 100%;
+    }
+    
 }
 
 @media(max-width:424.98px) {

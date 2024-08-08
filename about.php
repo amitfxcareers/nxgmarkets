@@ -148,7 +148,7 @@
 <section class="core-trading-values">
    <div class="container">
       <div class="row">
-         <div class="col-md-6">
+         <div class="col-lg-6">
             <h5 class="text-white fw-600">
                Trading Environment
             </h5>
@@ -190,7 +190,7 @@
                </div>
             </div>
          </div>
-         <div class="col-md-6">
+         <div class="col-lg-6">
             <img src="images/key-principle-06.png" class="img-fluid">
          </div>
       </div>

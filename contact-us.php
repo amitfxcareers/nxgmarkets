@@ -41,8 +41,8 @@
 				<lottie-player src="images/lottie-json/contact-us.json" style="width: 100%; height: 500px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
 			</div>
 		</div>
-		<div class="row mt-5">
-			<div class="col-md-3">
+		<div class="row mt-5 g-4">
+			<div class="col-xl-3 col-lg-6 col-md-6">
 				<div class="contact_list">
 					<div class="contact-icon">
 						<i class="fa fa-envelope" aria-hidden="true"></i>
@@ -57,7 +57,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-xl-3 col-lg-6 col-md-6">
 				<div class="contact_list">
 					<div class="contact-icon">
 						<i class="fa fa-envelope" aria-hidden="true"></i>
@@ -72,7 +72,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-xl-3 col-lg-6 col-md-6">
 				<div class="contact_list">
 					<div class="contact-icon">
 						<i class="fa fa-envelope" aria-hidden="true"></i>
@@ -87,7 +87,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-xl-3 col-lg-6 col-md-6">
 				<div class="contact_list">
 					<div class="contact-icon">
 						<i class="fa fa-envelope" aria-hidden="true"></i>

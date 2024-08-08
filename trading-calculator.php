@@ -108,7 +108,7 @@
       <div class="row">
          <div class="col-md-12">
             <div class="which-trader-will">
-               <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+               <ul class="nav nav-tabs justify-content-center tabs-scroll" id="myTab" role="tablist">
                   <li class="nav-item" role="presentation">
                      <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Funding Methods</button>
                   </li>
@@ -122,7 +122,7 @@
                   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                      <div class="container">
                         <div class="row mt-5">
-                           <div class="col-md-12 text-center">
+                           <div class="col-md-12 text-center table-respon">
                               <table class="forex_table">
                                  <thead>
                                     <tr class="uael-table-row">
