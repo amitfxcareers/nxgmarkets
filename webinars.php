@@ -22,12 +22,12 @@
 <!-- Webinars-->
 <section class="trading-webinars">
 	<div class="container">
-		<div class="row align-items-center">
+		<div class="row g-4 align-items-center">
 			<div class="col-md-6">
 				<h5 class="text-black">
 					Step ahead in Forex: Interactive Webinars
 				</h5>
-				<h2 class="text-primary fw-800">
+				<h2 class="text-primary">
 					Webinars
 				</h2>
 				<p>

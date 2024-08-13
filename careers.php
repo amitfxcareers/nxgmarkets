@@ -26,10 +26,10 @@
             <p>
                Start an exciting career with NXG Markets, a frontrunner in the financial industry. We’re seeking passionate individuals ready to excel in trading, technology, and customer service. Join our dynamic team and open doors to limitless opportunities for growth, learning, and professional evolution.
             </p>
-            <h5 class="fw-600">
+            <h5 class="">
                Leading Employer
             </h5>
-            <h2 class="text-primary fw-800">
+            <h2 class="text-primary ">
                Careers at NXG Markets
             </h2>
             <p>

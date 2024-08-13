@@ -83,11 +83,11 @@
 </section>
 <!-- Banner Factoids -End-->
 <!-- Trading Calculator -->
-<section class="trading-calculator">
+<section class="trading-calculator pb-0">
    <div class="container">
       <div class="row">
          <div class="col-md-12 text-center">
-            <h5 class="fw-600">
+            <h5 class="">
                Calculated Trading
             </h5>
             <h2 class="text-primary fw-800">

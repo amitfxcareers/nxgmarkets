@@ -47,7 +47,7 @@
 				<lottie-player src="images/lottie-json/fund-safety.json" style="width: 100%; height: 450px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
 			</div>
 		</div>
-		<div class="row g-4 mt-5">
+		<div class="row g-4 mt-md-5">
 			<div class="col-md-6">
 	          <div class="safety-of-funds-content">
 	          	<h5 class="text-secondary fw-600">

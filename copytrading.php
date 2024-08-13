@@ -186,7 +186,7 @@
                         <div class="row">
                            <div class="col-md-12">
                               <div class="text-center mt-5">
-                                 <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register</a>
+                                 <a href="https://copytrader.nxgmarkets.com/portal/registration/subscription" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Become A Follower</a>
                               </div>
                            </div>
                         </div>
@@ -285,7 +285,7 @@
                         <div class="row">
                            <div class="col-md-12">
                               <div class="text-center mt-5">
-                                 <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register</a>
+                                 <a href="https://copytrader.nxgmarkets.com/portal/registration/provider" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Become A Master</a>
                               </div>
                            </div>
                         </div>

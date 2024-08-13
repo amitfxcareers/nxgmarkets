@@ -40,11 +40,11 @@
 <section class="trading-tools">
 	<div class="container">
 		<div class="row gy-4 justify-content-center text-center">
-			<div class="col-md-12">
-				<h5 class="text-black fw-600">
+			<div class="col-md-12 mb-4">
+				<h5 class="text-black">
 					Market Leading Trading Tools
 				</h5>
-				<h2 class="text-primary fw-800">
+				<h2 class="text-primary ">
 					NXG Markets + Autochartist
 				</h2>
 			</div>
@@ -54,7 +54,7 @@
 	                  <img src="images/Advanced-Charting-Tools-8.png" class="img-fluid">
 	               </figure>
 	               <div class="feature-content">
-	                  <h4 class="text-primary fw-800">
+	                  <h4 class="text-primary ">
 	                     Automated Chart Pattern Recognition
 	                  </h4>
 	                  <p>
@@ -69,7 +69,7 @@
 	                  <img src="images/Customizable-Interface-8.png" class="img-fluid">
 	               </figure>
 	               <div class="feature-content">
-	                  <h4 class="text-primary fw-800">
+	                  <h4 class="text-primary ">
 	                     Market Risk Assessments
 	                  </h4>
 	                  <p>
@@ -84,7 +84,7 @@
 	                  <img src="images/Wide-Device-Compatibility-8.png" class="img-fluid">
 	               </figure>
 	               <div class="feature-content">
-	                  <h4 class="text-primary fw-800">
+	                  <h4 class="text-primary ">
 	                     Backtesting Capabilities
 	                  </h4>
 	                  <p>
@@ -94,28 +94,28 @@
 	            </div>
 	         </div>
 		</div>
-		<div class="row mt-5 align-items-center">
+		<div class="row g-4 mt-5 align-items-center">
 			<div class="col-md-6">
 				<img src="images/NXG-Markets-and-Autochartist.png" class="img-fluid">
 			</div>
 			<div class="col-md-6">
-				<h2 class="text-primary fw-800">
+				<h2 class="text-primary ">
 					NXG Markets and Autochartist : A Winning Combination
 				</h2>
 				<p>
 					NXG Markets recognizes the critical role that technical analysis plays in successful trading. By integrating Autochartist’s industry-leading technology, we provide our clients with an unparalleled suite of tools to gain a comprehensive understanding of market dynamics.
 				</p>
-				<div class="get-in-touch mt-5">
+				<div class="get-in-touch float-md-end float-start mt-5">
 	               <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-user" aria-hidden="true"></i>Register Now</a>
 	            </div>
 			</div>
 		</div>
 		<div class="row mt-5">
 			<div class="col-md-12">
-				<h5 class="text-black fw-600">
+				<h5 class="text-black ">
 					Benefits of NXG Markets' Autochartist Integration:
 				</h5>
-				<ul>
+				<ul style="padding-left: 20px;">
 					<li>
 						<b>Effortless Pattern Recognition</b>: Save valuable time and resources by leveraging Autochartist’s automated pattern identification capabilities.
 					</li>

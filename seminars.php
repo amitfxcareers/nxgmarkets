@@ -22,12 +22,12 @@
 <!-- Webinars-->
 <section class="trading-seminars">
 	<div class="container">
-		<div class="row align-items-center">
+		<div class="row g-4 align-items-center">
 			<div class="col-md-6">
-				<h5 class="text-black fw-600">
+				<h5 class="text-black">
 					Explore to maximize your skills with NXG Markets Seminars
 				</h5>
-				<h2 class="text-primary fw-800">
+				<h2 class="text-primary">
 					NXG Markets Seminars
 				</h2>
 				<p>

@@ -39,7 +39,7 @@
          </div>
       </div>
       <div class="row g-4 mt-4">
-         <div class="col-md-3">
+         <div class="col-md-3 col-sm-6">
             <div class="platform_links">
                <a href="#">
                   <i class='fab fa-app-store'></i>
@@ -47,7 +47,7 @@
                </a>
             </div>
          </div>
-         <div class="col-md-3">
+         <div class="col-md-3 col-sm-6">
             <div class="platform_links">
                <a href="#">
                   <i class="fab fa-android" aria-hidden="true"></i>
@@ -55,7 +55,7 @@
                </a>
             </div>
          </div>
-         <div class="col-md-3">
+         <div class="col-md-3 col-sm-6">
             <div class="platform_links">
                <a href="#">
                   <i class='fab fa-app-store'></i>
@@ -63,7 +63,7 @@
                </a>
             </div>
          </div>
-         <div class="col-md-3">
+         <div class="col-md-3 col-sm-6">
             <div class="platform_links">
                <a href="https://download.mql5.com/cdn/web/nxg.markets.limited/mt5/nxgmarkets5setup.exe">
                   <i class='fab fa-windows'></i>
@@ -78,7 +78,7 @@
          </div>
       </div>
       <div class="row mt-5 gy-4 justify-content-center text-center">
-         <div class="col-lg-4">
+         <div class="col-lg-4 col-md-6">
             <div class="main-feature">
                <figure>
                   <img src="images/enhanced-features.png" class="img-fluid">
@@ -108,7 +108,7 @@
                </div>
             </div>
          </div>
-         <div class="col-md-6 col-lg-4">
+         <div class="col-lg-4 col-md-6">
             <div class="main-feature">
                <figure>
                		<img src="images/economic-calendar-integration.png" class="img-fluid">
@@ -123,7 +123,7 @@
                </div>
             </div>
          </div>
-         <div class="col-md-6 col-lg-4">
+         <div class="col-lg-4 col-md-6">
             <div class="main-feature">
                <figure>
                		<img src="images/versatile-order-types.png" class="img-fluid">
@@ -136,7 +136,7 @@
                </p>
             </div>
          </div>
-         <div class="col-md-6 col-lg-4">
+         <div class="col-lg-4 col-md-6">
             <div class="main-feature">
             	<figure>
             		<img src="images/mobile-trading.webp" class="img-fluid">

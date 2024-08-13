@@ -87,8 +87,8 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-10 text-center">
-				<h5 class="text-black fw-600">NXG Markets Account Types</h5>
-				<h2 class="text-primary fw-800">Choose Your Preferred Account Type</h2>
+				<h5 class="text-black ">NXG Markets Account Types</h5>
+				<h2 class="text-primary ">Choose Your Preferred Account Type</h2>
 				<p>Experience unmatched flexibility with NXG Markets. Choose from a diverse range of currencies to add funds to your account and start your trading journey. We’ve simplified the process to make it straightforward, secure, and convenient, addressing your unique needs.</p>
 			</div>
 		</div>
@@ -102,7 +102,7 @@
 					<li>
 						<div class="price-wrapper">
 							<div class=" price-head  text-center">
-								<h2 class="text-primary fw-800">Start</h2>
+								<h2 class="text-primary ">Start</h2>
 								<p class="mb-2">Min Deposit from</p>
 								<h3>$25</h3>
 							</div>
@@ -158,7 +158,7 @@
 					<li>
 						<div class="price-wrapper">
 							<div class=" price-head  text-center">
-								<h2 class="text-primary fw-800">PRO</h2>
+								<h2 class="text-primary ">PRO</h2>
 								<p class="mb-2">Min Deposit from</p>
 								<h3>$1500</h3>
 							</div>
@@ -214,7 +214,7 @@
 					<li>
 						<div class="price-wrapper">
 							<div class=" price-head  text-center">
-								<h2 class="text-white fw-800">Prime</h2>
+								<h2 class="text-white ">Prime</h2>
 								<p class="mb-2 text-white">Min Deposit from</p>
 								<h3 class="text-white">$2500</h3>
 							</div>
@@ -270,7 +270,7 @@
 					<li>
 						<div class="price-wrapper">
 							<div class=" price-head  text-center">
-								<h2 class="text-primary fw-800">ECN</h2>
+								<h2 class="text-primary ">ECN</h2>
 								<p class="mb-2">Min Deposit from</p>
 								<h3>$5000</h3>
 							</div>
@@ -331,7 +331,7 @@
 <!-- Pricing table section -->
 <section class="multi-language">
 	<div class="container">
-		<div class="row align-items-center">
+		<div class="row g-4 align-items-center">
 			<div class="col-md-6">
 				<img src="images/01_New-to-Trading.png" class="img-fluid">
 			</div>
@@ -354,7 +354,7 @@
 </section>
 <section class="space-section multiple-trading-platforms">
 	<div class="container">
-		<div class="row align-items-center">
+		<div class="row g-4 align-items-center">
 			<div class="col-md-6">
 				<img src="images/account-type.png" alt="" class="img-fluid">
 			</div>
@@ -369,7 +369,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="row g-4 mt-5">
+		<div class="row g-4 mt-md-5 mt-4">
 			<div class="col-md-4">
 				<div class="mt-icon-boxx">
 					<h4 class="text-primary">Meta Trader 5</h4>
@@ -398,7 +398,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="mt-icon-boxx">
-					<h5 class="text-primary">NXG Markets Trader</h5>
+					<h4 class="text-primary">NXG Markets Trader</h4>
 					<div class="d-flex align-items-center justify-content-between">
 						<p class="text-black">Proprietary Platform with a Competitive Edge</p>
 						<a href="#"> <i class="fa fa-angle-right text-primary" aria-hidden="true"></i> </a>

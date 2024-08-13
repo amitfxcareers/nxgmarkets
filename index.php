@@ -211,7 +211,7 @@
   <div class="container">
     <div class="row g-4 align-items-center">
       <div class="col-lg-6">
-        <div class="vertical_tabs_trade">
+        <!-- <div class="vertical_tabs_trade">
           <div class="trade-markets mb-4 text-center">
             <h5 class="text-secondary">Markets to trade</h5>
             <h2 class="text-primary">
@@ -264,6 +264,108 @@
               </div>
             </div>
           </div>
+        </div> -->
+        <div class="trade-markets mb-4 text-center">
+            <h5 class="text-secondary">Markets to trade</h5>
+            <h2 class="text-primary">
+              Top Traded Markets
+            </h2>
+          </div>
+        <div class="tabs_with_accordion_wrapper d-md-flex gap-4 vertical_tabs_trade">
+
+
+          <!-- Nav Tabs List -->
+          <ul class="nav nav-tabs d-none d-md-block" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+              <button class="nav-link  active" id="#Forex-tab" data-bs-toggle="tab" data-bs-target="#Forex" type="button" role="tab" aria-controls="Forex" aria-selected="true">Forex</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link " id="Commodities-tab" data-bs-toggle="tab" data-bs-target="#Commodities" type="button" role="tab" aria-controls="Commodities" aria-selected="false">Commodities</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link " id="Indices-tab" data-bs-toggle="tab" data-bs-target="#Indices" type="button" role="tab" aria-controls="Indices" aria-selected="false">Indices</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link " id="Crypto-tab" data-bs-toggle="tab" data-bs-target="#Crypto" type="button" role="tab" aria-controls="Crypto" aria-selected="false">Crypto</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link " id="Stocks-tab" data-bs-toggle="tab" data-bs-target="#Stocks" type="button" role="tab" aria-controls="Stocks" aria-selected="false">Stocks</button>
+            </li>
+          </ul>
+
+          <!-- Nav Tabs Content -->
+          <div class="tab-content" id="myTabContent">
+            <div class="tab-pane accordion-item fade show active" id="Forex" role="tabpanel" aria-labelledby="Forex-tab">
+              <h2 class="accordion-header d-md-none" id="headingForex">
+                <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapseForex" aria-expanded="true" aria-controls="collapseForex">Forex</button>
+              </h2>
+              <div id="collapseForex" class="accordion-collapse collapse show" aria-labelledby="headingForex" data-bs-parent="#myTabContent">
+                <div class="accordion-body">
+                  <p>EUR/USD</p>
+                  <p>USD/IPY</p>
+                  <p>GBP/USD</p>
+                  <p>AUD/USD</p>
+                  <p><a href="forex.php">See all instruments <i class="fa fa-angle-right"></i></a></p>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane accordion-item fade" id="Commodities" role="tabpanel" aria-labelledby="Commodities-tab">
+              <h2 class="accordion-header d-md-none" id="headingCommodities">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCommodities" aria-expanded="false" aria-controls="collapseCommodities">Commodities</button>
+              </h2>
+              <div id="collapseCommodities" class="accordion-collapse collapse d-md-block" aria-labelledby="headingCommodities" data-bs-parent="#myTabContent">
+                <div class="accordion-body">
+                <p>XAU/USD (Gold)</p>
+                <p>XAG/USD (Silver)</p>
+                <p>BRENT (Crude Oil)</p>
+                <p>NGAS (Natural Gas)</p>
+                <p><a href="commodities.php">See all instruments <i class="fa fa-angle-right"></i></a></p>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane accordion-item fade" id="Indices" role="tabpanel" aria-labelledby="Indices-tab">
+              <h2 class="accordion-header d-md-none" id="headingIndices">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseIndices" aria-expanded="false" aria-controls="collapseIndices">Indices</button>
+              </h2>
+              <div id="collapseIndices" class="accordion-collapse collapse d-md-block" aria-labelledby="headingIndices" data-bs-parent="#myTabContent">
+                <div class="accordion-body">
+                <p>S&amp;P 500 (US)</p>
+                <p>Dow Jones Industrial Average (US)</p>
+                <p>FTSE 100 (UK)</p>
+                <p>DAX 30 (Germany)</p>
+                <p><a href="indices.php">See all instruments <i class="fa fa-angle-right"></i></a></p>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane accordion-item fade" id="Crypto" role="tabpanel" aria-labelledby="Crypto-tab">
+              <h2 class="accordion-header d-md-none" id="headingCrypto">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCrypto" aria-expanded="false" aria-controls="collapseCrypto">Crypto</button>
+              </h2>
+              <div id="collapseCrypto" class="accordion-collapse collapse d-md-block" aria-labelledby="headingCrypto" data-bs-parent="#myTabContent">
+                <div class="accordion-body">
+                <p>Bitcoin (BTC)</p>
+                <p>Ethereum (ETH)</p>
+                <p>Ripple (XRP)</p>
+                <p>Litecoin (LTC)</p>
+                <p><a href="cryptocurrencies.php">See all instruments <i class="fa fa-angle-right"></i></a></p>
+                </div>
+              </div>
+            </div>
+            <div class="tab-pane accordion-item fade" id="Stocks" role="tabpanel" aria-labelledby="Stocks-tab">
+              <h2 class="accordion-header d-md-none" id="headingStocks">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseStocks" aria-expanded="false" aria-controls="collapseStocks">Stocks</button>
+              </h2>
+              <div id="collapseStocks" class="accordion-collapse collapse d-md-block" aria-labelledby="headingStocks" data-bs-parent="#myTabContent">
+                <div class="accordion-body">
+                <p>Bitcoin (BTC)</p>
+                <p>Ethereum (ETH)</p>
+                <p>Ripple (XRP)</p>
+                <p>Litecoin (LTC)</p>
+                <p><a href="stocks.php">See all instruments <i class="fa fa-angle-right"></i></a></p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <div class="col-lg-6">
@@ -282,6 +384,7 @@
   </div>
 </section>
 <!-- Top Traded Markets -->
+
 
 <!-- Copy Trading -->
 <section class="copytrading-experts me-2 ms-2">
@@ -319,7 +422,7 @@
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6">
-        <h5 class="text-black mb-4">
+        <h5 class="text-black mb-3">
           Multiple Trading Platforms
         </h5>
         <h2 class="text-secondary">
@@ -332,15 +435,15 @@
         </p>
       </div>
     </div>
-    <div class="row g-4 mt-5">
+    <div class="row g-4 mt-md-5 mt-4">
       <div class="col-md-6">
         <div class="mt-icon-boxx">
           <h4 class="text-primary">Meta Trader 5</h4>
           <div class="d-flex align-items-center justify-content-between">
             <p class="text-black">Advanced Features, Exceptional Trading</p>
             <div class="">
-            <a href="mt5.php" > <i class="fa fa-angle-right text-primary" aria-hidden="true"></i>
-            </a>
+              <a href="mt5.php"> <i class="fa fa-angle-right text-primary" aria-hidden="true"></i>
+              </a>
             </div>
           </div>
         </div>
@@ -350,16 +453,16 @@
         <div class="mt-icon-boxx">
           <h4 class="text-primary">cTrader</h4>
           <div class="d-flex align-items-center justify-content-between">
-          <p class="text-black">User-Friendly Design, Powerful Trading</p>
-          <a href="mt5.php"> <i class="fa fa-angle-right text-primary" aria-hidden="true"></i> </a>
-        </div>
+            <p class="text-black">User-Friendly Design, Powerful Trading</p>
+            <a href="mt5.php"> <i class="fa fa-angle-right text-primary" aria-hidden="true"></i> </a>
+          </div>
         </div>
       </div>
       <div class="col-md-12 text-end">
         <div class="mt-5 d-flex align-items-center ">
           <div class="w-100 divi"><span class="divider"></span></div>
           <div class="getintouch-bt">
-          <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-phone" aria-hidden="true"></i>Get In Touch</a>
+            <a href="https://my.nxgmarkets.com/auth/register" class="theme-bttn"><i class="fa fa-phone" aria-hidden="true"></i>Get In Touch</a>
           </div>
         </div>
       </div>
@@ -369,15 +472,15 @@
 <!-- Multiple Trading Platforms -->
 
 <!-- Autochartist -->
-<section class="autochartist-trading-tools pb-sm-0 pb-5">
+<section class="autochartist-trading-tools pb-sm-0  pb-xsm-0 pb-5">
   <div class="container">
     <div class="row g-4 align-items-center">
-      <div class="col-md-6">
+      <div class="col-lg-6   text-center order-lg-1 order-2">
         <img src="images/autochartist-nxg.png" class="img-fluid" width="80%">
       </div>
-      <div class="col-md-6">
+      <div class="col-lg-6 order-lg-2 order-1">
         <div class="autochartist_content_right">
-          <h4 class="text-primary">Powerful Trading Tools</h4>
+          <h5 class="text-primary">Powerful Trading Tools</h5>
           <h2 class="text-secondary">
             Empower Your Trading Decisions with Next-Level Technical Analysis
           </h2>
@@ -401,9 +504,9 @@
     <div class="row">
       <div class="col-md-6">
         <div class="why-nxg-left">
-          <h4 class="text-white">
+          <h5 class="text-white">
             Why NXG Markets?
-          </h4>
+          </h5>
           <h2 class="text-white">
             Discover the NXG Markets Advantage: What Sets Us Apart?
           </h2>
@@ -419,9 +522,9 @@
       </div>
       <div class="col-md-12">
         <div class="why-nxg-market text-center mt-4">
-          <h4 class="text-white">
+          <h5 class="text-white">
             Sign Up
-          </h4>
+          </h5>
           <h2 class="text-white">
             Start Trading in 3 Simple Steps
           </h2>
@@ -515,9 +618,9 @@
     <div class="row g-4">
       <div class="col-md-6">
         <div class="new-to-forex-trading">
-          <h4 class="text-secondary">
+          <h5 class="text-secondary">
             Forex Education
-          </h4>
+          </h5>
           <h2 class="text-primary">
             New to Forex Trading?
           </h2>
@@ -532,9 +635,9 @@
       </div>
       <div class="col-md-6">
         <div class="new-to-forex-trading">
-          <h4 class="text-secondary">
+          <h5 class="text-secondary">
             Market Updates
-          </h4>
+          </h5>
           <h2 class="text-primary">
             Make Informed Trading Decisions
           </h2>

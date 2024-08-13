@@ -27,10 +27,10 @@
 				<p>
 					Experience the synergy of collaborating with NXG Markets, a distinguished Forex broker. Leverage our platform’s reputation and comprehensive suite of trading products to diversify your income stream.
 				</p>
-				<h5 class="text-black fw-600">
+				<h5 class="text-black ">
 					Start Earning Today
 				</h5>
-				<h2 class="text-primary fw-800">
+				<h2 class="text-primary ">
 					About NXG Markets Affiliates
 				</h2>
 				<p>
@@ -46,12 +46,12 @@
 		</div>
 	</div>
 	<div class="container nxg-affiliates-two">
-		<div class="row">
+		<div class="row g-4">
 			<div class="col-md-6">
-				<h5 class="text-white fw-600">
+				<h5 class="text-white ">
 					Affiliate Payout Terms
 				</h5>
-				<h2 class="text-white fw-800">
+				<h2 class="text-white ">
 					Our Transparent Commission Structure
 				</h2>
 				<img src="images/affiliiate.webp" class="img-fluid">

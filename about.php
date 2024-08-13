@@ -87,10 +87,10 @@
    <div class="container">
       <div class="row">
          <div class="col-md-6">
-            <h5 class="text-black fw-600">
+            <h5 class="text-black ">
                About NXG Markets
             </h5>
-            <h2 class="text-primary fw-800">
+            <h2 class="text-primary ">
                Who We Are
             </h2>
             <p>
@@ -115,13 +115,13 @@
             <img src="images/about-nxg.png" class="img-fluid">
          </div>
          <div class="col-md-6">
-            <h2 class="text-primary fw-800">
+            <h2 class="text-primary ">
                Powered By Trading,<br>Dedicated To You.
             </h2>
             <h3>
                We are one of the most trusted and reputable forex trading brokers with strong foundations.
             </h3>
-            <ol>
+            <ol style="padding-left: 20px;">
                <li>
                   Exceptional 24-hour customer service to meet your needs.
                </li>
@@ -149,17 +149,17 @@
    <div class="container">
       <div class="row">
          <div class="col-lg-6">
-            <h5 class="text-white fw-600">
+            <h5 class="text-white ">
                Trading Environment
             </h5>
-            <h2 class="text-white fw-800">
+            <h2 class="text-white ">
                Core Trading Values
             </h2>
             <div class="container">
                <div class="row gy-4 mt-3">
                   <div class="col-md-6">
                      <div class="core-trading-content">
-                        <h5 class="text-white fw-600">
+                        <h5 class="text-white ">
                            Trust
                         </h5>
                         <p class="text-white">
@@ -169,7 +169,7 @@
                   </div>
                   <div class="col-md-6">
                      <div class="core-trading-content">
-                        <h5 class="text-white fw-600">
+                        <h5 class="text-white ">
                            Trust
                         </h5>
                         <p class="text-white">
@@ -179,7 +179,7 @@
                   </div>
                   <div class="col-md-6">
                      <div class="core-trading-content">
-                        <h5 class="text-white fw-600">
+                        <h5 class="text-white ">
                            Trust
                         </h5>
                         <p class="text-white">
@@ -203,15 +203,15 @@
    <div class="container">
       <div class="row">
          <div class="col-md-12">
-            <h2 class="text-primary fw-800">
+            <h2 class="text-primary ">
                What Makes Us NXG Markets?
             </h2>
          </div>
       </div>
       <div class="row align-items-center">
-         <div class="col-md-6">
+         <div class="col-md-6 order-md-1 order-2">
             <div class="mission-content">
-               <h3 class="text-black fw-800">
+               <h3 class="text-black ">
                   Our Mission
                </h3>
                <p>
@@ -219,17 +219,17 @@
                </p>
             </div>
          </div>
-         <div class="col-md-6">
+         <div class="col-md-6 order-md-2 order-1">
             <lottie-player src="images/lottie-json/our-mission.json" style="width: 100%; height: 400px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
          </div>
       </div>
       <div class="row align-items-center">
-         <div class="col-md-6">
+         <div class="col-md-6 order-md-1 order-2">
             <lottie-player src="images/lottie-json/our-vision.json" style="width: 100%; height: 400px" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
          </div>
-         <div class="col-md-6">
+         <div class="col-md-6 order-md-1 order-2">
             <div class="mission-content">
-               <h3 class="text-black fw-800">
+               <h3 class="text-black ">
                   Our Vision
                </h3>
                <p>
@@ -245,7 +245,7 @@
                   <img src="images/integrity.png" class="img-fluid">
                </figure>
                <div class="feature-content">
-                  <h4 class="text-primary fw-600">
+                  <h4 class="text-primary ">
                      Integrity
                   </h4>
                   <p>
@@ -260,7 +260,7 @@
                   <img src="images/client-centric-approach.png" class="img-fluid">
                </figure>
                <div class="feature-content">
-                  <h4 class="text-primary fw-600">
+                  <h4 class="text-primary ">
                      Client-Centric Approach
                   </h4>
                   <p>
@@ -275,7 +275,7 @@
                   <img src="images/innovation.png" class="img-fluid">
                </figure>
                <div class="feature-content">
-                  <h4 class="text-primary fw-600">
+                  <h4 class="text-primary ">
                      Innovation
                   </h4>
                   <p>
@@ -289,7 +289,7 @@
                <figure>
                   <img src="images/knowledge-sharing.png" class="img-fluid">
                </figure>
-               <h4 class="text-primary fw-600">
+               <h4 class="text-primary ">
                   Knowledge Sharing
                </h4>
                <p>
@@ -302,7 +302,7 @@
                <figure>
                   <img src="images/trust-and-reliability.png" class="img-fluid">
                </figure>
-               <h4 class="text-primary fw-600">
+               <h4 class="text-primary ">
                   Trust and Reliability
                </h4>
                <p>

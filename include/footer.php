@@ -5,12 +5,12 @@
         <h3 class="regulation_heading text-center">Subscribe to our Newsletter</h3>
       </div>
     </div>
-    <div class="row">
+    <div class="row g-4">
       <div class="col-md-7">
         <img src="images/refer-and-earn.png" class="img-fluid">
       </div>
       <div class="col-md-5">
-        <iframe style="height: 100%; width: 100%;" src="https://reports.autochartist.com/signup/market-reports?bid=898&user=email&demo=0&locale=en&expire=1759356000&token=186c5230aa31539b6560a2ddb0596162"></iframe>
+        <iframe style="min-height:500px;height: 100%; width: 100%;" src="https://reports.autochartist.com/signup/market-reports?bid=898&user=email&demo=0&locale=en&expire=1759356000&token=186c5230aa31539b6560a2ddb0596162"></iframe>
       </div>
     </div>
   </div>
@@ -266,18 +266,18 @@
     	<b>Restricted Regions</b>: NXG Markets Limited does not provide services for citizens/residents of the United States, Cuba, Iraq, Myanmar, North Korea & Sudan. The services of NXG Markets Limited are not intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation. <a class="risk_disclosure" href="risk-disclosure.php">Risk disclosure</a>
     </p>
     <hr class="footer_hr" />
-    <div class="row">
+    <div class="row g-2 py-2">
       <div class="col-md-6">
-        <div class="copyrights">
-          <p class="mb-3">© 2024 <a href="https://www.nxgmarkets.com/">NXG Markets</a>. All Rights Reserved.</p>
+        <div class="copyrights justify-content-start">
+          <p class="mb-0">© 2024 <a href="https://www.nxgmarkets.com/">NXG Markets</a>. All Rights Reserved.</p>
         </div>
       </div>
       <div class="col-md-6">
-        <div class="copyrights">
-          <p><a href="privacy-policy.php">Privacy policy</a> </p>
-          <p><a href="aml-policy.php">AML policy</a></p>
-          <p><a href="refund-policy.php">Refund Policy</a></p>
-          <p><a href="kyc-policy.php">KYC Policy</a></p>
+        <div class="copyrights copyrights2 justify-content-end">
+          <p class="mb-0"><a href="privacy-policy.php">Privacy policy</a> </p>
+          <p class="mb-0"><a href="aml-policy.php">AML policy</a></p>
+          <p class="mb-0"><a href="refund-policy.php">Refund Policy</a></p>
+          <p class="mb-0"><a href="kyc-policy.php">KYC Policy</a></p>
         </div>
       </div>
     </div>

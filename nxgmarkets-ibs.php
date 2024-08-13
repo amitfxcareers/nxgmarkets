@@ -27,10 +27,10 @@
 				<p>
 					At NXG Markets, we appreciate partnerships and collaborations that drive mutual growth. Our Introducing Broker (IB) program is designed to benefit financial firms and professionals aiming to grow their network and boost their income.
 				</p>
-				<h5 class="text-black fw-600">
+				<h5 class="text-black ">
 					Partner with NXG Markets Today
 				</h5>
-				<h2 class="text-primary fw-800">
+				<h2 class="text-primary ">
 					About Introducing Brokers
 				</h2>
 				<p>
@@ -46,12 +46,12 @@
 		</div>
 	</div>
 	<div class="container nxg-affiliates-twoo">
-		<div class="row">
+		<div class="row g-4">
 			<div class="col-md-6">
-				<h5 class="text-white fw-600">
+				<h5 class="text-white ">
 					IB Payout Terms
 				</h5>
-				<h2 class="text-white fw-800">
+				<h2 class="text-white ">
 					How We Reward Our Introducing Brokers
 				</h2>
 				<p class="text-white">
