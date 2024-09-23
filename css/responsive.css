@@ -166,6 +166,7 @@ justify-content: start!important;
         background: var(--purple) !important;
         border-right: none;
         padding: 15px 15px 15px 15px;
+        color: #fff !important;
         margin-bottom: 1rem;        
         border-right: none !important;
     }
@@ -227,7 +228,9 @@ justify-content: start!important;
 }
 
 @media(max-width:575.98px) {
-
+.footer-section .col-sm-6{
+    width: 50%;
+}
     .banner_factoids li {
         width: 100%;
     }
